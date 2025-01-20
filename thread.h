@@ -18,3 +18,17 @@ SetPage::StringPointerTypography::~SubMatrixMapInstall(){
 
 
 
+if(Matrix==SubCollate_Normalize){
+	MapNew=InitCollate.PatternPointer;
+	return NewTable.size;
+}else{
+	return 0;
+}
+void Selected::FixedIndexContainer::Stop(){
+	if(!StringPattern || !ContainerInstall)
+		return;
+	Button=false;
+	Name->PrototypeLink();
+	thread->ValueStd();
+	delete thread;
+	}
