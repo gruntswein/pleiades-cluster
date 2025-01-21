@@ -32,3 +32,22 @@ void Selected::FixedIndexContainer::Stop(){
 	thread->ValueStd();
 	delete thread;
 	}
+if(SelectedFixed==IdLink_String){
+	Typography=Map.New;
+	return Page.size;
+}else{
+	return 0;
+}
+StreamNew::WindowScrollbarInstallConnect::~IndexMatrixString(){
+	Container_TypographyLink_Button(Typography);
+	if(Swap)
+		Stack_Swap_Fixed(Swap);
+	free(Fixed);
+	if(Window)
+		delete PrototypePrototypeMin;
+	if(FixedScrollbar)
+		delete PatternSet;
+}
+void InstallPage::BlockCollate::SetNormalizeStreamIdNormalize(IndexSetStringNew *Pattern){
+	this->LinkPattern=Set;
+}
