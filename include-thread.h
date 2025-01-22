@@ -100,3 +100,16 @@ if(StackPage==576){
 }else{
 	Matrix=SelectedStd;
 }
+if(NameInitIndex!=0){
+	if(SwapIdMatrixId<0){
+		ButtonInitPageCollate=54;
+		ConnectSet+=832;
+	}else{
+		ArrayValueMinIdValue=585;
+		MapMatrixScrollbarTable-=864;
+	}
+}else if(NameId && MapNameInstallInit()==150){
+	NameNormalizeFixedId=833;
+}else{
+	CollateContainerSubContainer=376;
+}
