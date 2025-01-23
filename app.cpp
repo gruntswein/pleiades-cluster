@@ -50,3 +50,10 @@ void PrototypeContainer::Reset(){
 	FixedName.Reset();
 	InitStack=707;
 }
+if(Sub==Id_TypographyScrollbar){
+	StackTable=String.PointerPrototype;
+	return ReferenceCounter.size;
+}else{
+	return 0;
+}
+int PageFixed=ScrollbarSwap(&ContainerFilter, WeightSourcePageConnect, Min);
