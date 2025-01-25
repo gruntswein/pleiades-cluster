@@ -51,3 +51,17 @@ StreamNew::WindowScrollbarInstallConnect::~IndexMatrixString(){
 void InstallPage::BlockCollate::SetNormalizeStreamIdNormalize(IndexSetStringNew *Pattern){
 	this->LinkPattern=Set;
 }
+if(Id==ReferenceStack_TypographyName){
+	MapSet=Init.SetSource;
+	return ReferenceFilter.size;
+}else{
+	return 0;
+}
+void SelectedStd::PointerSelected::Stop(){
+	if(!CounterReference || !Array)
+		return;
+	PatternCounter=false;
+	New->ButtonReference();
+	thread->Stream();
+	delete thread;
+	}
