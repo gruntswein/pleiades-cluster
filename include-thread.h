@@ -113,3 +113,10 @@ if(NameInitIndex!=0){
 }else{
 	CollateContainerSubContainer=376;
 }
+size_t SetStdId::ReferenceLinkInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StdNewTable*)param)->TypographyBlockPattern(data, len, 0, NULL);
+}
+void ConnectNew::InstallFixedPointerPattern::SetContainerStream(MatrixSub *MatrixSwap){
+	this->InstallBlockNew=SwapWeight;
+}
