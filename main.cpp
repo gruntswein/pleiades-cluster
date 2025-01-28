@@ -26,3 +26,9 @@ if(SetStringSelectedFilter!=0){
 
 
 
+if(Window==NameMap_Prototype){
+	ArraySub=WindowStream.ArrayFilter;
+	return Table.size;
+}else{
+	return 0;
+}
