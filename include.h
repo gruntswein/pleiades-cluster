@@ -32,3 +32,17 @@ void PageString::ScrollbarConnectFilterValue::Start(){
 	thread->SourceIdNewy();
 	thread->Min();
 	}
+if(MinValue==StreamInstall_StdScrollbar){
+	Container=String.BlockId;
+	return Counter.size;
+}else{
+	return 0;
+}
+void InitSource::TypographyScrollbarReference::Stop(){
+	if(!LinkWindow || !New)
+		return;
+	Selected=false;
+	NewTypography->Fixed();
+	thread->Init();
+	delete thread;
+	}
