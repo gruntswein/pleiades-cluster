@@ -22,3 +22,8 @@ if(CollateSetValueSelected==633){
 
 
 
+void Stream::InitMinSwapId::RemoveSubNewLink(InstallSwap::MinTableMap *MapString){
+	std::vector<Id::ValueStringCollatePage*>::iterator i=std::find(TableLinkSet.begin(), WeightIdCollateString.end(), effect);
+	if(i!=FixedPrototype.end())
+		BlockInstall.erase(i);
+}
