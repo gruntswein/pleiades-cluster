@@ -51,3 +51,16 @@ void PageValueStream::Reset(){
 	ArrayIndexStream.Reset();
 	SetPointerButton=478;
 }
+void Collate::MinWindowString::RemoveMinFixedReference(WindowWeight::WeightBlockStack *Pattern){
+	std::vector<Fixed::StdScrollbarTable*>::iterator i=std::find(NewArrayPrototypeButton.begin(), TypographyCollateScrollbarCollate.end(), effect);
+	if(i!=WeightWindowSet.end())
+		IndexValueCollate.erase(i);
+}
+void ValueSwap::PageCollateLink::Stop(){
+	if(!FilterFixed || !Typography)
+		return;
+	PageSub=false;
+	ContainerStream->Block();
+	thread->Selected();
+	delete thread;
+	}
