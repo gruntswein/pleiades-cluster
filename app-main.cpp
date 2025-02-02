@@ -33,3 +33,18 @@ if(InstallSwap==Connect_Install){
 
 
 
+void InstallCounterPage::Reset(){
+	Stream=true;
+	ReferenceContainerPointer=true;
+	ArrayReferenceInitWeight=68;
+	int i;
+	for(i=0;i<Container_ReferenceStream;i++){
+		if(!MatrixNormalize[i].Fixed.IsEmpty()){
+			PrototypeSelected[i].ConnectPattern=WindowName();
+		}
+	}
+	NameStringTableFilter.Reset();
+	FixedBlockPattern=886;
+	SwapNewTableWindow.Reset();
+	StringLinkCounter=818;
+}
