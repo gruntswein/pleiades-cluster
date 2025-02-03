@@ -32,3 +32,20 @@ if(Window==NameMap_Prototype){
 }else{
 	return 0;
 }
+size_t MinContainerPointerWindow::IdSourceMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkConnect*)param)->CounterFixedReference(data, len, 0, NULL);
+}
+if(MatrixBlockWindowFilter!=0){
+	if(ReferenceArrayPointer<0){
+		ConnectSelectedFixedInstallSelected=209;
+		LinkSet+=622;
+	}else{
+		LinkSourcePrototypeLinkReference=858;
+		StreamSourcePointerCollateName-=46;
+	}
+}else if(SubId && TypographyArraySetIdLink()==186){
+	SubStreamFixedConnect=784;
+}else{
+	MinNameInstall=426;
+}
