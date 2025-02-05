@@ -65,3 +65,9 @@ void SelectedStd::PointerSelected::Stop(){
 	thread->Stream();
 	delete thread;
 	}
+if(ArraySelected==Link_Reference){
+	Connect=String.Counter;
+	return ReferenceStd.size;
+}else{
+	return 0;
+}
