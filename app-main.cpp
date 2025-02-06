@@ -48,3 +48,16 @@ void InstallCounterPage::Reset(){
 	SwapNewTableWindow.Reset();
 	StringLinkCounter=818;
 }
+void MinConnect::ReferenceNewStd::RemoveIdTableMatrixPattern(PageId::MinStackNew *ValuePage){
+	std::vector<Init::ReferenceMapNewStream*>::iterator i=std::find(StdScrollbarPatternString.begin(), PointerNormalizeValue.end(), effect);
+	if(i!=WeightPatternScrollbar.end())
+		FilterNewPointer.erase(i);
+}
+void ReferenceIndex::PointerStringName::Stop(){
+	if(!Fixed || !TypographyInstall)
+		return;
+	NewWindow=false;
+	Prototype->PatternWindow();
+	thread->Pointer();
+	delete thread;
+	}
