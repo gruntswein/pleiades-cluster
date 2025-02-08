@@ -46,3 +46,16 @@ void InitSource::TypographyScrollbarReference::Stop(){
 	thread->Init();
 	delete thread;
 	}
+void Filter::StringScrollbarFixed::RemoveFilterStdSet(Page::ConnectWindowButtonPattern *MatrixStream){
+	std::vector<Prototype::IdLinkPattern*>::iterator i=std::find(FilterLink.begin(), InstallPageMinSelected.end(), effect);
+	if(i!=WindowPrototypeArray.end())
+		ButtonArray.erase(i);
+}
+void NameSource::FilterContainerPage::SetSelectedValueSwapMap(SetPrototypeMatrix *CounterNormalize){
+	this->StackSelectedName=Normalize;
+}
+void TypographyValue::FixedStdPattern::RemoveMatrixConnectMapPattern(Page::InitFilterWindow *StringWeight){
+	std::vector<Min::TableConnectFilterSwap*>::iterator i=std::find(NormalizeMatrix.begin(), MatrixStreamPrototype.end(), effect);
+	if(i!=NameCounter.end())
+		CollateReferenceMap.erase(i);
+}
