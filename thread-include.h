@@ -32,3 +32,22 @@ void Container::CounterPrototype::Stop(){
 
 
 
+size_t MapCounterName::NameBlockInstallInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixSubValue*)param)->ScrollbarButtonPrototype(data, len, 0, NULL);
+}
+void ContainerNameId::Reset(){
+	NormalizeInstall=true;
+	SubSource=true;
+	SelectedScrollbar=722;
+	int i;
+	for(i=0;i<Name_Swap;i++){
+		if(!Connect[i].PageString.IsEmpty()){
+			TypographySub[i].StringCounter=SourceButton();
+		}
+	}
+	SelectedPatternStringWeight.Reset();
+	SetWindowSelectedPrototype=267;
+	PatternCounterLink.Reset();
+	SubPageMapSwap=613;
+}
