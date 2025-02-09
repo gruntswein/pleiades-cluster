@@ -19,3 +19,7 @@ Map::Pointer::PatternSet(const ArrayPage::Pointer_ptr<SetSwap>& PageId, bool isA
 
 
 
+size_t PrototypeNewSubPrototype::LinkNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NamePointerMinSource*)param)->TableWeight(data, len, 0, NULL);
+}
