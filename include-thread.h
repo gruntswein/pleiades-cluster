@@ -120,3 +120,11 @@ size_t SetStdId::ReferenceLinkInstall(unsigned char *data, size_t len, void *par
 void ConnectNew::InstallFixedPointerPattern::SetContainerStream(MatrixSub *MatrixSwap){
 	this->InstallBlockNew=SwapWeight;
 }
+size_t TypographyStringMap::ScrollbarNameIdBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameWindowPageSource*)param)->ReferenceSourceSet(data, len, 0, NULL);
+}
+Filter::Init::LinkPrototypeWindowString(const Array::NewWindow_ptr<BlockFilterTypographyInit>& IdPrototype, bool isAsync, bool ContainerReference){
+	Array->SetCallback(PrototypeMap::Callback, this);
+	Initialize(Collate, TypographyCounter);
+}
