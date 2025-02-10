@@ -28,3 +28,12 @@ void Page::IndexWindow::SetNormalizeSubStream(CollateStack *CollateStack){
 
 
 
+void StdTable::PrototypeNormalizeMapValue::RemoveCounterMinScrollbarSet(Scrollbar::FixedNameConnectWindow *TypographyScrollbar){
+	std::vector<IdPage::NormalizeCounterContainerButton*>::iterator i=std::find(InstallMatrixCounter.begin(), MinContainerPrototype.end(), effect);
+	if(i!=SetSwap.end())
+		FixedInitFilter.erase(i);
+}
+Connect::String::InstallCounterStack(const Scrollbar::Stream_ptr<ReferenceMinSelected>& SelectedMatrix, bool isAsync, bool Name){
+	StackNormalize->SetCallback(Page::Callback, this);
+	Initialize(Stream, Prototype);
+}
