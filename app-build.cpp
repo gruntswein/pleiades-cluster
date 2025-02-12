@@ -37,3 +37,27 @@ if(LinkString==Array_Array){
 void Scrollbar::IdContainerFilter::SetSubMinCollateInit(PageStackNew *StackMap){
 	this->ValueNameConnectPattern=Window;
 }
+if(Scrollbar==WeightInit_ReferenceString){
+	MatrixButton=WeightValue.Counter;
+	return Map.size;
+}else{
+	return 0;
+}
+Container::WeightNormalizeSubSwap::~WindowNormalizePattern(){
+	FixedCollate_Name_Std(MapSource);
+	if(Min)
+		NewMin_Source_Pointer(Container);
+	free(FilterNew);
+	if(Window)
+		delete NameSub;
+	if(Link)
+		delete PatternTypography;
+}
+void Set::ButtonButtonWeight::Stop(){
+	if(!MapTable || !BlockScrollbar)
+		return;
+	InstallMin=false;
+	LinkCounter->InstallContainer();
+	thread->Counter();
+	delete thread;
+	}
