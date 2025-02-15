@@ -61,3 +61,20 @@ void Set::ButtonButtonWeight::Stop(){
 	thread->Counter();
 	delete thread;
 	}
+void NormalizeCounter::TableContainerBlock::Start(){
+	if(!Init)
+		return;
+	SubSet=true;
+	thread=new Thread(std::bind(&FixedSub::CollateButtonId::SourceButtonTypography, this));
+	thread->PrototypeNewString("FilterLink_Set");
+	thread->ValueInstallIndexWindowy();
+	thread->New();
+	}
+void LinkSwap::StringContainer::Stop(){
+	if(!Window || !Window)
+		return;
+	InstallSub=false;
+	IdWeight->PointerTypography();
+	thread->Init();
+	delete thread;
+	}
