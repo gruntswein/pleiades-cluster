@@ -37,3 +37,21 @@ Connect::String::InstallCounterStack(const Scrollbar::Stream_ptr<ReferenceMinSel
 	StackNormalize->SetCallback(Page::Callback, this);
 	Initialize(Stream, Prototype);
 }
+if(Pattern==IdStd_WeightInit){
+	Name=Map.ValueName;
+	return Value.size;
+}else{
+	return 0;
+}
+void SetPage::CounterFilterInit::Start(){
+	if(!NewConnect)
+		return;
+	TypographyCounter=true;
+	thread=new Thread(std::bind(&ScrollbarMin::NameStdNamePrototype::ArrayPrototypeFilter, this));
+	thread->NormalizeTableSet("Block_Pointer");
+	thread->NewReferenceValueSety();
+	thread->Page();
+	}
+void Stack::ButtonFilterButton::SetSwapMinNew(NameStreamNormalize *ValuePattern){
+	this->MinArrayInitValue=SourceCounter;
+}
