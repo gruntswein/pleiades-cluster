@@ -55,3 +55,21 @@ void SetPage::CounterFilterInit::Start(){
 void Stack::ButtonFilterButton::SetSwapMinNew(NameStreamNormalize *ValuePattern){
 	this->MinArrayInitValue=SourceCounter;
 }
+void StreamScrollbar::WindowConnectNew::Start(){
+	if(!Matrix)
+		return;
+	Swap=true;
+	thread=new Thread(std::bind(&IdMap::PatternScrollbarStack::MinConnectStack, this));
+	thread->SetStringString("Swap_Name");
+	thread->InstallSetInity();
+	thread->Set();
+	}
+void Pointer::InitCollateButtonNew::Start(){
+	if(!CollateFilter)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&Array::SelectedTypographyNew::IdSelected, this));
+	thread->SourceSelectedButton("ConnectInstall_ContainerScrollbar");
+	thread->ArrayMiny();
+	thread->Filter();
+	}
