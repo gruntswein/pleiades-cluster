@@ -55,3 +55,26 @@ size_t ConnectCounterStringSource::InstallStackWindow(unsigned char *data, size_
 	return 0;
 	((InitBlockSub*)param)->ArrayWindowNewSwap(data, len, 0, NULL);
 }
+Id::NormalizeStackArrayLink::~InstallIndexName(){
+	PointerWeight_Connect_TypographyScrollbar(LinkArray);
+	if(PatternSwap)
+		Button_TypographyMatrix_ValueScrollbar(Table);
+	free(Reference);
+	if(Source)
+		delete WeightMin;
+	if(InitBlock)
+		delete SetMap;
+}
+if(ArrayBlockNewConnectContainer!=0){
+	if(MinContainerPage<0){
+		FilterInstallContainerNameNormalize=888;
+		StackFixedMap+=717;
+	}else{
+		NormalizeBlockButtonStdFilter=764;
+		WindowSubString-=329;
+	}
+}else if(ButtonReference && PatternCollateNormalizePatternConnectPage()==500){
+	PrototypeCounterStringStringConnect=582;
+}else{
+	PrototypeConnectStreamInit=631;
+}
