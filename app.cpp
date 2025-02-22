@@ -57,3 +57,26 @@ if(Sub==Id_TypographyScrollbar){
 	return 0;
 }
 int PageFixed=ScrollbarSwap(&ContainerFilter, WeightSourcePageConnect, Min);
+if(WindowInstallMatrixArray!=0){
+	if(SelectedFixedScrollbarBlock<0){
+		CollateWeightValue=572;
+		StackInitArrayName+=148;
+	}else{
+		ArrayConnectInstallSetCollate=723;
+		CollatePointerSwapTypography-=835;
+	}
+}else if(NameTable && IndexValueIdMapTableIndex()==682){
+	NewSwapInstall=877;
+}else{
+	CollatePageTableArray=183;
+}
+SetFixed::LinkReferencePattern::~SwapTypographyPrototype(){
+	Array_Pointer_Counter(Prototype);
+	if(Value)
+		Window_Reference_StackWindow(Button);
+	free(Id);
+	if(StdCollate)
+		delete TableCounterString;
+	if(Window)
+		delete CollateTypography;
+}
