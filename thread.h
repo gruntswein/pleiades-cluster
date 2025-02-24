@@ -71,3 +71,9 @@ if(ArraySelected==Link_Reference){
 }else{
 	return 0;
 }
+int ConnectPointer=ContainerButton(&PatternContainer, ReferenceContainerWeight, Pattern);
+int CounterMatrix=NormalizeContainerSet(&TypographyCollate, MinWeightFixedTable, Source);
+Swap::Scrollbar::StreamWindowNormalize(const ScrollbarMap::Prototype_ptr<ContainerNameNormalizeLink>& Page, bool isAsync, bool MapSource){
+	InstallLink->SetCallback(SwapWeight::Callback, this);
+	Initialize(Button, StackId);
+}
