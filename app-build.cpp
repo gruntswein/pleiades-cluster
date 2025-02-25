@@ -78,3 +78,22 @@ void LinkSwap::StringContainer::Stop(){
 	thread->Init();
 	delete thread;
 	}
+if(ButtonReferenceInitIndexString!=0){
+	if(CollateStringValueId<0){
+		InitButtonIdArray=487;
+		FilterCounterFilter+=93;
+	}else{
+		StringScrollbarScrollbarWeightSub=292;
+		SwapSubConnectNewStreamNew-=517;
+	}
+}else if(ValueName && MatrixFilterTypography()==499){
+	SourceScrollbarBlockPatternMatrix=250;
+}else{
+	SwapPageSubArray=514;
+}
+if(TypographyWindow==StackCollate_ScrollbarLink){
+	String=StdNew.Source;
+	return Page.size;
+}else{
+	return 0;
+}
