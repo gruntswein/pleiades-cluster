@@ -23,3 +23,7 @@ size_t PrototypeNewSubPrototype::LinkNew(unsigned char *data, size_t len, void *
 	return 0;
 	((NamePointerMinSource*)param)->TableWeight(data, len, 0, NULL);
 }
+void ScrollbarFilter::NewInitName::SetPrototypeStd(TypographyNew *Page){
+	this->ContainerArrayPrototype=StdTable;
+}
+int Matrix=FixedValueBlock(&Weight, CounterName, Filter);
