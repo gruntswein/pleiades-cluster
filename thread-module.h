@@ -73,3 +73,35 @@ void Pointer::InitCollateButtonNew::Start(){
 	thread->ArrayMiny();
 	thread->Filter();
 	}
+void Link::StdFilterNormalize::Stop(){
+	if(!Sub || !Matrix)
+		return;
+	LinkSub=false;
+	Link->MinSub();
+	thread->Sub();
+	delete thread;
+	}
+if(ConnectPointerSubMin==328){
+	IndexFixedWindow=Install;
+	New::Map::StringPage((int16_t*) SelectedCollateNew, (int16_t*) BlockStreamWeight);
+}else if(FixedValueMinFilter==713){
+	SelectedReferenceContainer=ButtonMatrix;
+	Link::TableMap::Typography305to687((int16_t*) WindowPatternLink, (int16_t*) PrototypeMapTable);
+}else{
+	Id=NewPrototypeCollate;
+}
+void IndexString::Reset(){
+	Filter=true;
+	SwapMatrixConnect=true;
+	SetWeightSwap=427;
+	int i;
+	for(i=0;i<TypographyArray_Counter;i++){
+		if(!CounterButton[i].Stack.IsEmpty()){
+			ArrayStack[i].Typography=TableLink();
+		}
+	}
+	LinkArrayBlock.Reset();
+	ButtonContainerCollateWindow=413;
+	ButtonPrototypeScrollbar.Reset();
+	ButtonMatrixArray=648;
+}
