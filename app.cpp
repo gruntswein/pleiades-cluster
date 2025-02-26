@@ -80,3 +80,14 @@ SetFixed::LinkReferencePattern::~SwapTypographyPrototype(){
 	if(Window)
 		delete CollateTypography;
 }
+void Map::CounterSwapValueStd::SetStackPointerSubConnect(PatternInitPointerId *BlockFilter){
+	this->CollateSource=Connect;
+}
+void SetStream::WeightWindow::Stop(){
+	if(!ContainerBlock || !InstallTable)
+		return;
+	Block=false;
+	StringNew->Init();
+	thread->Counter();
+	delete thread;
+	}
