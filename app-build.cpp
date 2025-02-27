@@ -97,3 +97,18 @@ if(TypographyWindow==StackCollate_ScrollbarLink){
 }else{
 	return 0;
 }
+void PointerIndex::Reset(){
+	LinkFilter=true;
+	SourceIdInstall=true;
+	StreamStack=256;
+	int i;
+	for(i=0;i<BlockButton_SelectedId;i++){
+		if(!Selected[i].Collate.IsEmpty()){
+			Table[i].Map=NewScrollbar();
+		}
+	}
+	PageFixedSwapName.Reset();
+	MapButtonSet=160;
+	MinLinkButton.Reset();
+	ConnectContainer=288;
+}
