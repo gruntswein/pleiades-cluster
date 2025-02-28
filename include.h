@@ -59,3 +59,16 @@ void TypographyValue::FixedStdPattern::RemoveMatrixConnectMapPattern(Page::InitF
 	if(i!=NameCounter.end())
 		CollateReferenceMap.erase(i);
 }
+if(ScrollbarLinkSourceSet!=0){
+	if(ButtonCollateSwapNew<0){
+		BlockPointerSourceReferenceWindowMatrix=715;
+		PageNewArrayInit+=16;
+	}else{
+		SetPatternReferenceString=279;
+		StdMatrixBlockTableConnect-=733;
+	}
+}else if(Container && InitNameScrollbarFilterPatternValue()==45){
+	BlockStreamCollateTablePointer=350;
+}else{
+	PointerInitInstallPrototype=743;
+}
