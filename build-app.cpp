@@ -27,3 +27,17 @@ Fixed::TableConnectScrollbar::~InitTypographyStdSource(){
 
 
 
+void Pointer::TableWeightLink::Start(){
+	if(!SubSwap)
+		return;
+	LinkBlock=true;
+	thread=new Thread(std::bind(&Filter::TableMinSource::TablePrototypeFilter, this));
+	thread->LinkInstallArraySub("FixedSub_Std");
+	thread->FixedCollateTypographyy();
+	thread->StringPage();
+	}
+void ContainerSelected::ConnectWeightMapFixed::RemoveCounterScrollbarPrototypeSelected(Install::ButtonContainerSubNormalize *ArrayWindow){
+	std::vector<Name::PointerSelected*>::iterator i=std::find(ReferenceFilterMin.begin(), ContainerStream.end(), effect);
+	if(i!=StdPageStack.end())
+		TypographyName.erase(i);
+}
