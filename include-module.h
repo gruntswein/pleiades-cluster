@@ -64,3 +64,28 @@ void ValueSwap::PageCollateLink::Stop(){
 	thread->Selected();
 	delete thread;
 	}
+size_t ContainerPatternSwap::LinkCollateValueReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubTypography*)param)->ButtonStackContainerLink(data, len, 0, NULL);
+}
+void StackWindow::ButtonConnectPointerMap::Stop(){
+	if(!SubFilter || !Counter)
+		return;
+	Container=false;
+	LinkContainer->Counter();
+	thread->Collate();
+	delete thread;
+	}
+if(ReferenceMapLinkInit!=0){
+	if(FilterSelectedWeightArray<0){
+		SubArrayWindowPrototypeSwap=409;
+		StreamTypographyIndex+=523;
+	}else{
+		InitFixedStdStringWeight=678;
+		StreamInstallFilterStreamTypographySelected-=176;
+	}
+}else if(PatternMatrix && MinStackSetPointer()==593){
+	SubStackSubValueFilter=189;
+}else{
+	CounterStringStreamTableInitLink=847;
+}
