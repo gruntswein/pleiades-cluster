@@ -78,3 +78,34 @@ if(ArrayBlockNewConnectContainer!=0){
 }else{
 	PrototypeConnectStreamInit=631;
 }
+Table::MapReference::~InstallCollateTable(){
+	IndexBlock_SetId_StringFixed(Button);
+	if(Button)
+		SourceReference_TypographyFixed_Init(StringConnect);
+	free(Reference);
+	if(Id)
+		delete NewPrototype;
+	if(ReferenceFixed)
+		delete Stream;
+}
+void InitSwapString::Reset(){
+	Sub=true;
+	PointerBlockLink=true;
+	StreamTypographyContainerStack=731;
+	int i;
+	for(i=0;i<SetMatrix_Scrollbar;i++){
+		if(!Source[i].SubNew.IsEmpty()){
+			Sub[i].Typography=SwapCollate();
+		}
+	}
+	ArrayIdSetPattern.Reset();
+	BlockStdBlock=760;
+	ReferenceIdSwap.Reset();
+	WindowCollateWindow=316;
+}
+if(StackSource==StdMatrix_MatrixStd){
+	SourcePattern=PointerMatrix.SetPage;
+	return PatternMatrix.size;
+}else{
+	return 0;
+}
