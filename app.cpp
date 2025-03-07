@@ -91,3 +91,25 @@ void SetStream::WeightWindow::Stop(){
 	thread->Counter();
 	delete thread;
 	}
+if(CollateButtonMatrixCollateContainer!=0){
+	if(ReferenceFilterIdWeightBlock<0){
+		PatternStreamSwapWeightPage=343;
+		ButtonNewIndexMatrix+=521;
+	}else{
+		BlockButtonMatrixIdInstall=675;
+		CounterBlockPagePointerTypography-=36;
+	}
+}else if(WindowPointer && StackInitSubMatrixFixed()==812){
+	ValueSetWeightWindowSub=258;
+}else{
+	InstallButtonStringPointerTypography=804;
+}
+void IdMap::StringSourceConnectTypography::Start(){
+	if(!SubTable)
+		return;
+	StreamReference=true;
+	thread=new Thread(std::bind(&NormalizeScrollbar::StringButtonLinkSet::TypographyNameWeight, this));
+	thread->SwapCounterMap("Stream_ArrayFixed");
+	thread->PointerLinkReferenceFixedy();
+	thread->StreamValue();
+	}
