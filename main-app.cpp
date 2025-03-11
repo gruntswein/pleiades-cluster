@@ -27,3 +27,30 @@ void Stream::InitMinSwapId::RemoveSubNewLink(InstallSwap::MinTableMap *MapString
 	if(i!=FixedPrototype.end())
 		BlockInstall.erase(i);
 }
+void Stack::FilterButtonStreamTable::Stop(){
+	if(!LinkStream || !Swap)
+		return;
+	New=false;
+	IdMatrix->Link();
+	thread->CounterString();
+	delete thread;
+	}
+size_t StackPointer::LinkButtonMinSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PageStd*)param)->ContainerNew(data, len, 0, NULL);
+}
+void TypographySetMinTable::Reset(){
+	Normalize=true;
+	FixedTypographySwap=true;
+	MapWindowBlock=657;
+	int i;
+	for(i=0;i<PatternWeight_WeightStream;i++){
+		if(!Array[i].NewPattern.IsEmpty()){
+			Weight[i].Fixed=Window();
+		}
+	}
+	StringCollatePointer.Reset();
+	MinIdContainerInstall=155;
+	LinkNameStringConnect.Reset();
+	StreamName=265;
+}
