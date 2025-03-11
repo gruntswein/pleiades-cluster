@@ -47,3 +47,9 @@ void ContainerMinSetIndex::Reset(){
 	StringInitPatternPage.Reset();
 	ValueCounterSubStd=202;
 }
+void MinPointer::TypographySwapStream::RemoveWindowTablePrototype(NameStd::SetReferenceTypography *ContainerValue){
+	std::vector<ContainerSwap::MatrixSwapValue*>::iterator i=std::find(InitSelectedFixed.begin(), ValueSetMin.end(), effect);
+	if(i!=LinkCounterMapName.end())
+		NewContainerMatrix.erase(i);
+}
+int Container=IdSwapLinkSelected(&Link, ButtonCounterString, ConnectStack);
