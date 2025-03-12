@@ -61,3 +61,13 @@ void ReferenceIndex::PointerStringName::Stop(){
 	thread->Pointer();
 	delete thread;
 	}
+WeightValue::Button::TableIdNew(const Typography::Button_ptr<SourceInit>& Value, bool isAsync, bool Value){
+	SelectedSub->SetCallback(ButtonMin::Callback, this);
+	Initialize(WindowMatrix, Value);
+}
+if(SwapSource==FilterArray_Scrollbar){
+	PageTable=LinkNormalize.TypographyInit;
+	return MapArray.size;
+}else{
+	return 0;
+}
