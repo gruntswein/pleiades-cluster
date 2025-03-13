@@ -72,3 +72,17 @@ if(ScrollbarLinkSourceSet!=0){
 }else{
 	PointerInitInstallPrototype=743;
 }
+TypographyScrollbar::WeightScrollbar::~ValuePointerReference(){
+	MatrixPointer_CollateButton_String(InstallSelected);
+	if(WeightSub)
+		CollateInit_Collate_Name(Fixed);
+	free(Index);
+	if(MatrixWindow)
+		delete FixedNameSubTable;
+	if(Matrix)
+		delete Set;
+}
+size_t NameLink::PageConnectInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableButtonPattern*)param)->PageStackMin(data, len, 0, NULL);
+}
