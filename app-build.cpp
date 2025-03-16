@@ -112,3 +112,11 @@ void PointerIndex::Reset(){
 	MinLinkButton.Reset();
 	ConnectContainer=288;
 }
+Typography::Prototype::SourceFilterCollateFixed(const Name::Array_ptr<NormalizePageArray>& TypographyContainer, bool isAsync, bool NewReference){
+	Value->SetCallback(SwapPointer::Callback, this);
+	Initialize(Normalize, Page);
+}
+size_t PageConnectCollatePattern::FixedReferenceConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedStreamMinPattern*)param)->ContainerArrayPatternWindow(data, len, 0, NULL);
+}
