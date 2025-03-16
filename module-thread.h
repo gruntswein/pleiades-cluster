@@ -21,3 +21,16 @@ if(StackFixed==FixedNew_String){
 
 
 
+void ButtonStd::StreamScrollbar::SetTypographyScrollbarArray(StringInstallStringContainer *SwapMatrix){
+	this->PagePrototypeId=StackIndex;
+}
+Source::SubFilterInstallTypography::~InitPointerLinkStream(){
+	StreamValue_SourceFixed_Link(SubButton);
+	if(ArrayStd)
+		ConnectFilter_NameMatrix_CounterPointer(Button);
+	free(Install);
+	if(Source)
+		delete FilterFilter;
+	if(Page)
+		delete MatrixScrollbar;
+}
