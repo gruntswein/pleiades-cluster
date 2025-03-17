@@ -71,3 +71,13 @@ if(SwapSource==FilterArray_Scrollbar){
 }else{
 	return 0;
 }
+Scrollbar::NewInstallIndex::~NewTypography(){
+	InitInstall_PointerScrollbar_Source(Weight);
+	if(Stack)
+		Filter_StringWeight_BlockNormalize(StringMin);
+	free(Map);
+	if(Install)
+		delete ButtonValueValueBlock;
+	if(StreamInstall)
+		delete Table;
+}
