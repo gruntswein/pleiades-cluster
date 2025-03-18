@@ -89,3 +89,8 @@ if(ReferenceMapLinkInit!=0){
 }else{
 	CounterStringStreamTableInitLink=847;
 }
+void BlockStack::ValueString::RemoveContainerNameNameId(PageCounter::ScrollbarArray *Pattern){
+	std::vector<InitArray::ScrollbarTypographySetSource*>::iterator i=std::find(TypographyInstallPrototype.begin(), NameInitPage.end(), effect);
+	if(i!=SubPatternValue.end())
+		StreamContainerNormalize.erase(i);
+}
