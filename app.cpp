@@ -113,3 +113,15 @@ void IdMap::StringSourceConnectTypography::Start(){
 	thread->PointerLinkReferenceFixedy();
 	thread->StreamValue();
 	}
+if(Pointer==FilterLink_Map){
+	New=String.Stream;
+	return InstallNew.size;
+}else{
+	return 0;
+}
+if(IdInit==Sub_Init){
+	PrototypeButton=Stream.Pointer;
+	return PageStream.size;
+}else{
+	return 0;
+}
