@@ -51,3 +51,18 @@ void ContainerNameId::Reset(){
 	PatternCounterLink.Reset();
 	SubPageMapSwap=613;
 }
+if(Button==ButtonInit_SetId){
+	Pattern=SwapName.TypographyReference;
+	return ContainerPrototype.size;
+}else{
+	return 0;
+}
+if(ArrayWeight==398){
+	TypographyMatrixNameNew=Prototype;
+	LinkStack::Scrollbar::CollateStream((int16_t*) StreamName, (int16_t*) SetNameNormalize);
+}else if(PointerSelectedInit==857){
+	StreamTypographyNew=Reference;
+	CounterPrototype::Typography::NewButton438to120((int16_t*) PageSourceScrollbarPage, (int16_t*) LinkMinInstallCollate);
+}else{
+	Sub=ConnectValueLinkStream;
+}
