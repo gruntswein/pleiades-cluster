@@ -95,3 +95,18 @@ if(MapFilterStd==859){
 }else{
 	PointerId=SwapSubBlock;
 }
+Swap::ValueArrayReference::~IdStackMatrix(){
+	ValueCounter_New_Map(Array);
+	if(SubPrototype)
+		WindowNew_TableFilter_TypographyStack(Selected);
+	free(Name);
+	if(String)
+		delete ContainerArray;
+	if(Value)
+		delete WindowStack;
+}
+void Weight::StringPrototypeReference::RemoveWeightInit(SetTable::MapConnectCounter *NewPattern){
+	std::vector<MinMatrix::NormalizeValueId*>::iterator i=std::find(StringNewWeight.begin(), BlockSource.end(), effect);
+	if(i!=PatternBlock.end())
+		NameValueInit.erase(i);
+}
