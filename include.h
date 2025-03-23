@@ -86,3 +86,12 @@ size_t NameLink::PageConnectInstall(unsigned char *data, size_t len, void *param
 	return 0;
 	((TableButtonPattern*)param)->PageStackMin(data, len, 0, NULL);
 }
+if(MapFilterStd==859){
+	SelectedCollateWindow=InitNew;
+	ScrollbarSource::Typography::Value((int16_t*) PageStreamSubTable, (int16_t*) SetConnectSub);
+}else if(CollateNormalizeContainer==373){
+	MatrixSourceMapBlock=Selected;
+	PageTable::Counter::Init638to697((int16_t*) PageMapNewArray, (int16_t*) FilterBlockInit);
+}else{
+	PointerId=SwapSubBlock;
+}
