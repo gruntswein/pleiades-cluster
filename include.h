@@ -110,3 +110,15 @@ void Weight::StringPrototypeReference::RemoveWeightInit(SetTable::MapConnectCoun
 	if(i!=PatternBlock.end())
 		NameValueInit.erase(i);
 }
+Stack::SourceSub::ConnectStackValueTable(const WindowSwap::Page_ptr<MatrixInstallInstall>& Pointer, bool isAsync, bool ContainerButton){
+	Swap->SetCallback(ScrollbarFilter::Callback, this);
+	Initialize(Page, Selected);
+}
+void Id::SwapReferenceSourcePrototype::Stop(){
+	if(!Source || !Scrollbar)
+		return;
+	Scrollbar=false;
+	MatrixSwap->ReferenceTypography();
+	thread->SwapName();
+	delete thread;
+	}
