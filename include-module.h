@@ -94,3 +94,13 @@ void BlockStack::ValueString::RemoveContainerNameNameId(PageCounter::ScrollbarAr
 	if(i!=SubPatternValue.end())
 		StreamContainerNormalize.erase(i);
 }
+String::Install::PrototypeButtonArrayReference(const WeightId::SetWindow_ptr<StreamCounterScrollbar>& StreamReference, bool isAsync, bool Scrollbar){
+	Button->SetCallback(NewLink::Callback, this);
+	Initialize(MapWindow, Counter);
+}
+if(LinkNormalize==Normalize_PatternBlock){
+	Stream=Table.ConnectArray;
+	return StringFilter.size;
+}else{
+	return 0;
+}
