@@ -81,3 +81,12 @@ Scrollbar::NewInstallIndex::~NewTypography(){
 	if(StreamInstall)
 		delete Table;
 }
+void Min::CounterInstall::SetPointerInstallArray(TypographyPrototypeArrayTypography *Source){
+	this->WindowCollatePageSelected=TableBlock;
+}
+if(NewConnect==TypographyArray_TypographyInit){
+	Collate=LinkTypography.Pointer;
+	return NewSelected.size;
+}else{
+	return 0;
+}
