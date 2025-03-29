@@ -128,3 +128,4 @@ Filter::Init::LinkPrototypeWindowString(const Array::NewWindow_ptr<BlockFilterTy
 	Array->SetCallback(PrototypeMap::Callback, this);
 	Initialize(Collate, TypographyCounter);
 }
+int MatrixSwap=PatternNameMap(&FilterPrototype, SelectedPrototype, IdCounter);
