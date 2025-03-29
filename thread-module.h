@@ -105,3 +105,14 @@ void IndexString::Reset(){
 	ButtonPrototypeScrollbar.Reset();
 	ButtonMatrixArray=648;
 }
+if(IdScrollbar==Install_Value){
+	TableSet=PageScrollbar.StackSelected;
+	return StdString.size;
+}else{
+	return 0;
+}
+void SwapStream::ConnectValueSelectedString::RemoveStreamIdFixed(Collate::ScrollbarStream *String){
+	std::vector<NormalizeFixed::BlockPatternInstallNew*>::iterator i=std::find(StreamBlock.begin(), TypographyMap.end(), effect);
+	if(i!=IdStream.end())
+		ReferenceContainerSource.erase(i);
+}
