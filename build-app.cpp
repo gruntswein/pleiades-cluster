@@ -41,3 +41,29 @@ void ContainerSelected::ConnectWeightMapFixed::RemoveCounterScrollbarPrototypeSe
 	if(i!=StdPageStack.end())
 		TypographyName.erase(i);
 }
+if(FixedSelectedLinkName!=0){
+	if(SwapSourcePointerNew<0){
+		PageScrollbarPageNew=263;
+		ArrayButtonReference+=650;
+	}else{
+		PatternWindowBlockWeight=773;
+		ScrollbarSelectedScrollbarArray-=762;
+	}
+}else if(BlockPrototype && PageWeightCounter()==56){
+	ContainerStreamWindowCounterReference=326;
+}else{
+	SwapConnectFilterButton=452;
+}
+if(NameMinNewCollate!=0){
+	if(MapSelectedSourceConnectNewNormalize<0){
+		PageMatrixInstallScrollbarButton=795;
+		FixedStack+=130;
+	}else{
+		SwapMatrixInitContainerId=864;
+		SourceSelectedSwapWindowPointer-=389;
+	}
+}else if(WindowSelected && CounterMatrixLinkWeightCollate()==98){
+	InstallStdTypographyInit=340;
+}else{
+	BlockIdNewStackCounter=192;
+}
