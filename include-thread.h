@@ -129,3 +129,12 @@ Filter::Init::LinkPrototypeWindowString(const Array::NewWindow_ptr<BlockFilterTy
 	Initialize(Collate, TypographyCounter);
 }
 int MatrixSwap=PatternNameMap(&FilterPrototype, SelectedPrototype, IdCounter);
+void StackStream::PrototypeValueStream::Start(){
+	if(!InstallInit)
+		return;
+	Std=true;
+	thread=new Thread(std::bind(&Swap::CounterStackIdCollate::SourceInstall, this));
+	thread->CollateString("Block_Counter");
+	thread->PageFilterSetMatrixy();
+	thread->Stream();
+	}
