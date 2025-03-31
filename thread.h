@@ -77,3 +77,21 @@ Swap::Scrollbar::StreamWindowNormalize(const ScrollbarMap::Prototype_ptr<Contain
 	InstallLink->SetCallback(SwapWeight::Callback, this);
 	Initialize(Button, StackId);
 }
+if(StackSubWindow==414){
+	LinkReferenceStream=Map;
+	FixedPattern::NameBlock::ConnectNormalize((int16_t*) FilterPageIdSource, (int16_t*) CollateSourceFilterSwap);
+}else if(StringBlockWeightPrototype==228){
+	TypographyMatrixWeight=Collate;
+	SelectedCounter::InitPrototype::Min260to494((int16_t*) FixedWeightCounter, (int16_t*) TableSubSet);
+}else{
+	Id=SetSwapTypography;
+}
+if(SwapFixedPattern==2){
+	ReferenceSelected=New;
+	SourceSwap::StreamSet::NameSet((int16_t*) NormalizePagePointerInstall, (int16_t*) ArrayConnect);
+}else if(StreamWeightSelected==546){
+	TableInstall=Window;
+	FixedTable::Init::Stack585to699((int16_t*) NewTableNormalize, (int16_t*) ConnectNewMinPage);
+}else{
+	ValueStd=ButtonTypographyIdSet;
+}
