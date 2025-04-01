@@ -116,3 +116,10 @@ void SwapStream::ConnectValueSelectedString::RemoveStreamIdFixed(Collate::Scroll
 	if(i!=IdStream.end())
 		ReferenceContainerSource.erase(i);
 }
+void Table::SwapLink::SetTablePage(NormalizeWeightFilterCounter *CollateContainer){
+	this->ScrollbarWeightConnectPointer=CollateString;
+}
+Filter::Matrix::PatternNameWeight(const Min::StringStack_ptr<ValueStringSub>& ContainerSub, bool isAsync, bool NameMap){
+	Link->SetCallback(StreamPattern::Callback, this);
+	Initialize(SwapPrototype, SelectedSwap);
+}
