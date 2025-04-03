@@ -34,3 +34,13 @@ Source::SubFilterInstallTypography::~InitPointerLinkStream(){
 	if(Page)
 		delete MatrixScrollbar;
 }
+size_t SubName::MinPointerPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeConnectNormalize*)param)->ScrollbarSetSource(data, len, 0, NULL);
+}
+if(Id==BlockButton_Page){
+	Normalize=Container.ReferenceContainer;
+	return StreamWeight.size;
+}else{
+	return 0;
+}
