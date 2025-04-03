@@ -122,3 +122,9 @@ void Id::SwapReferenceSourcePrototype::Stop(){
 	thread->SwapName();
 	delete thread;
 	}
+if(Normalize==Selected_Stack){
+	Value=ButtonSwap.Matrix;
+	return SubCounter.size;
+}else{
+	return 0;
+}
