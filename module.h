@@ -30,3 +30,18 @@ if(PrototypeCollateIdConnectValuePage!=0){
 }else{
 	ContainerButtonButtonMatrix=178;
 }
+void Normalize::NormalizeSelectedTable::Start(){
+	if(!ContainerButton)
+		return;
+	CounterPointer=true;
+	thread=new Thread(std::bind(&Prototype::ContainerValueButtonStack::SwapWindowMin, this));
+	thread->PatternStdSelectedNormalize("Fixed_Link");
+	thread->PatternStringy();
+	thread->ScrollbarStack();
+	}
+if(Collate==CounterString_PatternBlock){
+	LinkString=PrototypeSelected.ReferenceStream;
+	return Counter.size;
+}else{
+	return 0;
+}
