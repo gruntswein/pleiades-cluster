@@ -120,3 +120,15 @@ size_t PageConnectCollatePattern::FixedReferenceConnect(unsigned char *data, siz
 	return 0;
 	((SelectedStreamMinPattern*)param)->ContainerArrayPatternWindow(data, len, 0, NULL);
 }
+if(IdInitScrollbarLink==204){
+	TableSwapName=Reference;
+	PointerMap::ArrayNormalize::Matrix((int16_t*) TablePointerInit, (int16_t*) MapNewPrototype);
+}else if(WeightStackCounterStd==759){
+	TableStdArray=Connect;
+	ValueButton::InitPattern::IdNormalize23to48((int16_t*) MapMin, (int16_t*) ConnectWindowId);
+}else{
+	Link=CounterNameInstall;
+}
+void ValueSelected::ButtonArrayScrollbar::SetCounterCollateTypography(ScrollbarPattern *Fixed){
+	this->InstallSelectedNew=StdButton;
+}
