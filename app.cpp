@@ -125,3 +125,22 @@ if(IdInit==Sub_Init){
 }else{
 	return 0;
 }
+size_t TableInstall::ContainerNormalizeWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamScrollbar*)param)->StackSubIdWeight(data, len, 0, NULL);
+}
+void SourcePointerBlockValue::Reset(){
+	Window=true;
+	MapPageId=true;
+	CollateStreamFixed=665;
+	int i;
+	for(i=0;i<TableFixed_Pattern;i++){
+		if(!ReferenceNormalize[i].SourceMap.IsEmpty()){
+			SelectedPattern[i].PointerLink=WeightArray();
+		}
+	}
+	StringTableMap.Reset();
+	SourceMatrixStreamButton=34;
+	FixedSetName.Reset();
+	ReferenceButtonArray=565;
+}
