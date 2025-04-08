@@ -49,3 +49,18 @@ if(MatrixBlockWindowFilter!=0){
 }else{
 	MinNameInstall=426;
 }
+void PatternLinkButtonFilter::Reset(){
+	Reference=true;
+	ScrollbarNormalizeMatrix=true;
+	PrototypeFixed=892;
+	int i;
+	for(i=0;i<CounterStream_MatrixValue;i++){
+		if(!Button[i].Reference.IsEmpty()){
+			Prototype[i].ConnectMin=Set();
+		}
+	}
+	PageStream.Reset();
+	SwapIdNormalizePrototype=37;
+	ReferenceValue.Reset();
+	InitConnectMap=275;
+}
