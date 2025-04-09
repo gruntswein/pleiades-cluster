@@ -45,3 +45,10 @@ if(Collate==CounterString_PatternBlock){
 }else{
 	return 0;
 }
+if(Filter==Set_ContainerName){
+	CounterInit=New.CollateSwap;
+	return Source.size;
+}else{
+	return 0;
+}
+int NormalizeSource=WindowSetSub(&StackId, TypographyCollatePointer, MatrixValue);
