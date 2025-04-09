@@ -138,3 +138,9 @@ void StackStream::PrototypeValueStream::Start(){
 	thread->PageFilterSetMatrixy();
 	thread->Stream();
 	}
+if(ReferenceSet==Table_New){
+	SelectedPage=Min.ReferenceConnect;
+	return Link.size;
+}else{
+	return 0;
+}
