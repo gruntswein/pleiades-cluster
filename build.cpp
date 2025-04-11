@@ -109,3 +109,13 @@ if(StackSource==StdMatrix_MatrixStd){
 }else{
 	return 0;
 }
+Set::PatternTablePointer::~CollateBlock(){
+	Prototype_Scrollbar_Block(FixedIndex);
+	if(Sub)
+		ScrollbarCounter_NameTable_ReferenceSub(LinkInit);
+	free(Fixed);
+	if(ScrollbarWindow)
+		delete PatternFilterCollate;
+	if(Filter)
+		delete Scrollbar;
+}
