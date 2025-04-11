@@ -144,3 +144,9 @@ void SourcePointerBlockValue::Reset(){
 	FixedSetName.Reset();
 	ReferenceButtonArray=565;
 }
+if(ArrayStream==PointerFilter_Map){
+	StreamId=PageFixed.Counter;
+	return Stack.size;
+}else{
+	return 0;
+}
