@@ -64,3 +64,13 @@ void PatternLinkButtonFilter::Reset(){
 	ReferenceValue.Reset();
 	InitConnectMap=275;
 }
+New::InstallCounterFixed::~NormalizeMatrixCounter(){
+	Block_Selected_SelectedFixed(StringLink);
+	if(PrototypeReference)
+		IdMin_SubReference_Init(Container);
+	free(NewSet);
+	if(MinConnect)
+		delete MatrixInstall;
+	if(String)
+		delete Init;
+}
