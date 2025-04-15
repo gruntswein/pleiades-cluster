@@ -150,3 +150,7 @@ if(ArrayStream==PointerFilter_Map){
 }else{
 	return 0;
 }
+size_t ConnectScrollbarInit::SwapLinkInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitConnectScrollbar*)param)->StringConnectFixedString(data, len, 0, NULL);
+}
