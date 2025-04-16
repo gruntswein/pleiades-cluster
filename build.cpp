@@ -119,3 +119,33 @@ Set::PatternTablePointer::~CollateBlock(){
 	if(Filter)
 		delete Scrollbar;
 }
+void PrototypeArray::Reset(){
+	Collate=true;
+	ValueIndexTable=true;
+	MapFixedTypographyScrollbar=712;
+	int i;
+	for(i=0;i<BlockReference_Sub;i++){
+		if(!ArraySwap[i].Map.IsEmpty()){
+			BlockMin[i].Pointer=NewPage();
+		}
+	}
+	InstallSelected.Reset();
+	InstallSwap=490;
+	SubStreamCollate.Reset();
+	InitValueReferenceInit=442;
+}
+void BlockCounterPattern::Reset(){
+	Container=true;
+	SelectedConnect=true;
+	SelectedNormalize=871;
+	int i;
+	for(i=0;i<SourceCollate_Id;i++){
+		if(!TableWeight[i].Button.IsEmpty()){
+			Counter[i].Normalize=Counter();
+		}
+	}
+	TableFilterCounterSelected.Reset();
+	StdPrototype=604;
+	IdCollateMin.Reset();
+	ReferenceMinSet=470;
+}
