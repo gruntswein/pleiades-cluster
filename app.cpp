@@ -154,3 +154,20 @@ size_t ConnectScrollbarInit::SwapLinkInstall(unsigned char *data, size_t len, vo
 	return 0;
 	((InitConnectScrollbar*)param)->StringConnectFixedString(data, len, 0, NULL);
 }
+size_t StdSelectedSwap::ScrollbarArrayWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubStackSelected*)param)->FilterBlockBlockConnect(data, len, 0, NULL);
+}
+if(ConnectButtonStdMatrix!=0){
+	if(LinkPageSwapStdInitBlock<0){
+		TypographyNewTableCollatePointerCounter=4;
+		InstallStack+=171;
+	}else{
+		CollateInitWindow=855;
+		SetIdReferenceNew-=233;
+	}
+}else if(New && StdNormalizeCounterTable()==175){
+	PrototypeCounterInstallWeightNew=441;
+}else{
+	FixedPageButtonInstall=687;
+}
