@@ -54,3 +54,23 @@ void TypographySetMinTable::Reset(){
 	LinkNameStringConnect.Reset();
 	StreamName=265;
 }
+if(StreamIdContainerMapPattern!=0){
+	if(PointerInstallNameButton<0){
+		FilterWindowInit=572;
+		SwapBlock+=174;
+	}else{
+		ButtonNewPageFilterConnect=46;
+		PrototypeNewContainerInitWeight-=763;
+	}
+}else if(FilterString && ValueScrollbarPrototypeSelected()==503){
+	NormalizeSelectedMapArrayInstall=774;
+}else{
+	SubPrototypeStackSourceTypographySwap=267;
+}
+void Source::BlockValueStringStd::SetCollateConnectMatrixCounter(StreamCounterTypography *PrototypeNormalize){
+	this->TypographyContainerMinMap=StreamLink;
+}
+size_t NormalizeCounterBlock::ButtonWeightWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterMatrix*)param)->LinkWeightWindow(data, len, 0, NULL);
+}
