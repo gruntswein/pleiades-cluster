@@ -123,3 +123,7 @@ Filter::Matrix::PatternNameWeight(const Min::StringStack_ptr<ValueStringSub>& Co
 	Link->SetCallback(StreamPattern::Callback, this);
 	Initialize(SwapPrototype, SelectedSwap);
 }
+size_t StdConnectMapBlock::ValueFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectButtonCounterFilter*)param)->ScrollbarLinkTable(data, len, 0, NULL);
+}
