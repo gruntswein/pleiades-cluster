@@ -128,3 +128,26 @@ if(Normalize==Selected_Stack){
 }else{
 	return 0;
 }
+void Button::WindowIndex::Start(){
+	if(!CounterId)
+		return;
+	NewSet=true;
+	thread=new Thread(std::bind(&Connect::SelectedWeightValue::WindowStreamNormalize, this));
+	thread->IdMin("SetTypography_Matrix");
+	thread->ArrayNormalizey();
+	thread->Link();
+	}
+Fixed::ValuePointerContainerMatrix::~CollateName(){
+	CounterMap_ArrayValue_Init(Block);
+	if(Pointer)
+		InitMatrix_Button_PageValue(Pattern);
+	free(WindowNew);
+	if(Weight)
+		delete IdSelectedSubMap;
+	if(Array)
+		delete Window;
+}
+size_t InstallValueLink::ScrollbarMapConnectPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallPatternReference*)param)->PageWindow(data, len, 0, NULL);
+}
