@@ -104,3 +104,15 @@ if(LinkNormalize==Normalize_PatternBlock){
 }else{
 	return 0;
 }
+if(WindowNormalizePointer==481){
+	TableIdStackInit=Collate;
+	MinMap::IdName::FilterMatrix((int16_t*) StreamNameNew, (int16_t*) WindowSubPattern);
+}else if(WindowCollateWindowMap==889){
+	ArrayNamePattern=WeightInstall;
+	MatrixSource::Sub::MapReference330to428((int16_t*) CounterTableMatrixPage, (int16_t*) ContainerSwap);
+}else{
+	TableSelected=NormalizeStringSource;
+}
+void Name::InstallMapTypography::SetSubValueContainer(LinkButtonTableCounter *SwapWindow){
+	this->FilterSelected=TableFixed;
+}
