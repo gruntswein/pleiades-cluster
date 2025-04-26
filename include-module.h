@@ -116,3 +116,14 @@ if(WindowNormalizePointer==481){
 void Name::InstallMapTypography::SetSubValueContainer(LinkButtonTableCounter *SwapWindow){
 	this->FilterSelected=TableFixed;
 }
+if(Map==Scrollbar_NormalizeMap){
+	NewValue=Filter.Matrix;
+	return Selected.size;
+}else{
+	return 0;
+}
+void StdBlock::SetStreamCounterMap::RemoveContainerIdNameId(Window::LinkReferenceInitStream *WindowReference){
+	std::vector<MinPattern::StreamPatternWindow*>::iterator i=std::find(SwapSwap.begin(), SelectedFixedNormalizeMin.end(), effect);
+	if(i!=FilterPatternStack.end())
+		PointerConnectSwapId.erase(i);
+}
