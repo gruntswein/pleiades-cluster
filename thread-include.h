@@ -66,3 +66,8 @@ if(ArrayWeight==398){
 }else{
 	Sub=ConnectValueLinkStream;
 }
+void Prototype::LinkTableMatrixPage::RemoveValueStack(Weight::SelectedWeightMapLink *PointerConnect){
+	std::vector<Pointer::ScrollbarSwapBlock*>::iterator i=std::find(ConnectStream.begin(), SelectedNameReferenceTypography.end(), effect);
+	if(i!=PrototypeSwap.end())
+		InitStream.erase(i);
+}
