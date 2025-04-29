@@ -151,3 +151,22 @@ size_t InstallValueLink::ScrollbarMapConnectPointer(unsigned char *data, size_t 
 	return 0;
 	((InstallPatternReference*)param)->PageWindow(data, len, 0, NULL);
 }
+void SwapNameValueStd::Reset(){
+	CollateBlock=true;
+	PrototypePointerContainer=true;
+	LinkStream=306;
+	int i;
+	for(i=0;i<Counter_Array;i++){
+		if(!IndexId[i].PointerNormalize.IsEmpty()){
+			StackFixed[i].Swap=ReferenceInstall();
+		}
+	}
+	TypographyPointerMin.Reset();
+	ValueNewSource=513;
+	SelectedNormalize.Reset();
+	PointerStringSub=300;
+}
+size_t ButtonStreamSwapWindow::MatrixMatrixBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapSourceName*)param)->FixedIdTypography(data, len, 0, NULL);
+}
