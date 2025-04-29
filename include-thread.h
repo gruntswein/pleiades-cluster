@@ -144,3 +144,13 @@ if(ReferenceSet==Table_New){
 }else{
 	return 0;
 }
+if(MapReference==StreamCounter_Set){
+	Min=TypographyPrototype.PrototypeScrollbar;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
+Connect::InstallTable::WindowWeightScrollbarArray(const PrototypeMatrix::ScrollbarMatrix_ptr<MinReferenceMatrixInstall>& PointerArray, bool isAsync, bool InstallSelected){
+	TablePage->SetCallback(Stack::Callback, this);
+	Initialize(Name, Matrix);
+}
