@@ -171,3 +171,19 @@ if(ConnectButtonStdMatrix!=0){
 }else{
 	FixedPageButtonInstall=687;
 }
+if(ButtonTable==Pattern_ValuePointer){
+	PageSource=SourceSet.Connect;
+	return LinkSource.size;
+}else{
+	return 0;
+}
+Source::SelectedTypography::~NewStackName(){
+	SelectedMatrix_TypographyCounter_Set(InstallNew);
+	if(NewScrollbar)
+		Window_SubLink_TableArray(Link);
+	free(SubSelected);
+	if(SelectedNew)
+		delete IndexButtonBlockString;
+	if(InstallString)
+		delete PageString;
+}
