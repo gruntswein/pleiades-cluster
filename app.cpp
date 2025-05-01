@@ -187,3 +187,19 @@ Source::SelectedTypography::~NewStackName(){
 	if(InstallString)
 		delete PageString;
 }
+void SourceCollate::Reset(){
+	SwapString=true;
+	NormalizeTable=true;
+	FilterNamePatternValue=54;
+	int i;
+	for(i=0;i<MatrixMin_FixedBlock;i++){
+		if(!Id[i].LinkValue.IsEmpty()){
+			Fixed[i].Selected=PrototypeValue();
+		}
+	}
+	SwapPrototype.Reset();
+	SwapNormalizePrototypeSet=93;
+	WindowSelected.Reset();
+	SourceSetContainerIndex=46;
+}
+int Value=InitContainerReferenceSelected(&ContainerValue, CollateScrollbar, Value);
