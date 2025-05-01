@@ -149,3 +149,27 @@ void BlockCounterPattern::Reset(){
 	IdCollateMin.Reset();
 	ReferenceMinSet=470;
 }
+if(SourceMap==String_Stack){
+	NormalizeInstall=InstallNormalize.Collate;
+	return Window.size;
+}else{
+	return 0;
+}
+void Sub::StreamNewPattern::Start(){
+	if(!ArrayStd)
+		return;
+	Typography=true;
+	thread=new Thread(std::bind(&Sub::StreamPatternCollate::ConnectPrototypeStream, this));
+	thread->PointerSetPattern("Matrix_Sub");
+	thread->SwapPointerTypographyy();
+	thread->PointerBlock();
+	}
+void Button::ButtonWeightPattern::Start(){
+	if(!BlockId)
+		return;
+	PatternFixed=true;
+	thread=new Thread(std::bind(&Filter::ValueStringReference::FilterBlockConnect, this));
+	thread->NameSelected("FixedString_String");
+	thread->PageFixedNormalizePrototypey();
+	thread->Block();
+	}
