@@ -127,3 +127,14 @@ void StdBlock::SetStreamCounterMap::RemoveContainerIdNameId(Window::LinkReferenc
 	if(i!=FilterPatternStack.end())
 		PointerConnectSwapId.erase(i);
 }
+int StreamBlock=SourceSelectedCollate(&Block, StackStringSet, Normalize);
+Page::ButtonSelectedNormalizeValue::~MatrixScrollbar(){
+	PrototypeTable_InitFilter_Install(Swap);
+	if(SetString)
+		StackPrototype_PointerWeight_Swap(Scrollbar);
+	free(Block);
+	if(SwapReference)
+		delete LinkPointerArray;
+	if(NewMin)
+		delete Container;
+}
