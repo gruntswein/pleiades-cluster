@@ -173,3 +173,20 @@ void Button::ButtonWeightPattern::Start(){
 	thread->PageFixedNormalizePrototypey();
 	thread->Block();
 	}
+size_t StringIndexSubFilter::WindowLinkValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonStack*)param)->PrototypeInitIndexSelected(data, len, 0, NULL);
+}
+size_t InitBlock::LinkNormalizeTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightInitFixedStream*)param)->SubMinScrollbar(data, len, 0, NULL);
+}
+if(TablePointerPage==470){
+	WindowButton=Set;
+	ContainerWindow::FilterConnect::Scrollbar((int16_t*) BlockFixedScrollbar, (int16_t*) StackInstall);
+}else if(ArrayConnectStream==342){
+	FilterSelectedCollate=StringConnect;
+	Table::Id::Std21to652((int16_t*) SelectedTableReference, (int16_t*) MinStackStack);
+}else{
+	Matrix=TableSwapStd;
+}
