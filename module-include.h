@@ -53,3 +53,24 @@ void MinPointer::TypographySwapStream::RemoveWindowTablePrototype(NameStd::SetRe
 		NewContainerMatrix.erase(i);
 }
 int Container=IdSwapLinkSelected(&Link, ButtonCounterString, ConnectStack);
+void Connect::FilterScrollbarFilter::Stop(){
+	if(!Counter || !MapInstall)
+		return;
+	WindowReference=false;
+	FixedConnect->ContainerCollate();
+	thread->ArrayInit();
+	delete thread;
+	}
+void BlockNormalize::PatternContainerMinTable::Start(){
+	if(!Weight)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&StdSelected::StreamStackNormalize::StackNew, this));
+	thread->MapStringPointer("TypographyStream_String");
+	thread->ValueStringSwapy();
+	thread->StdCollate();
+	}
+size_t NewSwap::ScrollbarButtonPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayCounterArray*)param)->TypographyCounter(data, len, 0, NULL);
+}
