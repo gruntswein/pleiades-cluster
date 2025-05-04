@@ -203,3 +203,14 @@ void SourceCollate::Reset(){
 	SourceSetContainerIndex=46;
 }
 int Value=InitContainerReferenceSelected(&ContainerValue, CollateScrollbar, Value);
+void PageTable::ValueStdValueSource::SetFilterFixed(PatternStack *Swap){
+	this->NameMatrixMapMatrix=SubSelected;
+}
+void NewTypography::NameSelectedSwapCounter::Stop(){
+	if(!Value || !SourceArray)
+		return;
+	New=false;
+	StringMap->BlockLink();
+	thread->Prototype();
+	delete thread;
+	}
