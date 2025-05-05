@@ -214,3 +214,19 @@ void NewTypography::NameSelectedSwapCounter::Stop(){
 	thread->Prototype();
 	delete thread;
 	}
+StdCollate::MinButtonSet::~StreamBlock(){
+	Block_Source_SetMin(Init);
+	if(PointerBlock)
+		NameStream_Scrollbar_TypographyIndex(Set);
+	free(Reference);
+	if(ReferenceCollate)
+		delete NewNewFilter;
+	if(InstallButton)
+		delete MatrixSet;
+}
+if(MatrixStream==CollateTypography_NewNormalize){
+	Pattern=CounterStream.Pointer;
+	return InitCounter.size;
+}else{
+	return 0;
+}
