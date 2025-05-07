@@ -132,3 +132,11 @@ if(IdInitScrollbarLink==204){
 void ValueSelected::ButtonArrayScrollbar::SetCounterCollateTypography(ScrollbarPattern *Fixed){
 	this->InstallSelectedNew=StdButton;
 }
+void PageWeight::InstallCollateStreamBlock::Stop(){
+	if(!FilterTypography || !Pointer)
+		return;
+	MapSwap=false;
+	TypographyBlock->Selected();
+	thread->Stack();
+	delete thread;
+	}
