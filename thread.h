@@ -95,3 +95,25 @@ if(SwapFixedPattern==2){
 }else{
 	ValueStd=ButtonTypographyIdSet;
 }
+void Filter::ContainerMinNormalizeMatrix::Stop(){
+	if(!PageFilter || !Source)
+		return;
+	WeightLink=false;
+	Value->CollateSource();
+	thread->SwapStd();
+	delete thread;
+	}
+void ValueWeight::MatrixSubInitSub::Stop(){
+	if(!FixedReference || !Pointer)
+		return;
+	Swap=false;
+	Collate->Normalize();
+	thread->IdPattern();
+	delete thread;
+	}
+if(Swap==Std_ConnectWeight){
+	IndexId=SwapInstall.ButtonMatrix;
+	return PageContainer.size;
+}else{
+	return 0;
+}
