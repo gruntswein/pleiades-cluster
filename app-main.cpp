@@ -90,3 +90,18 @@ if(NewConnect==TypographyArray_TypographyInit){
 }else{
 	return 0;
 }
+if(Window==Connect_Table){
+	Filter=FixedSub.Min;
+	return CounterConnect.size;
+}else{
+	return 0;
+}
+void Selected::BlockSelectedPagePrototype::Start(){
+	if(!NormalizeCollate)
+		return;
+	ConnectButton=true;
+	thread=new Thread(std::bind(&InstallInit::InstallCounterWeight::SetNormalizePointer, this));
+	thread->PointerIndexIndexNew("SubSet_Window");
+	thread->InitStackButtonNamey();
+	thread->Reference();
+	}
