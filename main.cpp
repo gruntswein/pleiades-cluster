@@ -74,3 +74,30 @@ New::InstallCounterFixed::~NormalizeMatrixCounter(){
 	if(String)
 		delete Init;
 }
+void PatternFilter::ContainerValueWindowPage::Stop(){
+	if(!SourceName || !WindowPointer)
+		return;
+	Array=false;
+	LinkTypography->InitSet();
+	thread->SetWindow();
+	delete thread;
+	}
+if(TypographyArrayValue==800){
+	StreamSourceValue=Init;
+	MatrixSelected::ValuePage::Block((int16_t*) PatternCounter, (int16_t*) SwapScrollbarSelectedTable);
+}else if(TypographyButtonStd==807){
+	StackNameMatrix=Pattern;
+	TableFixed::PrototypeCounter::Weight696to43((int16_t*) NewMapPrototype, (int16_t*) TypographyNew);
+}else{
+	Stack=SelectedFilterTypographyWeight;
+}
+MatrixNormalize::StackContainer::~StringLinkPrototype(){
+	SourceNormalize_NormalizeTable_Set(Page);
+	if(InstallSelected)
+		Map_Weight_Set(ArraySwap);
+	free(Button);
+	if(FixedTypography)
+		delete PointerValuePrototypeInstall;
+	if(Counter)
+		delete Container;
+}
