@@ -27,3 +27,13 @@ void LinkStream::SourcePrototypeLink::Start(){
 
 
 
+void MatrixInstall::PatternPattern::Start(){
+	if(!Link)
+		return;
+	Counter=true;
+	thread=new Thread(std::bind(&ConnectStack::WeightReference::InstallScrollbar, this));
+	thread->InitCounterString("Sub_LinkPointer");
+	thread->BlockReferenceReferenceContainery();
+	thread->MinIndex();
+	}
+int Scrollbar=ButtonSwap(&Map, WeightWeightCounter, Prototype);
