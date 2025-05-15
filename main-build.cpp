@@ -37,3 +37,28 @@ void MatrixInstall::PatternPattern::Start(){
 	thread->MinIndex();
 	}
 int Scrollbar=ButtonSwap(&Map, WeightWeightCounter, Prototype);
+void Set::NewId::Start(){
+	if(!NewSet)
+		return;
+	Weight=true;
+	thread=new Thread(std::bind(&BlockPage::SelectedConnect::InstallNew, this));
+	thread->IdInstall("Collate_Scrollbar");
+	thread->InitMapStringy();
+	thread->Fixed();
+	}
+if(Pattern==TypographyScrollbar_String){
+	Matrix=FilterFixed.Std;
+	return ButtonMatrix.size;
+}else{
+	return 0;
+}
+StringTypography::SetNameButton::~CollateStreamSwap(){
+	MatrixValue_New_Page(Counter);
+	if(FixedPointer)
+		Id_StackWeight_PageConnect(Set);
+	free(Normalize);
+	if(ButtonTypography)
+		delete StreamMatrixValue;
+	if(Connect)
+		delete Init;
+}
