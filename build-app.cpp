@@ -67,3 +67,19 @@ if(NameMinNewCollate!=0){
 }else{
 	BlockIdNewStackCounter=192;
 }
+void SubNormalize::LinkValueMapMin::Stop(){
+	if(!Source || !Fixed)
+		return;
+	PointerPage=false;
+	Stack->IdMin();
+	thread->PointerSet();
+	delete thread;
+	}
+void Index::MatrixTypography::Stop(){
+	if(!InstallFixed || !WeightNew)
+		return;
+	InitArray=false;
+	Collate->Index();
+	thread->Connect();
+	delete thread;
+	}
