@@ -27,3 +27,11 @@ void ScrollbarFilter::NewInitName::SetPrototypeStd(TypographyNew *Page){
 	this->ContainerArrayPrototype=StdTable;
 }
 int Matrix=FixedValueBlock(&Weight, CounterName, Filter);
+void ValueSet::SourceConnectMap::Stop(){
+	if(!Typography || !FilterName)
+		return;
+	Map=false;
+	CollateStream->Id();
+	thread->TableSelected();
+	delete thread;
+	}
