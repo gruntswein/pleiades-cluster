@@ -170,3 +170,19 @@ size_t ButtonStreamSwapWindow::MatrixMatrixBlock(unsigned char *data, size_t len
 	return 0;
 	((SwapSourceName*)param)->FixedIdTypography(data, len, 0, NULL);
 }
+void TableFixed::BlockCounterPointerSelected::Stop(){
+	if(!ConnectMin || !Source)
+		return;
+	Stream=false;
+	CounterString->Name();
+	thread->MinConnect();
+	delete thread;
+	}
+void ArraySource::MinInstallNormalizeId::Stop(){
+	if(!SubSource || !Min)
+		return;
+	WindowBlock=false;
+	ButtonPointer->StdPointer();
+	thread->Value();
+	delete thread;
+	}
