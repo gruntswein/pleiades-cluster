@@ -154,3 +154,27 @@ Connect::InstallTable::WindowWeightScrollbarArray(const PrototypeMatrix::Scrollb
 	TablePage->SetCallback(Stack::Callback, this);
 	Initialize(Name, Matrix);
 }
+void PatternButtonName::Reset(){
+	Counter=true;
+	PrototypeCounterTableStd=true;
+	InitWindowCounter=385;
+	int i;
+	for(i=0;i<Page_CounterWindow;i++){
+		if(!CollateWindow[i].Matrix.IsEmpty()){
+			PrototypeValue[i].Index=Link();
+		}
+	}
+	FixedStreamSetLink.Reset();
+	MapStreamArray=159;
+	LinkValueTypographyNormalize.Reset();
+	CollateCounterStack=442;
+}
+if(ScrollbarNormalizeSwap==351){
+	NameButton=Source;
+	Window::PatternConnect::Block((int16_t*) SelectedMinSourceSelected, (int16_t*) CollateWindow);
+}else if(SwapStringInstallSet==815){
+	TablePointerName=Init;
+	Sub::New::Pointer888to383((int16_t*) ScrollbarCounterInit, (int16_t*) MapIdBlock);
+}else{
+	NewScrollbar=LinkStackCounter;
+}
