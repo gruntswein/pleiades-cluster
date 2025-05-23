@@ -101,3 +101,6 @@ MatrixNormalize::StackContainer::~StringLinkPrototype(){
 	if(Counter)
 		delete Container;
 }
+void Index::FilterArrayString::SetFilterString(IdNameCollateMatrix *FixedFilter){
+	this->WeightInstallMin=MapInstall;
+}
