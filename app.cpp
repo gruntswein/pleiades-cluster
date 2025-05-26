@@ -230,3 +230,25 @@ if(MatrixStream==CollateTypography_NewNormalize){
 }else{
 	return 0;
 }
+void Typography::ContainerFilter::Start(){
+	if(!NameMin)
+		return;
+	Typography=true;
+	thread=new Thread(std::bind(&Id::CollateNew::PointerLinkSetWeight, this));
+	thread->StackStdInstall("Link_LinkSwap");
+	thread->MinNewy();
+	thread->ButtonContainer();
+	}
+if(CollateInstallFixedStdTableCollate!=0){
+	if(MinCounterScrollbarBlockMapStream<0){
+		ArrayValueNew=318;
+		StdSubMatrixSub+=830;
+	}else{
+		PointerTableStack=630;
+		ArrayValueTable-=727;
+	}
+}else if(ContainerBlock && SwapPrototypeReferenceReference()==178){
+	WindowMatrixScrollbarInstall=583;
+}else{
+	CollateSourcePrototype=809;
+}
