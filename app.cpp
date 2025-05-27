@@ -252,3 +252,28 @@ if(CollateInstallFixedStdTableCollate!=0){
 }else{
 	CollateSourcePrototype=809;
 }
+void ButtonInstall::TypographyNewBlock::Stop(){
+	if(!IdInstall || !Typography)
+		return;
+	SubCounter=false;
+	FilterSwap->ConnectNew();
+	thread->Source();
+	delete thread;
+	}
+if(CounterPrototypeFixedButton!=0){
+	if(PointerNameStringInitScrollbar<0){
+		StackContainerSelected=322;
+		TableStack+=495;
+	}else{
+		PointerConnectNewPointerWindowMap=743;
+		StreamPointerLinkTableLink-=95;
+	}
+}else if(Counter && InitScrollbarStack()==678){
+	SwapContainerLinkString=826;
+}else{
+	SubArrayPageSub=240;
+}
+size_t BlockStack::NewWeightString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonContainerLinkReference*)param)->ValueLinkInstall(data, len, 0, NULL);
+}
