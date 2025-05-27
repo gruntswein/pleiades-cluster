@@ -127,3 +127,35 @@ size_t StdConnectMapBlock::ValueFixed(unsigned char *data, size_t len, void *par
 	return 0;
 	((ConnectButtonCounterFilter*)param)->ScrollbarLinkTable(data, len, 0, NULL);
 }
+void Set::MatrixNewArrayFilter::Stop(){
+	if(!Collate || !IdFilter)
+		return;
+	Map=false;
+	PrototypeCollate->Matrix();
+	thread->Pointer();
+	delete thread;
+	}
+void Filter::PointerPageConnect::Start(){
+	if(!Counter)
+		return;
+	IdPage=true;
+	thread=new Thread(std::bind(&Weight::LinkNormalizeSource::ConnectScrollbarBlock, this));
+	thread->ConnectStackInstall("MinString_ContainerValue");
+	thread->StringCollateFixedLinky();
+	thread->LinkString();
+	}
+void SwapNormalize::Reset(){
+	InstallId=true;
+	NewString=true;
+	SubNewPrototype=810;
+	int i;
+	for(i=0;i<Stream_Fixed;i++){
+		if(!Block[i].PointerValue.IsEmpty()){
+			Window[i].WindowReference=MinNew();
+		}
+	}
+	CollateNormalizeMap.Reset();
+	WindowSelected=133;
+	InstallButtonPage.Reset();
+	IdNameWindowCounter=60;
+}
