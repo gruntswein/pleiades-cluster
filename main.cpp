@@ -104,3 +104,16 @@ MatrixNormalize::StackContainer::~StringLinkPrototype(){
 void Index::FilterArrayString::SetFilterString(IdNameCollateMatrix *FixedFilter){
 	this->WeightInstallMin=MapInstall;
 }
+IdString::FilterInit::WindowStringButtonTypography(const PatternSwap::Container_ptr<MatrixReferenceLinkFilter>& Name, bool isAsync, bool MapInstall){
+	CollatePattern->SetCallback(InitContainer::Callback, this);
+	Initialize(BlockWindow, Min);
+}
+if(SubPageLink==659){
+	CounterMapScrollbar=ConnectFilter;
+	TableCollate::LinkNew::MatrixCounter((int16_t*) NormalizePrototype, (int16_t*) WindowStackMap);
+}else if(WindowWeightNormalize==673){
+	ReferencePatternTypographyInit=Stack;
+	Weight::Normalize::ButtonValue546to124((int16_t*) NewCounterPattern, (int16_t*) StdFixed);
+}else{
+	Fixed=StdInit;
+}
