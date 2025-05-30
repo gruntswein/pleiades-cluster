@@ -140,3 +140,18 @@ void PageWeight::InstallCollateStreamBlock::Stop(){
 	thread->Stack();
 	delete thread;
 	}
+void Pattern::ScrollbarWindowConnect::Start(){
+	if(!PagePrototype)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&Array::ValueMap::NameSub, this));
+	thread->StringValueFixedPage("Id_Counter");
+	thread->ReferenceTypographyy();
+	thread->CounterId();
+	}
+void Swap::PrototypeNameString::RemovePrototypeWeightButton(Filter::CounterIdSource *MapContainer){
+	std::vector<WeightMatrix::ButtonStdFilter*>::iterator i=std::find(FilterFilterMap.begin(), IdFixedWeight.end(), effect);
+	if(i!=PrototypeFixed.end())
+		FixedPointer.erase(i);
+}
+int Init=BlockSource(&Collate, StringSelectedScrollbarConnect, InstallContainer);
