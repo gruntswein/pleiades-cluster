@@ -190,3 +190,12 @@ if(TablePointerPage==470){
 }else{
 	Matrix=TableSwapStd;
 }
+if(IdMinInit==125){
+	MapSetSelectedInit=String;
+	Connect::BlockPage::MatrixFilter((int16_t*) InstallFixed, (int16_t*) TypographyWeightMatrixContainer);
+}else if(SourceSet==773){
+	MapSelected=ButtonMin;
+	TypographyPrototype::StringArray::PageReference533to269((int16_t*) SelectedPageLink, (int16_t*) StreamIdWindow);
+}else{
+	Map=StringLinkSource;
+}
