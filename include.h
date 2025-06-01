@@ -186,3 +186,29 @@ void ArraySource::MinInstallNormalizeId::Stop(){
 	thread->Value();
 	delete thread;
 	}
+if(StdReferenceBlockPointerInit!=0){
+	if(StreamValueScrollbar<0){
+		CounterSetWeightArrayButton=505;
+		MapBlockString+=699;
+	}else{
+		NormalizePatternCollateTableFilter=6;
+		ArrayStringPageIndex-=0;
+	}
+}else if(ScrollbarButton && WeightTypographyTypography()==654){
+	ConnectStackInstallStackSetArray=173;
+}else{
+	ArrayValueSubLink=762;
+}
+size_t TableCollateValue::PageCounterCollateNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowCounterNew*)param)->PrototypeNormalizeInitContainer(data, len, 0, NULL);
+}
+void Prototype::IdSourceScrollbar::Start(){
+	if(!PatternCounter)
+		return;
+	Connect=true;
+	thread=new Thread(std::bind(&Matrix::IdTypographyValueInstall::ButtonFixedStream, this));
+	thread->StackReferenceContainerPattern("ButtonFixed_Init");
+	thread->PointerNameButtonStringy();
+	thread->NewInstall();
+	}
