@@ -277,3 +277,20 @@ size_t BlockStack::NewWeightString(unsigned char *data, size_t len, void *param)
 	return 0;
 	((ButtonContainerLinkReference*)param)->ValueLinkInstall(data, len, 0, NULL);
 }
+int New=FixedArrayInit(&Source, PatternPrototypePage, TypographyInit);
+if(IdWindowScrollbarPage!=0){
+	if(FilterInitSubPrototypeSwap<0){
+		ContainerWeightTypographyConnect=66;
+		StdTableLinkStack+=530;
+	}else{
+		StdScrollbarNormalize=13;
+		PatternFilterSub-=602;
+	}
+}else if(Stack && SwapPrototypeSwapWindow()==424){
+	BlockMatrixSubWeight=452;
+}else{
+	NameNormalizeTableSub=631;
+}
+void FilterValue::ContainerSet::SetStreamStringSource(StringSetString *Min){
+	this->MinValueMinSource=Selected;
+}
