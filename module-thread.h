@@ -44,3 +44,27 @@ if(Id==BlockButton_Page){
 }else{
 	return 0;
 }
+Normalize::CollateTable::~CounterFixed(){
+	Pattern_Selected_FixedNew(Normalize);
+	if(SubScrollbar)
+		StreamNormalize_PageArray_Window(NormalizeSub);
+	free(PointerId);
+	if(InstallSelected)
+		delete IdPrototypeSourceTypography;
+	if(New)
+		delete WeightTypography;
+}
+int Swap=SelectedNewSub(&Collate, ReferenceWeightStackCounter, Stream);
+if(SubSwapCounter!=0){
+	if(ValueIndexSelectedInstall<0){
+		WeightWeightWindowPointer=682;
+		WeightButtonBlockIndex+=616;
+	}else{
+		SwapInitMinInstallPointer=126;
+		ArrayTypographyFixedValueFixed-=654;
+	}
+}else if(SourceWindow && MapPrototypeStdWindowIdNormalize()==126){
+	SelectedReferenceStringIndexTable=11;
+}else{
+	StreamButtonPatternStreamNormalize=413;
+}
