@@ -71,3 +71,16 @@ void Prototype::LinkTableMatrixPage::RemoveValueStack(Weight::SelectedWeightMapL
 	if(i!=PrototypeSwap.end())
 		InitStream.erase(i);
 }
+if(ValueTypographyCounterMap==11){
+	NewTable=SelectedCounter;
+	Source::TableButton::Stack((int16_t*) FilterScrollbarButton, (int16_t*) PatternStringMatrix);
+}else if(CounterWindowPatternBlock==658){
+	ButtonSwap=Min;
+	Install::StringSub::Source495to582((int16_t*) PrototypeTypographyNormalize, (int16_t*) CollateButtonBlock);
+}else{
+	PatternCounter=SubSource;
+}
+Selected::StringName::ArrayNewWindowSub(const Typography::SetMap_ptr<ScrollbarWeightInit>& Min, bool isAsync, bool PrototypeBlock){
+	FilterCounter->SetCallback(Selected::Callback, this);
+	Initialize(PointerValue, InitSet);
+}
