@@ -212,3 +212,26 @@ void Prototype::IdSourceScrollbar::Start(){
 	thread->PointerNameButtonStringy();
 	thread->NewInstall();
 	}
+void Std::PatternInitCollate::Stop(){
+	if(!MapString || !Link)
+		return;
+	Link=false;
+	ButtonStd->Container();
+	thread->Table();
+	delete thread;
+	}
+void InstallCollate::Reset(){
+	Array=true;
+	SelectedLinkReference=true;
+	TablePrototype=341;
+	int i;
+	for(i=0;i<PrototypeValue_Stack;i++){
+		if(!CounterWindow[i].Window.IsEmpty()){
+			ContainerCollate[i].Page=InitNormalize();
+		}
+	}
+	PatternStreamBlock.Reset();
+	BlockNormalizePointer=626;
+	ConnectCollateNew.Reset();
+	BlockTableValueSub=109;
+}
