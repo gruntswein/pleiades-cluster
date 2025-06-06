@@ -105,3 +105,18 @@ void Selected::BlockSelectedPagePrototype::Start(){
 	thread->InitStackButtonNamey();
 	thread->Reference();
 	}
+if(PrototypeNamePrototype==103){
+	PageReferenceWeight=Prototype;
+	Reference::Set::Source((int16_t*) ArrayTableSet, (int16_t*) StackPageValue);
+}else if(MatrixTypographyValue==872){
+	NameInstallCollate=Id;
+	NormalizeMap::ReferenceContainer::Sub396to60((int16_t*) WindowContainerReference, (int16_t*) StdNormalizeArray);
+}else{
+	Std=FilterFilter;
+}
+if(Counter==ConnectMin_Link){
+	InstallPage=ScrollbarMin.Set;
+	return NewSub.size;
+}else{
+	return 0;
+}
