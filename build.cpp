@@ -199,3 +199,30 @@ if(IdMinInit==125){
 }else{
 	Map=StringLinkSource;
 }
+if(TypographyWindow==Link_LinkStd){
+	WindowInit=PointerContainer.PageSet;
+	return Fixed.size;
+}else{
+	return 0;
+}
+if(ArrayName==Button_New){
+	WindowSet=String.Fixed;
+	return ConnectSub.size;
+}else{
+	return 0;
+}
+void BlockIdReferenceContainer::Reset(){
+	Window=true;
+	MinFixedArray=true;
+	StackSelectedSwapSub=828;
+	int i;
+	for(i=0;i<TypographyMatrix_TableSwap;i++){
+		if(!Selected[i].Collate.IsEmpty()){
+			PointerNew[i].Set=StackCounter();
+		}
+	}
+	LinkFilterSwapPointer.Reset();
+	ButtonPageStreamFixed=310;
+	StringSubStack.Reset();
+	ScrollbarSwapBlockMap=514;
+}
