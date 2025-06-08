@@ -117,3 +117,12 @@ if(Swap==Std_ConnectWeight){
 }else{
 	return 0;
 }
+if(ButtonCollatePageSub==76){
+	ContainerTableNew=Container;
+	ButtonIndex::Normalize::Init((int16_t*) InitNameLinkWindow, (int16_t*) FilterSubPattern);
+}else if(PointerNormalize==674){
+	PatternCounterSelectedArray=InitConnect;
+	Install::InitTable::Name62to313((int16_t*) StreamPageCollate, (int16_t*) FixedBlockPattern);
+}else{
+	Reference=FilterSwapScrollbar;
+}
