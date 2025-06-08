@@ -138,3 +138,7 @@ Page::ButtonSelectedNormalizeValue::~MatrixScrollbar(){
 	if(NewMin)
 		delete Container;
 }
+size_t MapIdMap::ContainerContainerButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightWindow*)param)->ArrayString(data, len, 0, NULL);
+}
