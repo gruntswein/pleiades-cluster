@@ -294,3 +294,19 @@ if(IdWindowScrollbarPage!=0){
 void FilterValue::ContainerSet::SetStreamStringSource(StringSetString *Min){
 	this->MinValueMinSource=Selected;
 }
+void Window::StackInit::SetNormalizeStreamTable(FixedPageTypography *TableMin){
+	this->BlockSwapMatrix=ArraySource;
+}
+if(TypographySetPrototypeTypographyMap!=0){
+	if(BlockArrayButtonValue<0){
+		WeightArrayTablePageConnectCollate=828;
+		MatrixNew+=894;
+	}else{
+		SwapBlockPagePageWeight=389;
+		WeightReferenceMinScrollbarWeightMap-=805;
+	}
+}else if(Typography && TableInstallCollate()==421){
+	IndexPointerArrayConnectReferenceMatrix=780;
+}else{
+	CounterWindowArrayInitContainer=44;
+}
