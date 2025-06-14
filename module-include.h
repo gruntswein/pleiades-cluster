@@ -74,3 +74,25 @@ size_t NewSwap::ScrollbarButtonPrototype(unsigned char *data, size_t len, void *
 	return 0;
 	((ArrayCounterArray*)param)->TypographyCounter(data, len, 0, NULL);
 }
+if(SwapScrollbar==437){
+	NameFixedReference=Value;
+	SubSet::WeightSet::Scrollbar((int16_t*) PageStackCollate, (int16_t*) WeightSelectedTable);
+}else if(MatrixSelected==529){
+	WindowScrollbarPointer=ConnectInit;
+	Fixed::FilterStack::ValueContainer171to853((int16_t*) CounterMinId, (int16_t*) ConnectSetInstall);
+}else{
+	CounterButton=SubValueMapMin;
+}
+if(ButtonPatternStdCounterInit!=0){
+	if(NewMinNewNormalizeNew<0){
+		FixedPageNormalizeArrayBlock=30;
+		SelectedCounterStd+=493;
+	}else{
+		MatrixFixedCollateValueString=92;
+		NameMinConnectWindowScrollbar-=467;
+	}
+}else if(LinkTypography && CounterMatrixIdBlock()==817){
+	IndexReferenceSelectedFixedSelected=199;
+}else{
+	PatternCounterWeightPointerId=115;
+}
