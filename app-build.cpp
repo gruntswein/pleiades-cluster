@@ -155,3 +155,9 @@ void Swap::PrototypeNameString::RemovePrototypeWeightButton(Filter::CounterIdSou
 		FixedPointer.erase(i);
 }
 int Init=BlockSource(&Collate, StringSelectedScrollbarConnect, InstallContainer);
+if(InitTable==IndexStack_Init){
+	Value=Window.MapName;
+	return TableIndex.size;
+}else{
+	return 0;
+}
