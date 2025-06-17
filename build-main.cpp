@@ -35,3 +35,18 @@ void ValueSet::SourceConnectMap::Stop(){
 	thread->TableSelected();
 	delete thread;
 	}
+Swap::PointerButtonFilter::~TableSubMap(){
+	PatternSwap_FilterPrototype_Prototype(ArrayFixed);
+	if(ArrayId)
+		InstallFixed_PointerStream_StringSub(Selected);
+	free(Swap);
+	if(Button)
+		delete MinStack;
+	if(IdPointer)
+		delete PageFixed;
+}
+void Pattern::InitPatternSwap::RemoveContainerCounterWeight(SetMatrix::StreamMatrixPatternPointer *Block){
+	std::vector<SubMin::NamePage*>::iterator i=std::find(BlockFilterFilterInstall.begin(), StringTablePointer.end(), effect);
+	if(i!=SwapPattern.end())
+		ConnectScrollbarCounterPointer.erase(i);
+}
