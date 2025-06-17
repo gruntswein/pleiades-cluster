@@ -84,3 +84,13 @@ Selected::StringName::ArrayNewWindowSub(const Typography::SetMap_ptr<ScrollbarWe
 	FilterCounter->SetCallback(Selected::Callback, this);
 	Initialize(PointerValue, InitSet);
 }
+SelectedScrollbar::SetScrollbarArray::~PrototypeTableLink(){
+	FixedInstall_Selected_Set(StringWeight);
+	if(ScrollbarValue)
+		Counter_Fixed_ButtonLink(SetStd);
+	free(String);
+	if(Container)
+		delete WeightNewSelectedInstall;
+	if(Pointer)
+		delete MinInit;
+}
