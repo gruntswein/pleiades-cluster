@@ -50,3 +50,18 @@ void Pattern::InitPatternSwap::RemoveContainerCounterWeight(SetMatrix::StreamMat
 	if(i!=SwapPattern.end())
 		ConnectScrollbarCounterPointer.erase(i);
 }
+void InitSource::SwapWeight::Start(){
+	if(!TypographyContainer)
+		return;
+	Counter=true;
+	thread=new Thread(std::bind(&Value::ScrollbarArrayReference::ButtonPointerStreamId, this));
+	thread->FixedTableArray("SwapPage_IdPage");
+	thread->BlockPrototypeButtony();
+	thread->WeightValue();
+	}
+if(SwapPattern==SubMin_SetWindow){
+	SourceInstall=FixedArray.StreamTable;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
