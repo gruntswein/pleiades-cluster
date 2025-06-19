@@ -52,3 +52,31 @@ if(Filter==Set_ContainerName){
 	return 0;
 }
 int NormalizeSource=WindowSetSub(&StackId, TypographyCollatePointer, MatrixValue);
+void ContainerSwapWeight::Reset(){
+	New=true;
+	IndexStdMapSelected=true;
+	ValueSwapBlock=555;
+	int i;
+	for(i=0;i<Pointer_Weight;i++){
+		if(!MatrixTypography[i].Page.IsEmpty()){
+			StreamSet[i].Counter=StdConnect();
+		}
+	}
+	StreamCounterNewStream.Reset();
+	PointerConnect=767;
+	BlockBlockInit.Reset();
+	ContainerMatrixStreamScrollbar=304;
+}
+void Container::StringPrototypeStreamSelected::Stop(){
+	if(!Matrix || !Button)
+		return;
+	Std=false;
+	StdButton->TableId();
+	thread->Normalize();
+	delete thread;
+	}
+void InstallReference::MapIndexInit::RemoveCollateNewMatrix(ValuePage::NormalizeFixed *Container){
+	std::vector<TypographyMatrix::ConnectNewSelectedMatrix*>::iterator i=std::find(CounterBlockSource.begin(), CounterCollateFilter.end(), effect);
+	if(i!=BlockWeightValue.end())
+		CollateSet.erase(i);
+}
