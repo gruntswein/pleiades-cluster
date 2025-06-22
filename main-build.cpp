@@ -62,3 +62,22 @@ StringTypography::SetNameButton::~CollateStreamSwap(){
 	if(Connect)
 		delete Init;
 }
+void Fixed::ValueSetValueButton::SetArraySwap(SwapInstallConnect *Table){
+	this->ScrollbarBlockTypography=CollateNew;
+}
+Init::NewInitTypography::~PageSwap(){
+	TableWeight_Normalize_SwapSub(SetName);
+	if(Link)
+		Page_Min_Connect(String);
+	free(MatrixMap);
+	if(Filter)
+		delete ContainerInstallSelected;
+	if(WeightInstall)
+		delete PagePattern;
+}
+if(MapPage==ContainerInit_Source){
+	Collate=Init.Collate;
+	return Table.size;
+}else{
+	return 0;
+}
