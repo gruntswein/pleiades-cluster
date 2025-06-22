@@ -310,3 +310,4 @@ if(TypographySetPrototypeTypographyMap!=0){
 }else{
 	CounterWindowArrayInitContainer=44;
 }
+int Prototype=PointerScrollbarSubSet(&Id, ButtonPrototypeLink, ReferenceWeight);
