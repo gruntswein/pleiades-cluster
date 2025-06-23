@@ -311,3 +311,18 @@ if(TypographySetPrototypeTypographyMap!=0){
 	CounterWindowArrayInitContainer=44;
 }
 int Prototype=PointerScrollbarSubSet(&Id, ButtonPrototypeLink, ReferenceWeight);
+void Set::SetLinkMin::RemoveSetPatternSwapMap(Source::IdButtonSourceContainer *PageMin){
+	std::vector<Window::InstallMinConnect*>::iterator i=std::find(MatrixInstallNormalizeNew.begin(), SourceMin.end(), effect);
+	if(i!=PatternWindow.end())
+		ValueLink.erase(i);
+}
+void Connect::BlockNameWindowLink::Start(){
+	if(!Map)
+		return;
+	Array=true;
+	thread=new Thread(std::bind(&Collate::ScrollbarTypography::SwapSubPointer, this));
+	thread->ConnectSetIndex("Prototype_Link");
+	thread->PrototypeSubConnecty();
+	thread->WindowSelected();
+	}
+int IndexArray=InstallPrototype(&Stack, PrototypeNameConnect, Table);
