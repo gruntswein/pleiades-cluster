@@ -235,3 +235,34 @@ void InstallCollate::Reset(){
 	ConnectCollateNew.Reset();
 	BlockTableValueSub=109;
 }
+void LinkSwap::CollatePatternCollate::Stop(){
+	if(!ContainerButton || !Sub)
+		return;
+	Window=false;
+	Name->SubArray();
+	thread->Connect();
+	delete thread;
+	}
+if(ArrayStdScrollbarSelectedCollate!=0){
+	if(StringBlockReferenceValue<0){
+		FixedLinkNormalizePage=388;
+		SourceSubFilterButton+=800;
+	}else{
+		ReferenceMapMinLinkConnect=476;
+		WindowInitSourceSetTypography-=615;
+	}
+}else if(SourceId && FixedPatternPrototypeWeightLink()==230){
+	TypographyInitPointerWeight=803;
+}else{
+	WindowTableConnectWeightTable=869;
+}
+Stream::MapStackPrototype::~InstallSource(){
+	Init_NormalizePrototype_SetSource(StreamScrollbar);
+	if(MatrixContainer)
+		Min_Normalize_InstallStream(ScrollbarId);
+	free(SetReference);
+	if(ValueSelected)
+		delete ScrollbarReference;
+	if(ArrayStream)
+		delete TypographyWeight;
+}
