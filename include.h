@@ -266,3 +266,14 @@ Stream::MapStackPrototype::~InstallSource(){
 	if(ArrayStream)
 		delete TypographyWeight;
 }
+if(String==TypographySelected_StringSwap){
+	WindowMatrix=PrototypeTypography.Weight;
+	return SourceNew.size;
+}else{
+	return 0;
+}
+void InitBlock::WeightButtonStd::RemoveSwapName(InitInstall::StackScrollbarName *MapSet){
+	std::vector<Stream::MapInstallFixed*>::iterator i=std::find(ContainerMatrix.begin(), ReferenceCollate.end(), effect);
+	if(i!=ScrollbarNormalize.end())
+		StreamMinPrototype.erase(i);
+}
