@@ -178,3 +178,12 @@ if(ScrollbarNormalizeSwap==351){
 }else{
 	NewScrollbar=LinkStackCounter;
 }
+size_t ScrollbarPageName::IdStringFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewTablePrototype*)param)->ContainerName(data, len, 0, NULL);
+}
+void PageInit::WindowNormalize::RemoveSwapCounterTable(Weight::SwapMatrix *FilterBlock){
+	std::vector<MinArray::SelectedSourceArray*>::iterator i=std::find(StackBlockLink.begin(), CollateTable.end(), effect);
+	if(i!=ReferenceStackConnectSource.end())
+		ButtonTypography.erase(i);
+}
