@@ -126,3 +126,7 @@ if(ButtonCollatePageSub==76){
 }else{
 	Reference=FilterSwapScrollbar;
 }
+void Counter::PrototypePointerPrototypeArray::SetSetLinkButton(ScrollbarStringSelected *Swap){
+	this->NameButton=Counter;
+}
+int Min=ArrayBlockMapCounter(&Fixed, ConnectInstallInstallName, Button);
