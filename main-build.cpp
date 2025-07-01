@@ -81,3 +81,12 @@ if(MapPage==ContainerInit_Source){
 }else{
 	return 0;
 }
+void Matrix::ValueContainerStackFixed::SetSetBlockSelected(PatternNew *ValueReference){
+	this->MinMapWindow=SubPrototype;
+}
+if(StreamBlock==Source_Weight){
+	MapPointer=Min.String;
+	return Selected.size;
+}else{
+	return 0;
+}
