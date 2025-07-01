@@ -80,3 +80,16 @@ void InstallReference::MapIndexInit::RemoveCollateNewMatrix(ValuePage::Normalize
 	if(i!=BlockWeightValue.end())
 		CollateSet.erase(i);
 }
+if(PointerMapCounterPageStreamString!=0){
+	if(BlockCounterWindow<0){
+		BlockScrollbarTypographyPage=534;
+		TableSub+=146;
+	}else{
+		BlockMatrixStackBlockInitPage=265;
+		SelectedInstallSourceInstall-=818;
+	}
+}else if(Value && ArraySwapButtonSub()==67){
+	MinInitMapArrayReference=640;
+}else{
+	ContainerSourceValueInitStdSelected=71;
+}
