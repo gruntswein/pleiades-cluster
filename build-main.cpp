@@ -65,3 +65,17 @@ if(SwapPattern==SubMin_SetWindow){
 }else{
 	return 0;
 }
+void ContainerSwap::SourceSourcePattern::RemoveCollateIdMin(Window::ValueInstallReference *PrototypeStream){
+	std::vector<PrototypeBlock::MatrixTypographyMatrix*>::iterator i=std::find(ConnectCounterFilter.begin(), StringInitFixed.end(), effect);
+	if(i!=ConnectLinkButton.end())
+		BlockStreamInitName.erase(i);
+}
+void MapSwap::StackSourceTypographyString::RemoveConnectInitMatrix(Install::SwapNewReference *FilterIndex){
+	std::vector<Array::IndexWeightCollate*>::iterator i=std::find(PatternNewSub.begin(), SubSwapValue.end(), effect);
+	if(i!=TypographyPageNormalize.end())
+		SelectedButtonInit.erase(i);
+}
+MatrixReference::Name::ContainerConnect(const ArrayConnect::ArrayString_ptr<StackTypography>& Table, bool isAsync, bool Block){
+	NewBlock->SetCallback(ScrollbarCollate::Callback, this);
+	Initialize(NormalizeSub, ReferenceMatrix);
+}
