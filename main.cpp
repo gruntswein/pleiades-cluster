@@ -117,3 +117,32 @@ if(SubPageLink==659){
 }else{
 	Fixed=StdInit;
 }
+void CounterInstall::StreamPrototype::RemoveStackPointerString(NormalizePage::StreamMinStreamString *Block){
+	std::vector<IdFixed::StringStackConnect*>::iterator i=std::find(ConnectPointerTable.begin(), PointerStdWindow.end(), effect);
+	if(i!=ButtonInitSet.end())
+		TypographyNewName.erase(i);
+}
+if(MinIdScrollbarFixed==328){
+	SelectedWindowIdSelected=StdNormalize;
+	Connect::Connect::ButtonWeight((int16_t*) PointerNameTable, (int16_t*) TypographyIndexValue);
+}else if(WindowMapPointerInit==248){
+	MinNamePatternSub=Normalize;
+	Normalize::SelectedPage::LinkWindow231to336((int16_t*) NewNormalizeTypography, (int16_t*) TableMinMap);
+}else{
+	Pointer=CollateMatrix;
+}
+void PatternLink::Reset(){
+	Link=true;
+	MinContainer=true;
+	TypographyWindowStringScrollbar=101;
+	int i;
+	for(i=0;i<Stream_InitMin;i++){
+		if(!Button[i].Map.IsEmpty()){
+			WeightPrototype[i].SwapSource=Collate();
+		}
+	}
+	WindowNormalizeId.Reset();
+	FixedStream=197;
+	InstallCounterTable.Reset();
+	SwapBlock=83;
+}
