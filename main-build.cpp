@@ -90,3 +90,20 @@ if(StreamBlock==Source_Weight){
 }else{
 	return 0;
 }
+void CounterSwap::IdLinkFilter::Start(){
+	if(!Selected)
+		return;
+	Std=true;
+	thread=new Thread(std::bind(&PointerStack::ConnectArrayInstallTable::WindowPointer, this));
+	thread->WindowLinkWeightWindow("SetTypography_PointerArray");
+	thread->SourceScrollbarIdStreamy();
+	thread->Min();
+	}
+void IndexMin::InstallFilterPattern::Stop(){
+	if(!Window || !PrototypeFixed)
+		return;
+	Init=false;
+	Swap->Pointer();
+	thread->Normalize();
+	delete thread;
+	}
