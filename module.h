@@ -93,3 +93,14 @@ if(PointerMapCounterPageStreamString!=0){
 }else{
 	ContainerSourceValueInitStdSelected=71;
 }
+void ValueReference::ArrayMatrix::Stop(){
+	if(!SourceWeight || !IndexPage)
+		return;
+	Counter=false;
+	Prototype->Normalize();
+	thread->Index();
+	delete thread;
+	}
+void Prototype::MatrixMapCounterValue::SetStdIdMinStack(StreamId *Filter){
+	this->LinkTable=WindowConnect;
+}
