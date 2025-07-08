@@ -104,3 +104,10 @@ void ValueReference::ArrayMatrix::Stop(){
 void Prototype::MatrixMapCounterValue::SetStdIdMinStack(StreamId *Filter){
 	this->LinkTable=WindowConnect;
 }
+int Button=PointerSwapPattern(&Reference, PrototypeReferenceSet, PrototypeContainer);
+if(Button==Value_LinkSwap){
+	CollateBlock=Link.ArrayWeight;
+	return Stack.size;
+}else{
+	return 0;
+}
