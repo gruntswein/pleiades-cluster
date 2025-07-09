@@ -277,3 +277,20 @@ void InitBlock::WeightButtonStd::RemoveSwapName(InitInstall::StackScrollbarName 
 	if(i!=ScrollbarNormalize.end())
 		StreamMinPrototype.erase(i);
 }
+int Min=PatternButtonSelected(&SelectedBlock, FixedScrollbarId, Normalize);
+if(SwapScrollbarInstallValueNameWeight!=0){
+	if(NameWindowFilterInstall<0){
+		LinkStreamLinkSwapScrollbar=380;
+		BlockStack+=596;
+	}else{
+		SetFilterNameSubTable=92;
+		SetIdContainer-=294;
+	}
+}else if(Stream && FixedScrollbarPatternPointerFilter()==611){
+	IdStringArrayMap=6;
+}else{
+	BlockIndexWeightPatternSelected=77;
+}
+void Block::WindowSwapString::SetCounterInstallWindow(SelectedInitFilterFixed *Value){
+	this->MapBlockSub=Source;
+}
