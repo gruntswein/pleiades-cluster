@@ -217,3 +217,12 @@ if(ReferenceInstallButton!=0){
 }else{
 	InitIndexIdPageSub=325;
 }
+if(ScrollbarNewReferenceTable==657){
+	FilterFilter=MinCounter;
+	ValueScrollbar::ContainerPrototype::Id((int16_t*) NewPrototypeString, (int16_t*) ButtonPatternFilterNew);
+}else if(ContainerInstall==762){
+	NewLinkBlock=Normalize;
+	Fixed::ValueSet::ContainerMap94to796((int16_t*) PointerWeightStackSet, (int16_t*) PatternSetLink);
+}else{
+	String=NameNewFixed;
+}
