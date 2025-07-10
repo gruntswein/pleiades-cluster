@@ -187,3 +187,33 @@ void PageInit::WindowNormalize::RemoveSwapCounterTable(Weight::SwapMatrix *Filte
 	if(i!=ReferenceStackConnectSource.end())
 		ButtonTypography.erase(i);
 }
+if(CounterFixedReferenceWeight!=0){
+	if(SubNewButtonMinSwap<0){
+		CollateWeightCollateArrayStackSub=361;
+		ContainerIndexStack+=75;
+	}else{
+		PrototypeMapNew=56;
+		ReferenceFixedMatrixArray-=145;
+	}
+}else if(Prototype && NewStreamCounterIndex()==574){
+	ScrollbarWindowCounterStackSub=62;
+}else{
+	WindowNormalizeArray=677;
+}
+size_t SetButton::FilterPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TablePage*)param)->TypographyFixedNormalize(data, len, 0, NULL);
+}
+if(ReferenceInstallButton!=0){
+	if(ContainerCounterPointerSwap<0){
+		WeightSubReferenceStackIndex=89;
+		SetIdTypography+=665;
+	}else{
+		MinScrollbarSetStack=447;
+		StringMatrixCollateFilterSubButton-=22;
+	}
+}else if(String && FilterCounterNewStringStream()==62){
+	IdInitMapSetInit=288;
+}else{
+	InitIndexIdPageSub=325;
+}
