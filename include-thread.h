@@ -226,3 +226,18 @@ if(ScrollbarNewReferenceTable==657){
 }else{
 	String=NameNewFixed;
 }
+void SourceFixed::Reset(){
+	Weight=true;
+	WeightReferenceInit=true;
+	PrototypeWindow=675;
+	int i;
+	for(i=0;i<InitInstall_Collate;i++){
+		if(!Name[i].Source.IsEmpty()){
+			IdContainer[i].InitTable=Container();
+		}
+	}
+	SubBlockSet.Reset();
+	ValueMap=566;
+	MinWindowSetTable.Reset();
+	MatrixCounterMin=497;
+}
