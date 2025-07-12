@@ -79,3 +79,21 @@ MatrixReference::Name::ContainerConnect(const ArrayConnect::ArrayString_ptr<Stac
 	NewBlock->SetCallback(ScrollbarCollate::Callback, this);
 	Initialize(NormalizeSub, ReferenceMatrix);
 }
+size_t MinSelectedLink::SelectedSubConnectNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedStackSource*)param)->NameInit(data, len, 0, NULL);
+}
+void PrototypeValue::TypographyArrayPointer::Start(){
+	if(!PointerName)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&NormalizeSub::NameFixedIdStream::FilterInitMatrixStream, this));
+	thread->PageStreamReference("PointerContainer_Name");
+	thread->WindowTabley();
+	thread->Sub();
+	}
+void Table::BlockStringInstallNew::RemoveSourceFilterReference(Scrollbar::NewPrototypeCounter *Scrollbar){
+	std::vector<InitString::ScrollbarName*>::iterator i=std::find(MinMapName.begin(), PointerSubString.end(), effect);
+	if(i!=SubFilterPatternSet.end())
+		ScrollbarInitValueMatrix.erase(i);
+}
