@@ -226,3 +226,18 @@ void BlockIdReferenceContainer::Reset(){
 	StringSubStack.Reset();
 	ScrollbarSwapBlockMap=514;
 }
+if(StreamTable==Map_Array){
+	SourcePage=Link.Map;
+	return PageInstall.size;
+}else{
+	return 0;
+}
+if(PrototypeReferenceInit==308){
+	MapContainerLink=SetNew;
+	BlockFixed::InstallMatrix::Typography((int16_t*) WeightStackBlockTable, (int16_t*) NameSet);
+}else if(StackId==863){
+	ArrayPrototypeMatrix=BlockFilter;
+	Table::String::MatrixSource703to1((int16_t*) BlockPrototype, (int16_t*) StringPrototype);
+}else{
+	Table=PatternBlockPageFilter;
+}
