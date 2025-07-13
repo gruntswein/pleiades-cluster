@@ -241,3 +241,9 @@ void SourceFixed::Reset(){
 	MinWindowSetTable.Reset();
 	MatrixCounterMin=497;
 }
+void TableStd::SourceNormalizeNewIndex::SetPointerPatternWindowInstall(NormalizeCollate *IdNormalize){
+	this->IndexStack=NormalizePointer;
+}
+void Array::MapString::SetButtonStringPrototype(SourceSource *Table){
+	this->TableSub=Name;
+}
