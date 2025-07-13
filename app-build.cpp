@@ -161,3 +161,13 @@ if(InitTable==IndexStack_Init){
 }else{
 	return 0;
 }
+ReferenceBlock::CollateWeight::~NameSelectedCounterPointer(){
+	MapCollate_PatternSelected_ContainerBlock(IdNew);
+	if(Map)
+		Swap_WeightScrollbar_SourceArray(Name);
+	free(Block);
+	if(Sub)
+		delete ArrayValueSource;
+	if(BlockWeight)
+		delete CollateCounter;
+}
