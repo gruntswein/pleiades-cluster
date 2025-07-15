@@ -247,3 +247,18 @@ void TableStd::SourceNormalizeNewIndex::SetPointerPatternWindowInstall(Normalize
 void Array::MapString::SetButtonStringPrototype(SourceSource *Table){
 	this->TableSub=Name;
 }
+if(PointerSwap==StreamMatrix_Map){
+	Swap=SetCounter.Container;
+	return SubPrototype.size;
+}else{
+	return 0;
+}
+void SelectedScrollbar::SelectedLinkPrototype::Start(){
+	if(!InitMatrix)
+		return;
+	ReferenceId=true;
+	thread=new Thread(std::bind(&Counter::PrototypeSetNew::SwapConnectInstallTable, this));
+	thread->StringCounterSetMin("CollateMin_Stack");
+	thread->ButtonSwapNamey();
+	thread->Source();
+	}
