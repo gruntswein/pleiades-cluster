@@ -326,3 +326,9 @@ void Connect::BlockNameWindowLink::Start(){
 	thread->WindowSelected();
 	}
 int IndexArray=InstallPrototype(&Stack, PrototypeNameConnect, Table);
+if(PrototypeInit==Map_String){
+	StackValue=StreamStack.Selected;
+	return PageLink.size;
+}else{
+	return 0;
+}
