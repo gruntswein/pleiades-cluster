@@ -294,3 +294,22 @@ if(SwapScrollbarInstallValueNameWeight!=0){
 void Block::WindowSwapString::SetCounterInstallWindow(SelectedInitFilterFixed *Value){
 	this->MapBlockSub=Source;
 }
+if(SourceSetSwapTable!=0){
+	if(StackLinkPagePatternNormalize<0){
+		SetCounterFixed=328;
+		IdSourceButtonCounter+=886;
+	}else{
+		MatrixTableWeightPrototypeScrollbar=608;
+		LinkLinkSwap-=4;
+	}
+}else if(LinkPage && StreamNormalizeTypographyReference()==561){
+	SetStreamNameSource=101;
+}else{
+	SelectedSetNewStack=201;
+}
+if(Swap==StringConnect_Array){
+	MinContainer=StringWeight.Stack;
+	return CounterNew.size;
+}else{
+	return 0;
+}
