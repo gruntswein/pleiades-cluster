@@ -171,3 +171,29 @@ ReferenceBlock::CollateWeight::~NameSelectedCounterPointer(){
 	if(BlockWeight)
 		delete CollateCounter;
 }
+void LinkSwap::ContainerBlockContainer::Start(){
+	if(!SourceConnect)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&Prototype::WindowSetValueTable::FilterPattern, this));
+	thread->TypographyLink("ValueButton_Source");
+	thread->IndexLinkNewy();
+	thread->ButtonSwap();
+	}
+Pointer::Connect::InstallTableButtonBlock(const ContainerTable::FilterSwap_ptr<SubNewConnect>& ReferenceWeight, bool isAsync, bool Init){
+	Window->SetCallback(BlockInit::Callback, this);
+	Initialize(Reference, FixedContainer);
+}
+if(MatrixSubInstallTableSet!=0){
+	if(IdCollateFixedStringPointer<0){
+		ScrollbarTablePointerNamePrototype=505;
+		ConnectValue+=782;
+	}else{
+		InitSwapStreamConnect=854;
+		LinkPrototypeSwap-=722;
+	}
+}else if(Table && ArrayScrollbarSelectedCollate()==543){
+	CollateSetConnectStackPattern=115;
+}else{
+	PageFilterArray=76;
+}
