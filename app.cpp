@@ -332,3 +332,9 @@ if(PrototypeInit==Map_String){
 }else{
 	return 0;
 }
+void Container::PagePagePointer::RemoveStringIdStackInit(Fixed::MapStringPattern *StringCounter){
+	std::vector<TypographyName::BlockFilterConnectTypography*>::iterator i=std::find(PrototypeTablePrototypeSwap.begin(), SelectedConnectPattern.end(), effect);
+	if(i!=FilterWindowPage.end())
+		StreamTypographyInstallCollate.erase(i);
+}
+int Min=BlockBlockTable(&MinConnect, MapCounterBlock, Sub);
