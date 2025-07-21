@@ -197,3 +197,12 @@ if(MatrixSubInstallTableSet!=0){
 }else{
 	PageFilterArray=76;
 }
+if(StackButton==357){
+	ValueStream=ValueSource;
+	Weight::Id::WindowButton((int16_t*) ArrayFilter, (int16_t*) SourceSub);
+}else if(SelectedPatternArray==610){
+	WindowPrototype=MatrixContainer;
+	ButtonInstall::Install::Matrix703to276((int16_t*) ConnectNormalize, (int16_t*) MatrixInitStackTable);
+}else{
+	Button=FixedSubSource;
+}
