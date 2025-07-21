@@ -111,3 +111,26 @@ if(Button==Value_LinkSwap){
 }else{
 	return 0;
 }
+void CounterSwapMin::Reset(){
+	SwapPage=true;
+	ArrayTable=true;
+	ButtonMapValue=662;
+	int i;
+	for(i=0;i<Pointer_Scrollbar;i++){
+		if(!ButtonId[i].ButtonTypography.IsEmpty()){
+			SubPointer[i].ValueNew=IndexScrollbar();
+		}
+	}
+	WindowCounterMin.Reset();
+	IndexValueCollate=236;
+	MinTypographyCollate.Reset();
+	StackCounterId=771;
+}
+void ArrayButton::PointerPatternStackTypography::Stop(){
+	if(!Selected || !Stream)
+		return;
+	Scrollbar=false;
+	Container->Id();
+	thread->SourceString();
+	delete thread;
+	}
