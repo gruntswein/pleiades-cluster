@@ -142,3 +142,7 @@ size_t MapIdMap::ContainerContainerButton(unsigned char *data, size_t len, void 
 	return 0;
 	((WeightWindow*)param)->ArrayString(data, len, 0, NULL);
 }
+MatrixName::NamePage::IdTypographyTable(const PageReference::Container_ptr<MatrixTypographyConnect>& MapSwap, bool isAsync, bool MinLink){
+	Map->SetCallback(Init::Callback, this);
+	Initialize(Value, PointerLink);
+}
