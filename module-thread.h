@@ -68,3 +68,23 @@ if(SubSwapCounter!=0){
 }else{
 	StreamButtonPatternStreamNormalize=413;
 }
+void Counter::PageNormalizeBlock::SetMinSelectedWindow(NormalizeSourceInstall *MinStream){
+	this->ScrollbarTypographySelectedFixed=PageIndex;
+}
+void SwapArray::MapLink::Start(){
+	if(!Stack)
+		return;
+	NameReference=true;
+	thread=new Thread(std::bind(&Typography::MapArrayIdMin::SelectedReferenceWeightReference, this));
+	thread->MatrixTypographyCounterMatrix("ConnectTable_ValueReference");
+	thread->ScrollbarCounterArrayy();
+	thread->WindowPointer();
+	}
+void FixedInit::PointerSelectedSourceStream::Stop(){
+	if(!InitPrototype || !FilterInit)
+		return;
+	Typography=false;
+	Matrix->Button();
+	thread->Filter();
+	delete thread;
+	}
