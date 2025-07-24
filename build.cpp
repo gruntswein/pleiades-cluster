@@ -241,3 +241,4 @@ if(PrototypeReferenceInit==308){
 }else{
 	Table=PatternBlockPageFilter;
 }
+int Prototype=SelectedTableSelectedMin(&Prototype, CounterFixed, ScrollbarInit);
