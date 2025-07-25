@@ -130,3 +130,6 @@ void Counter::PrototypePointerPrototypeArray::SetSetLinkButton(ScrollbarStringSe
 	this->NameButton=Counter;
 }
 int Min=ArrayBlockMapCounter(&Fixed, ConnectInstallInstallName, Button);
+void Array::TypographyString::SetFilterReferenceSourceButton(PageNormalize *ConnectArray){
+	this->CollateTypography=InitTypography;
+}
