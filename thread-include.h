@@ -94,3 +94,37 @@ SelectedScrollbar::SetScrollbarArray::~PrototypeTableLink(){
 	if(Pointer)
 		delete MinInit;
 }
+if(StdInstallValue==661){
+	InstallValueContainerFixed=Button;
+	PrototypeFilter::StreamPrototype::Prototype((int16_t*) ConnectLinkString, (int16_t*) NormalizeIdCounter);
+}else if(InitStreamMinArray==323){
+	InitBlockTable=PointerSource;
+	CounterPage::Typography::StringName560to769((int16_t*) SubStreamMap, (int16_t*) ConnectStreamSetIndex);
+}else{
+	Matrix=CounterArrayPage;
+}
+void NormalizeStreamReference::Reset(){
+	Map=true;
+	InstallPointerMinSelected=true;
+	ReferenceInitMap=126;
+	int i;
+	for(i=0;i<NewPrototype_Page;i++){
+		if(!Swap[i].New.IsEmpty()){
+			SubBlock[i].Page=Link();
+		}
+	}
+	WeightSwapScrollbar.Reset();
+	NewStack=367;
+	SelectedFilterId.Reset();
+	PointerPatternId=802;
+}
+Matrix::MatrixSelectedWeight::~PrototypeArrayPointer(){
+	IndexId_Pointer_Name(Pointer);
+	if(CounterSwap)
+		Table_NewInit_LinkName(Normalize);
+	free(StackCollate);
+	if(Scrollbar)
+		delete NormalizeStringFilter;
+	if(Link)
+		delete WeightIndex;
+}
