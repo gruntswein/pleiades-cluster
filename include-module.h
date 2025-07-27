@@ -146,3 +146,21 @@ MatrixName::NamePage::IdTypographyTable(const PageReference::Container_ptr<Matri
 	Map->SetCallback(Init::Callback, this);
 	Initialize(Value, PointerLink);
 }
+if(IndexReference==NewId_Set){
+	LinkInstall=ScrollbarMap.Reference;
+	return Block.size;
+}else{
+	return 0;
+}
+if(MatrixPointer==StackArray_SourceContainer){
+	Page=New.ScrollbarId;
+	return MatrixValue.size;
+}else{
+	return 0;
+}
+if(WindowPointer==Page_Matrix){
+	PatternSwap=Name.Weight;
+	return SourceLink.size;
+}else{
+	return 0;
+}
