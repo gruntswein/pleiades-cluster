@@ -313,3 +313,7 @@ if(Swap==StringConnect_Array){
 }else{
 	return 0;
 }
+size_t MatrixFilter::StackNameWindowLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceInstallCollateButton*)param)->CounterNewSubMin(data, len, 0, NULL);
+}
