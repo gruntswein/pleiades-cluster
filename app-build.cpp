@@ -206,3 +206,23 @@ if(StackButton==357){
 }else{
 	Button=FixedSubSource;
 }
+void Stream::InstallStreamNewButton::RemoveCollatePatternPatternSource(StreamBlock::WeightButtonCounter *WeightName){
+	std::vector<TableConnect::IdStackFilterStd*>::iterator i=std::find(MinTypography.begin(), ReferenceButton.end(), effect);
+	if(i!=MinButtonScrollbar.end())
+		FilterMinStd.erase(i);
+}
+void NewPagePointer::Reset(){
+	Weight=true;
+	StackSub=true;
+	PagePattern=49;
+	int i;
+	for(i=0;i<New_Counter;i++){
+		if(!CounterStd[i].ConnectCollate.IsEmpty()){
+			Typography[i].Matrix=Stream();
+		}
+	}
+	StdMap.Reset();
+	WindowSwapNew=894;
+	SelectedPointerSubWeight.Reset();
+	SourceStackTableFixed=398;
+}
