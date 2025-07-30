@@ -226,3 +226,17 @@ void NewPagePointer::Reset(){
 	SelectedPointerSubWeight.Reset();
 	SourceStackTableFixed=398;
 }
+Connect::StreamBlock::~ConnectMinLinkStream(){
+	Block_IdButton_InitPointer(PatternWindow);
+	if(InstallWeight)
+		PrototypeValue_ReferenceMin_Weight(WindowFilter);
+	free(SwapSource);
+	if(Swap)
+		delete SwapCollate;
+	if(Pattern)
+		delete Sub;
+}
+size_t IndexName::ValuePatternSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternNewSetCollate*)param)->MatrixStdButtonPage(data, len, 0, NULL);
+}
