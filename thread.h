@@ -133,3 +133,13 @@ int Min=ArrayBlockMapCounter(&Fixed, ConnectInstallInstallName, Button);
 void Array::TypographyString::SetFilterReferenceSourceButton(PageNormalize *ConnectArray){
 	this->CollateTypography=InitTypography;
 }
+void Set::ConnectInstallPointerString::RemoveFixedNormalizePrototype(StackSub::PrototypePointerPointer *Init){
+	std::vector<Link::IndexBlockWeight*>::iterator i=std::find(NameSetSwapContainer.begin(), WeightNewWindowSource.end(), effect);
+	if(i!=StringCollateArray.end())
+		InstallMapStream.erase(i);
+}
+void PointerSub::SetPatternCounter::RemoveConnectWeightFixed(Typography::MinCounterPageStack *Collate){
+	std::vector<SelectedSwap::TypographyStringSource*>::iterator i=std::find(TypographyTableString.begin(), FilterStringMin.end(), effect);
+	if(i!=ButtonSet.end())
+		WeightLinkSub.erase(i);
+}
