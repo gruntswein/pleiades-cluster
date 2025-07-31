@@ -262,3 +262,27 @@ void SelectedScrollbar::SelectedLinkPrototype::Start(){
 	thread->ButtonSwapNamey();
 	thread->Source();
 	}
+void IdCounterIndex::Reset(){
+	Window=true;
+	CollateNewPrototype=true;
+	FixedSelectedStream=118;
+	int i;
+	for(i=0;i<NormalizeWeight_Std;i++){
+		if(!Prototype[i].WeightInstall.IsEmpty()){
+			Table[i].Name=Stream();
+		}
+	}
+	StackNameConnectTypography.Reset();
+	SourceName=845;
+	MatrixStreamValueStack.Reset();
+	WeightScrollbarReference=598;
+}
+if(LinkPrototypeInstall==808){
+	PatternConnectMatrix=TableMatrix;
+	Container::StdReference::NormalizeScrollbar((int16_t*) BlockLinkSub, (int16_t*) InstallPrototype);
+}else if(NormalizeIdStack==566){
+	TableWeightArray=Table;
+	Counter::Block::ReferenceMap529to19((int16_t*) ConnectWindowPage, (int16_t*) CollateFixedNameSelected);
+}else{
+	Stream=ScrollbarMapSourceTable;
+}
