@@ -164,3 +164,29 @@ if(WindowPointer==Page_Matrix){
 }else{
 	return 0;
 }
+void MatrixTableMapValue::Reset(){
+	FilterContainer=true;
+	StringCollateSourceBlock=true;
+	IdButtonArray=368;
+	int i;
+	for(i=0;i<IdLink_ReferenceSwap;i++){
+		if(!MapScrollbar[i].TablePrototype.IsEmpty()){
+			Map[i].NameReference=Container();
+		}
+	}
+	PatternFixedMap.Reset();
+	PointerConnectStd=854;
+	MinIdCollate.Reset();
+	BlockPrototypeSubScrollbar=85;
+}
+if(NormalizePage==LinkMatrix_CounterLink){
+	FilterStream=IndexPattern.ScrollbarReference;
+	return BlockValue.size;
+}else{
+	return 0;
+}
+void ArraySource::CollateSub::RemoveMapInitMatrix(SubWindow::WindowNewSourceFixed *MinContainer){
+	std::vector<Collate::StringSwapStream*>::iterator i=std::find(ContainerNormalizeSelected.begin(), ValueStackCounterSub.end(), effect);
+	if(i!=FilterStd.end())
+		PatternSubWeightSelected.erase(i);
+}
