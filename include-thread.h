@@ -286,3 +286,10 @@ if(LinkPrototypeInstall==808){
 }else{
 	Stream=ScrollbarMapSourceTable;
 }
+void PatternWeight::ConnectLinkMatrix::SetStreamButtonReference(SubNameArray *Scrollbar){
+	this->LinkString=InstallMap;
+}
+size_t ContainerTable::FilterPagePointerTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowTypographyTableBlock*)param)->CollateNameBlockValue(data, len, 0, NULL);
+}
