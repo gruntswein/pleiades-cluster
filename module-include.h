@@ -96,3 +96,6 @@ if(ButtonPatternStdCounterInit!=0){
 }else{
 	PatternCounterWeightPointerId=115;
 }
+void PageWeight::InitSourceTableArray::SetValuePrototype(CollateReference *MapReference){
+	this->MapInitSubPointer=Collate;
+}
