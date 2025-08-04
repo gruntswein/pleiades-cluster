@@ -190,3 +190,10 @@ void ArraySource::CollateSub::RemoveMapInitMatrix(SubWindow::WindowNewSourceFixe
 	if(i!=FilterStd.end())
 		PatternSubWeightSelected.erase(i);
 }
+if(Set==PageScrollbar_Normalize){
+	PatternPrototype=Container.MapPointer;
+	return Array.size;
+}else{
+	return 0;
+}
+int Pattern=FixedSetValuePage(&StackPage, MatrixInstallFilterArray, Value);
