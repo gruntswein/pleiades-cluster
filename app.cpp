@@ -338,3 +338,19 @@ void Container::PagePagePointer::RemoveStringIdStackInit(Fixed::MapStringPattern
 		StreamTypographyInstallCollate.erase(i);
 }
 int Min=BlockBlockTable(&MinConnect, MapCounterBlock, Sub);
+void Button::WindowNormalizeSwapStream::SetMapValue(StdConnectSub *BlockWeight){
+	this->ArrayStack=Normalize;
+}
+if(BlockWindowContainerReference!=0){
+	if(ContainerIdIdNewConnectWindow<0){
+		CounterScrollbarNewFixed=752;
+		ScrollbarSourceValue+=355;
+	}else{
+		ReferenceIdPatternStackBlock=340;
+		MinScrollbarReferenceMatrix-=616;
+	}
+}else if(Sub && StringPatternWeightLink()==236){
+	InstallScrollbarButtonFixedNormalize=47;
+}else{
+	InstallStreamScrollbar=210;
+}
