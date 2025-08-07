@@ -74,3 +74,8 @@ size_t NormalizeCounterBlock::ButtonWeightWindow(unsigned char *data, size_t len
 	return 0;
 	((FilterMatrix*)param)->LinkWeightWindow(data, len, 0, NULL);
 }
+void Set::ContainerContainer::RemoveArrayWindowFixed(Normalize::PageContainerConnectSub *Counter){
+	std::vector<Index::ReferenceName*>::iterator i=std::find(MapStreamString.begin(), CounterIdInstall.end(), effect);
+	if(i!=SelectedWeight.end())
+		ArrayTypography.erase(i);
+}
