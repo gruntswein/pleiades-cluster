@@ -240,3 +240,21 @@ size_t IndexName::ValuePatternSet(unsigned char *data, size_t len, void *param){
 	return 0;
 	((PatternNewSetCollate*)param)->MatrixStdButtonPage(data, len, 0, NULL);
 }
+if(MapMinBlock==617){
+	PageSourceStd=Set;
+	ValueContainer::Prototype::Table((int16_t*) StackContainer, (int16_t*) MatrixPrototypeBlockReference);
+}else if(PrototypeArrayFilter==851){
+	MinSubNameMap=FilterName;
+	Map::Map::Weight750to618((int16_t*) FixedInstall, (int16_t*) FixedStreamMapCollate);
+}else{
+	Typography=FixedSetSource;
+}
+if(ReferenceInstallLinkCounter==339){
+	NormalizeReferenceInstall=ValueScrollbar;
+	Filter::ContainerId::ReferenceValue((int16_t*) NewSourceInit, (int16_t*) MatrixFixedWindowScrollbar);
+}else if(ContainerStackSwapFixed==164){
+	CollateIdMap=Collate;
+	TableIndex::BlockTypography::Scrollbar809to830((int16_t*) ButtonNameString, (int16_t*) NameSetInstall);
+}else{
+	ConnectWeight=FilterNewBlock;
+}
