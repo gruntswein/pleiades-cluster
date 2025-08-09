@@ -242,3 +242,8 @@ if(PrototypeReferenceInit==308){
 	Table=PatternBlockPageFilter;
 }
 int Prototype=SelectedTableSelectedMin(&Prototype, CounterFixed, ScrollbarInit);
+void NameConnect::StreamTableNormalize::RemoveNewPattern(InitPattern::ValueMapLink *Array){
+	std::vector<StreamCounter::ContainerPrototypeStream*>::iterator i=std::find(ButtonCollateSwap.begin(), FixedNormalizeSubReference.end(), effect);
+	if(i!=MapSubTable.end())
+		SwapPageString.erase(i);
+}
