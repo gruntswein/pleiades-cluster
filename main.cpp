@@ -146,3 +146,24 @@ void PatternLink::Reset(){
 	InstallCounterTable.Reset();
 	SwapBlock=83;
 }
+void Connect::PageNameCollateMap::SetIdFixedContainerCollate(InitArrayButtonString *Source){
+	this->ContainerCollatePrototype=Window;
+}
+void Window::InstallButton::Start(){
+	if(!NameWindow)
+		return;
+	ScrollbarCounter=true;
+	thread=new Thread(std::bind(&SourcePointer::FilterInitReferenceMatrix::StringCounterIndex, this));
+	thread->PointerInitSource("ContainerReference_NameString");
+	thread->ButtonTableMapFiltery();
+	thread->ScrollbarSub();
+	}
+if(LinkSourceArray==300){
+	FilterStackPointerArray=CounterNormalize;
+	MinStream::CollateArray::ConnectSource((int16_t*) NormalizeFilterValue, (int16_t*) PatternInitLink);
+}else if(NewMapStack==159){
+	PatternIdConnect=Swap;
+	PageCollate::MinPointer::Stream788to34((int16_t*) NormalizeTypographyPointer, (int16_t*) ButtonNameTypographyButton);
+}else{
+	ValueCollate=PageSubReferenceStack;
+}
