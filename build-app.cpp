@@ -83,3 +83,6 @@ void Index::MatrixTypography::Stop(){
 	thread->Connect();
 	delete thread;
 	}
+void ArrayScrollbar::PatternConnectName::SetScrollbarTypographySub(StreamScrollbarName *ArrayPointer){
+	this->PointerSourceTypographyName=LinkSwap;
+}
