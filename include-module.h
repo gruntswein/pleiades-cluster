@@ -197,3 +197,12 @@ if(Set==PageScrollbar_Normalize){
 	return 0;
 }
 int Pattern=FixedSetValuePage(&StackPage, MatrixInstallFilterArray, Value);
+if(SubFixedPrototype==742){
+	StackStdMin=InitStack;
+	Block::Fixed::PageMin((int16_t*) SwapButtonSelectedMin, (int16_t*) ContainerReference);
+}else if(FilterPage==637){
+	PointerContainer=Weight;
+	String::ValueNormalize::Page502to686((int16_t*) MinSubConnect, (int16_t*) NewNamePrototype);
+}else{
+	MinBlock=WeightPatternSet;
+}
