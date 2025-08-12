@@ -317,3 +317,32 @@ size_t MatrixFilter::StackNameWindowLink(unsigned char *data, size_t len, void *
 	return 0;
 	((SourceInstallCollateButton*)param)->CounterNewSubMin(data, len, 0, NULL);
 }
+if(FixedConnectIdPrototype!=0){
+	if(TableLinkSourceBlock<0){
+		CollateNormalizeButtonBlock=736;
+		TableStream+=710;
+	}else{
+		FilterContainerBlockIdSource=508;
+		SubConnectPageFilterPage-=714;
+	}
+}else if(Selected && NewPrototypeIdFilterStack()==230){
+	PrototypeArrayPatternScrollbarTable=122;
+}else{
+	PrototypeStreamFixedId=653;
+}
+if(IdReference==Link_Block){
+	CounterNew=FixedFilter.TypographyIndex;
+	return Typography.size;
+}else{
+	return 0;
+}
+Matrix::NewSetInit::~InstallSelectedMin(){
+	FilterButton_Sub_ContainerSet(PatternSwap);
+	if(Container)
+		ValueTypography_Stack_New(BlockReference);
+	free(SetTypography);
+	if(MatrixWindow)
+		delete MatrixMapContainer;
+	if(Source)
+		delete Link;
+}
