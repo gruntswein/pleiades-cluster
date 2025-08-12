@@ -159,3 +159,31 @@ void SwapNormalize::Reset(){
 	InstallButtonPage.Reset();
 	IdNameWindowCounter=60;
 }
+void StdName::Reset(){
+	Map=true;
+	CounterContainerFixedPattern=true;
+	FilterNewArray=492;
+	int i;
+	for(i=0;i<IdCollate_Init;i++){
+		if(!Stream[i].Install.IsEmpty()){
+			SelectedName[i].CollatePattern=NormalizeFixed();
+		}
+	}
+	SubIndexMap.Reset();
+	FixedConnect=501;
+	MapIdFixed.Reset();
+	ArrayBlockSelected=431;
+}
+if(ConnectPageConnectTypographyCollate!=0){
+	if(SwapSetCounterConnect<0){
+		ConnectBlockButtonSubCounter=893;
+		FixedReference+=873;
+	}else{
+		PatternTableBlockTable=582;
+		PageInitPage-=287;
+	}
+}else if(Normalize && BlockTableNewFixedStream()==468){
+	SwapLinkArrayFixedSelected=483;
+}else{
+	PatternInitPageStdCounterWeight=569;
+}
