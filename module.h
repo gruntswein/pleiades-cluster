@@ -134,3 +134,22 @@ void ArrayButton::PointerPatternStackTypography::Stop(){
 	thread->SourceString();
 	delete thread;
 	}
+size_t SetSet::StringTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamSetLink*)param)->PatternString(data, len, 0, NULL);
+}
+if(ButtonSelected==Table_Id){
+	PrototypeMap=Normalize.CollateSet;
+	return WindowTypography.size;
+}else{
+	return 0;
+}
+void InitPointer::PrototypeMin::Start(){
+	if(!Scrollbar)
+		return;
+	Filter=true;
+	thread=new Thread(std::bind(&InitNormalize::ArrayPointerCollateNormalize::TypographyStreamStd, this));
+	thread->ValueWeight("NameScrollbar_FilterCollate");
+	thread->InitWeightInitMapy();
+	thread->Block();
+	}
