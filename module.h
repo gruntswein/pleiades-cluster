@@ -153,3 +153,11 @@ void InitPointer::PrototypeMin::Start(){
 	thread->InitWeightInitMapy();
 	thread->Block();
 	}
+void InitScrollbar::SubString::Stop(){
+	if(!Block || !PointerTable)
+		return;
+	New=false;
+	Container->Page();
+	thread->Weight();
+	delete thread;
+	}
