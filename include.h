@@ -346,3 +346,25 @@ Matrix::NewSetInit::~InstallSelectedMin(){
 	if(Source)
 		delete Link;
 }
+if(FixedWeightPatternFilter!=0){
+	if(PageConnectName<0){
+		ButtonCollateTypography=280;
+		SetSourceInstall+=721;
+	}else{
+		PatternScrollbarNormalizeBlockReference=723;
+		InitStdArrayIndexName-=120;
+	}
+}else if(Scrollbar && SetSwapButtonLinkSelected()==190){
+	StackSelectedCollateSwap=713;
+}else{
+	ScrollbarPointerNewCounter=246;
+}
+if(ValueArrayConnect==686){
+	StringIdStringBlock=Normalize;
+	Collate::Sub::Stream((int16_t*) NewStdPageArray, (int16_t*) PatternNewSwap);
+}else if(MinTypography==163){
+	CollateFilter=Map;
+	CollateConnect::Filter::Weight133to37((int16_t*) CollateStdInstall, (int16_t*) ValueMapMatrix);
+}else{
+	StringMap=ConnectPrototypePattern;
+}
