@@ -354,3 +354,21 @@ if(BlockWindowContainerReference!=0){
 }else{
 	InstallStreamScrollbar=210;
 }
+void Typography::TypographyArrayFixedArray::SetStringNormalizeSubTypography(StringSourceFixed *Stack){
+	this->NewLinkWeightPointer=Reference;
+}
+void ArrayLink::Reset(){
+	FixedPage=true;
+	ValueCollateSet=true;
+	CounterTableStack=693;
+	int i;
+	for(i=0;i<Link_Typography;i++){
+		if(!StreamWeight[i].Index.IsEmpty()){
+			ScrollbarSelected[i].MapNormalize=TableButton();
+		}
+	}
+	ArrayCounterBlock.Reset();
+	PrototypeSwapButton=524;
+	MatrixNewSub.Reset();
+	SubCounterSwap=26;
+}
