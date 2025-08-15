@@ -167,3 +167,14 @@ if(LinkSourceArray==300){
 }else{
 	ValueCollate=PageSubReferenceStack;
 }
+Weight::PageFixed::PageWindow(const Button::Reference_ptr<TableNormalize>& StringArray, bool isAsync, bool CounterString){
+	WindowStack->SetCallback(PageBlock::Callback, this);
+	Initialize(Set, TypographyNormalize);
+}
+size_t SelectedCounterScrollbar::ConnectPageFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubNormalizeArray*)param)->NameSubInstall(data, len, 0, NULL);
+}
+void Map::ArrayString::SetPatternFixed(ButtonLinkPatternButton *Block){
+	this->MapStdWeight=LinkSub;
+}
