@@ -13,3 +13,9 @@ void ReferenceConnect::SourceStreamWeight::RemoveWindowArray(Set::ValueStackScro
 
 
 
+if(Value==Name_Window){
+	IdNormalize=Button.Filter;
+	return Stack.size;
+}else{
+	return 0;
+}
