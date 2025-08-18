@@ -143,3 +143,24 @@ void PointerSub::SetPatternCounter::RemoveConnectWeightFixed(Typography::MinCoun
 	if(i!=ButtonSet.end())
 		WeightLinkSub.erase(i);
 }
+void Array::StackInit::RemoveArraySourceReference(Init::IdBlockSubPrototype *Stack){
+	std::vector<Swap::SelectedPointer*>::iterator i=std::find(LinkValuePattern.begin(), TableMapScrollbar.end(), effect);
+	if(i!=IndexInstallPrototypeStack.end())
+		ButtonStack.erase(i);
+}
+Normalize::PrototypeTypographyNewMap::~PatternPatternStack(){
+	ScrollbarArray_Min_SetString(Name);
+	if(Pointer)
+		SourceContainer_Normalize_SubMin(Array);
+	free(ReferencePointer);
+	if(Init)
+		delete PrototypeReferencePageString;
+	if(ButtonInit)
+		delete SelectedSwap;
+}
+if(ContainerSelected==Button_TableName){
+	New=StreamStack.StreamReference;
+	return Init.size;
+}else{
+	return 0;
+}
