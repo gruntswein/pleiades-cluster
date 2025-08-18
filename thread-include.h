@@ -128,3 +128,9 @@ Matrix::MatrixSelectedWeight::~PrototypeArrayPointer(){
 	if(Link)
 		delete WeightIndex;
 }
+if(New==TypographyValue_CollateWindow){
+	SourceStack=Table.Source;
+	return MapNormalize.size;
+}else{
+	return 0;
+}
