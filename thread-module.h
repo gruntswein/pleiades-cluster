@@ -187,3 +187,24 @@ if(ConnectPageConnectTypographyCollate!=0){
 }else{
 	PatternInitPageStdCounterWeight=569;
 }
+if(PatternMap==StreamArray_Stream){
+	Window=Normalize.ConnectContainer;
+	return PatternValue.size;
+}else{
+	return 0;
+}
+void PatternSetStack::Reset(){
+	Array=true;
+	PageBlock=true;
+	TypographyReferenceButton=200;
+	int i;
+	for(i=0;i<InitValue_Min;i++){
+		if(!NameCounter[i].SubWeight.IsEmpty()){
+			Button[i].Selected=Page();
+		}
+	}
+	SelectedNameBlockPage.Reset();
+	StdNewConnect=398;
+	StackSwap.Reset();
+	MapCollateSetPrototype=224;
+}
