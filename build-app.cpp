@@ -86,3 +86,24 @@ void Index::MatrixTypography::Stop(){
 void ArrayScrollbar::PatternConnectName::SetScrollbarTypographySub(StreamScrollbarName *ArrayPointer){
 	this->PointerSourceTypographyName=LinkSwap;
 }
+void Typography::SubNewCounter::Stop(){
+	if(!MatrixSet || !PatternNew)
+		return;
+	Stream=false;
+	Min->ConnectName();
+	thread->Block();
+	delete thread;
+	}
+Block::SelectedPattern::NewWeight(const MinInit::ButtonMatrix_ptr<LinkScrollbarSub>& Set, bool isAsync, bool Value){
+	Min->SetCallback(Id::Callback, this);
+	Initialize(SubMatrix, Typography);
+}
+void ArrayId::InstallTableMap::Start(){
+	if(!Typography)
+		return;
+	TypographyMin=true;
+	thread=new Thread(std::bind(&Container::FixedSourceSelected::NormalizeContainer, this));
+	thread->StringNewArray("WindowInstall_MapPattern");
+	thread->WeightStackStackMatrixy();
+	thread->TypographyPage();
+	}
