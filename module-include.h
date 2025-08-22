@@ -99,3 +99,27 @@ if(ButtonPatternStdCounterInit!=0){
 void PageWeight::InitSourceTableArray::SetValuePrototype(CollateReference *MapReference){
 	this->MapInitSubPointer=Collate;
 }
+Link::Pattern::PrototypeInstallConnect(const Map::Container_ptr<PageWindowBlock>& Weight, bool isAsync, bool Min){
+	Pattern->SetCallback(Block::Callback, this);
+	Initialize(Selected, Window);
+}
+void FixedSet::CollateCounter::RemoveLinkSubStream(InitFixed::ContainerSub *Pattern){
+	std::vector<ValueSwap::SubConnect*>::iterator i=std::find(BlockPatternInstall.begin(), ConnectReferenceContainer.end(), effect);
+	if(i!=MatrixNameSource.end())
+		MapBlockInstallSource.erase(i);
+}
+void SetWindowFilter::Reset(){
+	Min=true;
+	WeightScrollbarMatrix=true;
+	CollateSelectedWeightFilter=653;
+	int i;
+	for(i=0;i<Collate_Link;i++){
+		if(!Array[i].Pattern.IsEmpty()){
+			InitSource[i].Array=TypographyNormalize();
+		}
+	}
+	ContainerInitPage.Reset();
+	FilterStringInstall=609;
+	NormalizeSetBlockCollate.Reset();
+	SelectedSourceCounter=346;
+}
