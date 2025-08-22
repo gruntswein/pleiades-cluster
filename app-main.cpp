@@ -120,3 +120,35 @@ if(Counter==ConnectMin_Link){
 }else{
 	return 0;
 }
+if(StringConnectPatternMatrix!=0){
+	if(PageConnectNormalizeInitNew<0){
+		MatrixTableMatrixMapMinValue=429;
+		LinkContainerScrollbarWeight+=413;
+	}else{
+		MatrixInitSubPageNormalize=182;
+		IndexSourceSourceString-=710;
+	}
+}else if(Source && TypographyPrototypeButtonWindow()==710){
+	ArraySetTableIndexWeight=534;
+}else{
+	BlockNameScrollbarContainer=802;
+}
+size_t StringButtonArray::SubMatrixMapButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetValue*)param)->ValueBlockSwapWindow(data, len, 0, NULL);
+}
+void LinkPointer::Reset(){
+	IndexValue=true;
+	SubInit=true;
+	WeightArrayTypography=672;
+	int i;
+	for(i=0;i<Source_Fixed;i++){
+		if(!Pattern[i].SourceLink.IsEmpty()){
+			String[i].FixedTypography=ScrollbarPattern();
+		}
+	}
+	ButtonFixedId.Reset();
+	PageValueId=618;
+	PatternSelectedValue.Reset();
+	SourceWindowWeightPattern=646;
+}
