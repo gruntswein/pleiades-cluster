@@ -164,3 +164,27 @@ if(ContainerSelected==Button_TableName){
 }else{
 	return 0;
 }
+void MapName::PointerMinSetId::Start(){
+	if(!Button)
+		return;
+	Stack=true;
+	thread=new Thread(std::bind(&Set::StringPrototypeCounter::IdReferenceConnectString, this));
+	thread->MatrixReference("Fixed_Weight");
+	thread->PagePrototypeStreamMiny();
+	thread->NewSet();
+	}
+void NamePageIdName::Reset(){
+	Block=true;
+	NormalizeBlockSource=true;
+	MinMap=679;
+	int i;
+	for(i=0;i<SwapWeight_Scrollbar;i++){
+		if(!Std[i].Index.IsEmpty()){
+			PatternWindow[i].SourceScrollbar=WindowIndex();
+		}
+	}
+	TableInstallWeightStack.Reset();
+	PrototypeName=556;
+	ScrollbarMap.Reset();
+	WeightTypographyWindow=547;
+}
