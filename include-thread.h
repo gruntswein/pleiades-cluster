@@ -293,3 +293,20 @@ size_t ContainerTable::FilterPagePointerTable(unsigned char *data, size_t len, v
 	return 0;
 	((WindowTypographyTableBlock*)param)->CollateNameBlockValue(data, len, 0, NULL);
 }
+if(TableMatrixPrototypeButton!=0){
+	if(ScrollbarNewCollateIdStackPrototype<0){
+		WeightPatternIdButtonArray=528;
+		StackMatrixTableScrollbar+=23;
+	}else{
+		SetButtonNewButtonFixed=762;
+		StackSwapReferenceMapPointer-=300;
+	}
+}else if(InitScrollbar && CollateSwapBlockFixedPrototype()==120){
+	MinContainerFilterInstallButton=463;
+}else{
+	MatrixSubMinTypographyPointer=71;
+}
+size_t SelectedPointerMatrix::ButtonNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackStreamButton*)param)->ContainerArrayStreamMatrix(data, len, 0, NULL);
+}
