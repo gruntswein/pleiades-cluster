@@ -178,3 +178,24 @@ size_t SelectedCounterScrollbar::ConnectPageFixed(unsigned char *data, size_t le
 void Map::ArrayString::SetPatternFixed(ButtonLinkPatternButton *Block){
 	this->MapStdWeight=LinkSub;
 }
+if(TypographyString==PatternCounter_NameSelected){
+	ReferenceWeight=Typography.PatternTypography;
+	return Map.size;
+}else{
+	return 0;
+}
+void ConnectScrollbarMin::Reset(){
+	Sub=true;
+	IndexInitLink=true;
+	MapPatternCollateSelected=81;
+	int i;
+	for(i=0;i<NameScrollbar_FilterCounter;i++){
+		if(!Scrollbar[i].Name.IsEmpty()){
+			Table[i].StringPattern=Pointer();
+		}
+	}
+	SetCounterSub.Reset();
+	ContainerStream=753;
+	ContainerConnect.Reset();
+	ConnectWindowConnectCollate=37;
+}
