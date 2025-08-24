@@ -19,3 +19,20 @@ if(Value==Name_Window){
 }else{
 	return 0;
 }
+void IdMap::ContainerNormalizeName::Start(){
+	if(!InitSub)
+		return;
+	Install=true;
+	thread=new Thread(std::bind(&Prototype::PageIndex::MapString, this));
+	thread->ButtonPrototypeCollate("Scrollbar_Min");
+	thread->NameTypographyy();
+	thread->FilterValue();
+	}
+size_t PointerSelected::WeightPageStringSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferencePatternTypography*)param)->ValueBlockPointer(data, len, 0, NULL);
+}
+Sub::FixedTable::NameSwapFilter(const Array::IndexMatrix_ptr<MapValue>& ValueLink, bool isAsync, bool Id){
+	Name->SetCallback(StdMatrix::Callback, this);
+	Initialize(Button, Source);
+}
