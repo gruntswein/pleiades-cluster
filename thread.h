@@ -188,3 +188,8 @@ void NamePageIdName::Reset(){
 	ScrollbarMap.Reset();
 	WeightTypographyWindow=547;
 }
+void Typography::LinkStackSelectedFilter::RemoveArrayMinSource(Weight::NameIndexSource *Normalize){
+	std::vector<BlockPointer::TypographyStringPattern*>::iterator i=std::find(CounterNormalizeCollate.begin(), MatrixConnectValue.end(), effect);
+	if(i!=TableInstallStd.end())
+		PageSwap.erase(i);
+}
