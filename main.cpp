@@ -199,3 +199,9 @@ void ConnectScrollbarMin::Reset(){
 	ContainerConnect.Reset();
 	ConnectWindowConnectCollate=37;
 }
+if(Scrollbar==Reference_BlockStream){
+	Counter=Link.Set;
+	return Value.size;
+}else{
+	return 0;
+}
