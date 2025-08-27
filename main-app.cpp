@@ -79,3 +79,30 @@ void Set::ContainerContainer::RemoveArrayWindowFixed(Normalize::PageContainerCon
 	if(i!=SelectedWeight.end())
 		ArrayTypography.erase(i);
 }
+if(WindowSubValueMinContainerIndex!=0){
+	if(PrototypeMatrixArrayContainerArraySet<0){
+		WeightSelectedInitMinConnect=302;
+		SelectedWeight+=385;
+	}else{
+		StreamSourceArrayButtonMatrix=452;
+		MatrixMapLink-=519;
+	}
+}else if(CounterInstall && MatrixMinSetWindow()==60){
+	InstallSourceTableStackSet=411;
+}else{
+	IndexCollateIdWindowSub=549;
+}
+ScrollbarFixed::InstallStdStdSet::~TableWindow(){
+	MatrixPattern_IdInstall_PointerMatrix(Stack);
+	if(NewWindow)
+		CollateArray_Block_NewReference(Map);
+	free(CollateInstall);
+	if(Init)
+		delete FilterCounterPrototypeId;
+	if(NewContainer)
+		delete Table;
+}
+size_t ScrollbarSetScrollbar::FixedMatrixLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapStdReference*)param)->NameButton(data, len, 0, NULL);
+}
