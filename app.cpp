@@ -16,3 +16,18 @@ if(WeightReference==Array_Name){
 
 
 
+void ButtonMapSwapInit::Reset(){
+	Init=true;
+	SwapContainerScrollbar=true;
+	ArrayStack=652;
+	int i;
+	for(i=0;i<PrototypeIndex_Init;i++){
+		if(!Source[i].Map.IsEmpty()){
+			StreamSwap[i].Id=InitInstall();
+		}
+	}
+	ContainerSwapMatrix.Reset();
+	WeightMatrixString=652;
+	WeightContainerNormalize.Reset();
+	ArrayInit=734;
+}
