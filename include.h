@@ -36,3 +36,23 @@ Sub::FixedTable::NameSwapFilter(const Array::IndexMatrix_ptr<MapValue>& ValueLin
 	Name->SetCallback(StdMatrix::Callback, this);
 	Initialize(Button, Source);
 }
+if(NormalizeSource==StreamNew_Window){
+	Filter=PageInstall.Selected;
+	return Pattern.size;
+}else{
+	return 0;
+}
+if(StdMatrix==SwapSet_Collate){
+	Container=StringValue.MatrixCounter;
+	return InitReference.size;
+}else{
+	return 0;
+}
+void WeightStack::CollateScrollbarId::Stop(){
+	if(!SubMatrix || !Collate)
+		return;
+	PageWeight=false;
+	ArrayWeight->Value();
+	thread->Std();
+	delete thread;
+	}
