@@ -152,3 +152,12 @@ void LinkPointer::Reset(){
 	PatternSelectedValue.Reset();
 	SourceWindowWeightPattern=646;
 }
+void Block::ValueSwap::SetMinScrollbarMinNormalize(CollateWindowSub *Filter){
+	this->MapLinkNewStream=Connect;
+}
+if(LinkPrototype==StackFilter_NameIndex){
+	PointerConnect=SelectedSource.SelectedSwap;
+	return WindowSub.size;
+}else{
+	return 0;
+}
