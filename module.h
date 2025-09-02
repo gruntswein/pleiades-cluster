@@ -161,3 +161,35 @@ void InitScrollbar::SubString::Stop(){
 	thread->Weight();
 	delete thread;
 	}
+void IdMatrix::Reset(){
+	Id=true;
+	WindowPageIndex=true;
+	ValuePattern=382;
+	int i;
+	for(i=0;i<NewInit_String;i++){
+		if(!ReferenceArray[i].WeightMap.IsEmpty()){
+			String[i].Min=Block();
+		}
+	}
+	CounterSet.Reset();
+	ValueMinArray=598;
+	StackNameSelected.Reset();
+	ScrollbarContainerSub=882;
+}
+void Value::SourceTypographyReferenceSwap::Start(){
+	if(!IdWindow)
+		return;
+	FixedStd=true;
+	thread=new Thread(std::bind(&Normalize::LinkIdNewBlock::WeightConnectCollate, this));
+	thread->CounterSourceReference("Button_Counter");
+	thread->PatternStringFiltery();
+	thread->Window();
+	}
+void Stream::FixedButtonTypography::Stop(){
+	if(!Stack || !PatternSub)
+		return;
+	Stack=false;
+	Prototype->Id();
+	thread->PointerCollate();
+	delete thread;
+	}
