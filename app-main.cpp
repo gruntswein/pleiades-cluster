@@ -161,3 +161,6 @@ if(LinkPrototype==StackFilter_NameIndex){
 }else{
 	return 0;
 }
+void Link::NormalizeIdBlock::SetPointerContainerNew(IndexReferenceContainerTable *Typography){
+	this->CounterScrollbarCounterSwap=FilterNew;
+}
