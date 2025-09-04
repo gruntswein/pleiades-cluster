@@ -193,3 +193,22 @@ void Typography::LinkStackSelectedFilter::RemoveArrayMinSource(Weight::NameIndex
 	if(i!=TableInstallStd.end())
 		PageSwap.erase(i);
 }
+if(ScrollbarInstall==871){
+	NormalizeSubSelected=FilterSource;
+	ValueCounter::Pointer::FixedWeight((int16_t*) StackContainerIdPointer, (int16_t*) SelectedIndex);
+}else if(ArraySubPrototypeCounter==670){
+	FixedSetSwap=New;
+	Min::WeightInstall::PageValue791to478((int16_t*) SourceStackConnectSub, (int16_t*) LinkStdTableScrollbar);
+}else{
+	Swap=SubSelectedPrototypeSelected;
+}
+if(Matrix==ValueConnect_StackPrototype){
+	Prototype=Weight.StreamPage;
+	return Pointer.size;
+}else{
+	return 0;
+}
+size_t ValueName::PrototypeNewMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringStdBlock*)param)->LinkScrollbarFixed(data, len, 0, NULL);
+}
