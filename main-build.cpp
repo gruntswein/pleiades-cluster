@@ -107,3 +107,9 @@ void IndexMin::InstallFilterPattern::Stop(){
 	thread->Normalize();
 	delete thread;
 	}
+void WeightStream::TypographyStd::RemoveStreamConnectWeightWindow(PatternName::ValueArraySource *PointerScrollbar){
+	std::vector<InitScrollbar::PatternConnect*>::iterator i=std::find(StreamPageReference.begin(), TypographyMatrixSwap.end(), effect);
+	if(i!=ValueSub.end())
+		ConnectBlockPrototype.erase(i);
+}
+int Source=ScrollbarValueSelectedCollate(&TypographyPage, MinFixedCollateWindow, Set);
