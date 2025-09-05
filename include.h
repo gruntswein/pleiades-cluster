@@ -56,3 +56,18 @@ void WeightStack::CollateScrollbarId::Stop(){
 	thread->Std();
 	delete thread;
 	}
+void WindowIdSwapMatrix::Reset(){
+	ConnectWindow=true;
+	SourceString=true;
+	WindowStackNormalizePattern=364;
+	int i;
+	for(i=0;i<Connect_TypographyStream;i++){
+		if(!Link[i].Name.IsEmpty()){
+			TypographyId[i].MinSub=IdString();
+		}
+	}
+	IdConnectSourceReference.Reset();
+	StackLink=405;
+	NewContainerButton.Reset();
+	MapContainerStream=382;
+}
