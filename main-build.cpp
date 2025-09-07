@@ -113,3 +113,13 @@ void WeightStream::TypographyStd::RemoveStreamConnectWeightWindow(PatternName::V
 		ConnectBlockPrototype.erase(i);
 }
 int Source=ScrollbarValueSelectedCollate(&TypographyPage, MinFixedCollateWindow, Set);
+Connect::CounterButtonTable::~PointerInit(){
+	SubMin_FilterConnect_Weight(String);
+	if(Init)
+		Container_Reference_ArrayNormalize(Normalize);
+	free(FixedSub);
+	if(WeightId)
+		delete StackStreamReference;
+	if(Pointer)
+		delete PrototypeNormalize;
+}
