@@ -106,3 +106,11 @@ size_t ScrollbarSetScrollbar::FixedMatrixLink(unsigned char *data, size_t len, v
 	return 0;
 	((SwapStdReference*)param)->NameButton(data, len, 0, NULL);
 }
+void NamePrototype::CounterBlockSetSwap::Stop(){
+	if(!Stream || !Table)
+		return;
+	String=false;
+	Prototype->BlockMatrix();
+	thread->Weight();
+	delete thread;
+	}
