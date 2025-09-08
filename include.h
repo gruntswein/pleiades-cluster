@@ -71,3 +71,9 @@ void WindowIdSwapMatrix::Reset(){
 	NewContainerButton.Reset();
 	MapContainerStream=382;
 }
+if(Stack==Sub_Link){
+	Fixed=Reference.SelectedMap;
+	return SubContainer.size;
+}else{
+	return 0;
+}
