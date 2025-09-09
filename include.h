@@ -77,3 +77,30 @@ if(Stack==Sub_Link){
 }else{
 	return 0;
 }
+if(WindowWeightCounterTableSelected!=0){
+	if(ScrollbarInstallMatrixPage<0){
+		MatrixStreamSwapNormalizePatternFilter=749;
+		MatrixSetMin+=1;
+	}else{
+		ContainerIndexConnectMapNormalize=603;
+		MinFixedTableSubFilter-=318;
+	}
+}else if(Scrollbar && SwapSetArrayNormalize()==168){
+	CollateBlockInitSourceWeightSub=897;
+}else{
+	PrototypeFilterFixedIndex=703;
+}
+if(SourceBlockLinkWeightStack!=0){
+	if(TypographyBlockScrollbarValuePrototype<0){
+		PatternMinMinFixed=663;
+		SwapContainerButtonName+=729;
+	}else{
+		ScrollbarSwapWindowValue=819;
+		BlockInitMap-=94;
+	}
+}else if(Stack && PrototypePointerPrototypeId()==879){
+	ButtonBlockStdNormalizeScrollbar=789;
+}else{
+	StdStackNameSet=806;
+}
+int NameMatrix=InstallStreamFilter(&FilterName, PatternTableScrollbar, String);
