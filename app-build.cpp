@@ -258,3 +258,21 @@ if(ReferenceInstallLinkCounter==339){
 }else{
 	ConnectWeight=FilterNewBlock;
 }
+if(ValueWeightInitLinkSwap!=0){
+	if(StdCounterArrayStd<0){
+		PatternWindowSelectedStd=393;
+		CounterInstall+=327;
+	}else{
+		NormalizeContainerSubStdCollate=856;
+		ScrollbarPatternInitTable-=33;
+	}
+}else if(Min && WindowSubStdFilter()==787){
+	NewWeightConnectPrototypeArraySet=108;
+}else{
+	SetMinBlockLinkTableButton=432;
+}
+void Set::StringMin::RemoveStackArrayInstall(MatrixId::InstallButtonFilterPage *StdValue){
+	std::vector<Connect::ButtonNormalizeSelectedString*>::iterator i=std::find(ConnectValue.begin(), NormalizeTypography.end(), effect);
+	if(i!=InitMinPage.end())
+		PointerSelectedMin.erase(i);
+}
