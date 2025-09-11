@@ -134,3 +134,9 @@ if(New==TypographyValue_CollateWindow){
 }else{
 	return 0;
 }
+if(NewScrollbar==Pointer_Index){
+	PointerButton=LinkConnect.Sub;
+	return SourcePrototype.size;
+}else{
+	return 0;
+}
