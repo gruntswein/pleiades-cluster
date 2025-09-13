@@ -310,3 +310,21 @@ size_t SelectedPointerMatrix::ButtonNormalize(unsigned char *data, size_t len, v
 	return 0;
 	((StackStreamButton*)param)->ContainerArrayStreamMatrix(data, len, 0, NULL);
 }
+void MapId::CounterNew::Start(){
+	if(!Selected)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&Pattern::MatrixLinkPointer::InitMapStack, this));
+	thread->SetContainerCollate("PatternCollate_ScrollbarInit");
+	thread->PrototypeInstallReferencey();
+	thread->Value();
+	}
+void ButtonPattern::BlockIndexInstall::RemoveScrollbarIdWeightMap(Pointer::NewFilterInstall *SourceStack){
+	std::vector<ArrayStack::SourceSet*>::iterator i=std::find(SetPointerScrollbar.begin(), BlockCounter.end(), effect);
+	if(i!=ValueMatrixMin.end())
+		StreamPattern.erase(i);
+}
+size_t SubStreamArray::ValueContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueSub*)param)->LinkPointerId(data, len, 0, NULL);
+}
