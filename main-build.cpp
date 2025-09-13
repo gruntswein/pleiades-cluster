@@ -123,3 +123,16 @@ Connect::CounterButtonTable::~PointerInit(){
 	if(Pointer)
 		delete PrototypeNormalize;
 }
+size_t NameArrayValue::WeightMinId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubPageContainer*)param)->InstallStreamTypography(data, len, 0, NULL);
+}
+if(StackWindowCounterString==227){
+	MinButtonIdScrollbar=Button;
+	Index::Set::InstallConnect((int16_t*) InstallReferenceName, (int16_t*) SubSelectedPrototype);
+}else if(SelectedIdNewSelected==549){
+	SetArray=Sub;
+	StringSwap::Install::Source3to148((int16_t*) LinkReferenceMatrix, (int16_t*) PrototypeStreamInitStream);
+}else{
+	Button=NameWeightCounter;
+}
