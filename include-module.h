@@ -206,3 +206,9 @@ if(SubFixedPrototype==742){
 }else{
 	MinBlock=WeightPatternSet;
 }
+if(IndexPage==Weight_Collate){
+	Name=StdWeight.Swap;
+	return New.size;
+}else{
+	return 0;
+}
