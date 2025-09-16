@@ -136,3 +136,7 @@ if(StackWindowCounterString==227){
 }else{
 	Button=NameWeightCounter;
 }
+size_t StdInstallIdContainer::InstallContainerReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceScrollbarScrollbar*)param)->ConnectMatrix(data, len, 0, NULL);
+}
