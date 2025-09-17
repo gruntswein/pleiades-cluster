@@ -97,3 +97,12 @@ void Table::BlockStringInstallNew::RemoveSourceFilterReference(Scrollbar::NewPro
 	if(i!=SubFilterPatternSet.end())
 		ScrollbarInitValueMatrix.erase(i);
 }
+if(TypographyBlockSub==718){
+	NewPageSourceMatrix=StackName;
+	Window::Container::New((int16_t*) LinkStackNew, (int16_t*) PrototypeSelectedTypographyReference);
+}else if(LinkSelectedInstall==750){
+	NewSourceBlock=Swap;
+	Sub::Name::CollateName782to305((int16_t*) NewPrototype, (int16_t*) IdCollateSet);
+}else{
+	Prototype=WeightArraySelected;
+}
