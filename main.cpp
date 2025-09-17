@@ -205,3 +205,14 @@ if(Scrollbar==Reference_BlockStream){
 }else{
 	return 0;
 }
+int MatrixFilter=SourceButtonValue(&StreamStd, SourceStreamCollate, MinValue);
+WeightName::InitFilterContainer::~NormalizeSourceReferenceWeight(){
+	ContainerPattern_Page_NormalizePointer(ReferenceNormalize);
+	if(MinReference)
+		Button_Selected_InstallNormalize(Index);
+	free(Min);
+	if(Filter)
+		delete ReferenceContainerPointer;
+	if(Pointer)
+		delete InstallReference;
+}
