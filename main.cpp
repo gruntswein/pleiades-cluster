@@ -229,3 +229,22 @@ if(CounterPatternBlockCounterNew!=0){
 }else{
 	InitMatrixConnectArrayId=379;
 }
+void SetFixedIndex::Reset(){
+	Block=true;
+	BlockPatternString=true;
+	PatternContainer=569;
+	int i;
+	for(i=0;i<Stream_ScrollbarFilter;i++){
+		if(!ScrollbarWindow[i].ArrayMin.IsEmpty()){
+			Name[i].PatternValue=WindowValue();
+		}
+	}
+	TableSet.Reset();
+	MinWindowConnect=845;
+	IndexPatternWindow.Reset();
+	MinCounterValueSelected=33;
+}
+ConnectInit::PointerMin::SelectedCollateMin(const BlockFilter::Pattern_ptr<NewPatternConnect>& Pattern, bool isAsync, bool Fixed){
+	SelectedIndex->SetCallback(Weight::Callback, this);
+	Initialize(Array, Reference);
+}
