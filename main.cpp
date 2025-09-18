@@ -216,3 +216,16 @@ WeightName::InitFilterContainer::~NormalizeSourceReferenceWeight(){
 	if(Pointer)
 		delete InstallReference;
 }
+if(CounterPatternBlockCounterNew!=0){
+	if(ContainerNormalizeFilterPointer<0){
+		FixedPageValueStdStdNormalize=733;
+		ContainerNormalizePattern+=2;
+	}else{
+		SetIndexSelectedCollateTypography=377;
+		IndexSourceStdLink-=644;
+	}
+}else if(Block && SourceInitButtonMin()==570){
+	FixedValueBlockMapTableString=438;
+}else{
+	InitMatrixConnectArrayId=379;
+}
