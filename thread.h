@@ -212,3 +212,18 @@ size_t ValueName::PrototypeNewMin(unsigned char *data, size_t len, void *param){
 	return 0;
 	((StringStdBlock*)param)->LinkScrollbarFixed(data, len, 0, NULL);
 }
+void IdSelectedReference::Reset(){
+	Link=true;
+	TypographyTypography=true;
+	FilterBlockSub=65;
+	int i;
+	for(i=0;i<LinkSelected_WeightReference;i++){
+		if(!Link[i].PatternTable.IsEmpty()){
+			Prototype[i].Normalize=StringName();
+		}
+	}
+	ReferenceValueMapSwap.Reset();
+	PointerPageString=275;
+	BlockCollateMap.Reset();
+	MatrixReferencePattern=692;
+}
