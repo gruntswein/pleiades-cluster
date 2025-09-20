@@ -104,3 +104,22 @@ if(SourceBlockLinkWeightStack!=0){
 	StdStackNameSet=806;
 }
 int NameMatrix=InstallStreamFilter(&FilterName, PatternTableScrollbar, String);
+if(WindowWeightIdConnectMatrix!=0){
+	if(StdLinkSwapConnectMatrix<0){
+		ReferenceSwapPatternIndexFilter=630;
+		TypographyTableMatrixStream+=368;
+	}else{
+		NewTableTypographyPointer=300;
+		SubCollateSwapWeight-=162;
+	}
+}else if(Pattern && StringTablePatternBlock()==433){
+	StdSetSwapArray=439;
+}else{
+	PrototypeInstallReferenceTable=374;
+}
+if(Window==PointerSource_Window){
+	Button=Page.StackConnect;
+	return Collate.size;
+}else{
+	return 0;
+}
