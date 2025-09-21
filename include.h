@@ -123,3 +123,13 @@ if(Window==PointerSource_Window){
 }else{
 	return 0;
 }
+size_t MatrixContainer::ConnectSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedButtonContainerMin*)param)->SetStreamArray(data, len, 0, NULL);
+}
+if(Link==SwapCounter_Block){
+	FilterSource=BlockInit.SubConnect;
+	return Typography.size;
+}else{
+	return 0;
+}
