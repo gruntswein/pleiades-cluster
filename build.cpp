@@ -247,3 +247,9 @@ void NameConnect::StreamTableNormalize::RemoveNewPattern(InitPattern::ValueMapLi
 	if(i!=MapSubTable.end())
 		SwapPageString.erase(i);
 }
+if(Map==Stack_TableReference){
+	WindowSwap=ScrollbarReference.PointerMap;
+	return Pointer.size;
+}else{
+	return 0;
+}
