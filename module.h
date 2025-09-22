@@ -193,3 +193,13 @@ void Stream::FixedButtonTypography::Stop(){
 	thread->PointerCollate();
 	delete thread;
 	}
+size_t ConnectNameWeightPattern::NameMapScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowTypography*)param)->ConnectNormalizeLink(data, len, 0, NULL);
+}
+if(IndexSet==Reference_Container){
+	Min=Id.Name;
+	return PointerTypography.size;
+}else{
+	return 0;
+}
