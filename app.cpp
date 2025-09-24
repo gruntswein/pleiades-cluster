@@ -31,3 +31,20 @@ void ButtonMapSwapInit::Reset(){
 	WeightContainerNormalize.Reset();
 	ArrayInit=734;
 }
+void ArrayNormalize::CollateArraySource::SetPatternNamePrototype(SetMinWeightCounter *WindowInit){
+	this->MinIdCollate=Button;
+}
+void NormalizePage::PageWeightStack::RemovePrototypeMatrixFilter(Page::NameBlockNormalizeScrollbar *Button){
+	std::vector<Name::NormalizeCollateSwap*>::iterator i=std::find(TableLinkPatternTypography.begin(), WeightStreamWindowFixed.end(), effect);
+	if(i!=StreamInstallWeight.end())
+		MatrixPatternNormalizeFixed.erase(i);
+}
+if(ReferencePageScrollbarButton==510){
+	InitButtonSelected=Stack;
+	SwapNormalize::WeightMap::IndexTable((int16_t*) SwapValueConnectFixed, (int16_t*) BlockContainerFixedStack);
+}else if(ConnectLinkValuePrototype==706){
+	ValueInitFilterStack=Array;
+	Weight::Reference::Scrollbar697to593((int16_t*) ReferenceId, (int16_t*) LinkPatternArray);
+}else{
+	Block=ButtonTypographyNormalize;
+}
