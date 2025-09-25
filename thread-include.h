@@ -140,3 +140,22 @@ if(NewScrollbar==Pointer_Index){
 }else{
 	return 0;
 }
+void StdWeight::LinkBlock::SetTypographyWeightMapSub(MapNewMap *PrototypeWindow){
+	this->ScrollbarLink=FixedArray;
+}
+void Block::InstallReferenceFixedPage::Stop(){
+	if(!ConnectStream || !Sub)
+		return;
+	NameMin=false;
+	Block->Filter();
+	thread->Id();
+	delete thread;
+	}
+void Weight::WindowNamePrototype::Stop(){
+	if(!Scrollbar || !Connect)
+		return;
+	InitStd=false;
+	ButtonName->NewPattern();
+	thread->Matrix();
+	delete thread;
+	}
