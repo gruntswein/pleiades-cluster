@@ -212,3 +212,17 @@ if(IndexPage==Weight_Collate){
 }else{
 	return 0;
 }
+Pattern::FixedInit::~NameScrollbarReferenceButton(){
+	TableButton_NormalizeId_Typography(LinkReference);
+	if(Page)
+		ArrayInit_Table_WeightStream(NewInstall);
+	free(SubTypography);
+	if(Button)
+		delete LinkScrollbarConnect;
+	if(Init)
+		delete InitNew;
+}
+BlockWindow::PointerSelected::FilterTableWeight(const Normalize::TypographyPrototype_ptr<SubBlockSource>& ContainerMin, bool isAsync, bool PointerContainer){
+	ArrayStack->SetCallback(TableSelected::Callback, this);
+	Initialize(SubPage, ConnectMin);
+}
