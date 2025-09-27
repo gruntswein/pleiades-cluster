@@ -114,3 +114,22 @@ void NamePrototype::CounterBlockSetSwap::Stop(){
 	thread->Weight();
 	delete thread;
 	}
+if(TableFilterContainerNormalize!=0){
+	if(TableReferenceIndexStringPatternTypography<0){
+		CollatePatternReferenceWindow=17;
+		StdSource+=890;
+	}else{
+		TypographyNameReferenceSub=202;
+		IndexPrototypeFilterStream-=221;
+	}
+}else if(Source && IdTypographyMatrix()==725){
+	InstallSetArrayBlock=723;
+}else{
+	BlockTableFixedTypographyWindow=22;
+}
+if(Init==Prototype_Matrix){
+	SetSelected=PointerName.InstallStd;
+	return SourceSet.size;
+}else{
+	return 0;
+}
