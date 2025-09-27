@@ -276,3 +276,19 @@ void Set::StringMin::RemoveStackArrayInstall(MatrixId::InstallButtonFilterPage *
 	if(i!=InitMinPage.end())
 		PointerSelectedMin.erase(i);
 }
+void Id::SubInitPointerSet::SetContainerNormalize(NormalizeSubPointer *NormalizeMin){
+	this->StreamFilterSub=BlockCollate;
+}
+if(ButtonPrototypeValueMinSelectedCounter!=0){
+	if(PrototypeMatrixNewSetContainer<0){
+		TypographySetStack=726;
+		BlockInstallPattern+=240;
+	}else{
+		StringReferenceMatrixButtonNew=471;
+		PatternStringCollateSub-=54;
+	}
+}else if(InstallBlock && NewIdPageScrollbarPattern()==337){
+	WeightScrollbarLinkMapReference=481;
+}else{
+	NormalizeButtonTypographyNormalizeNewTable=459;
+}
