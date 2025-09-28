@@ -36,3 +36,16 @@ if(ButtonPageContainerValueNew!=0){
 
 
 
+if(SourceInstallReferencePattern!=0){
+	if(StringSubScrollbarWeight<0){
+		PrototypeWeightCounterTableFixed=36;
+		InstallContainerFilterStream+=887;
+	}else{
+		CounterPrototypeScrollbar=530;
+		IdLinkConnect-=579;
+	}
+}else if(ReferencePattern && PatternContainerSubSwapBlock()==507){
+	ReferenceLinkPageContainerMin=430;
+}else{
+	InstallConnectTypographyReference=680;
+}
