@@ -164,3 +164,21 @@ if(LinkPrototype==StackFilter_NameIndex){
 void Link::NormalizeIdBlock::SetPointerContainerNew(IndexReferenceContainerTable *Typography){
 	this->CounterScrollbarCounterSwap=FilterNew;
 }
+size_t FilterSetCounter::StackContainerIdMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValuePage*)param)->BlockNewInstall(data, len, 0, NULL);
+}
+int Window=StackInitCounter(&Page, TableSwap, InstallMap);
+if(NewLinkWeightCollatePointer!=0){
+	if(WeightNewFixed<0){
+		MinMatrixPageButtonStream=275;
+		WindowPointerButton+=175;
+	}else{
+		StringSourceSelectedContainer=247;
+		IdInitReferencePage-=53;
+	}
+}else if(SetFixed && InstallMapFixed()==453){
+	InitArrayNormalizePattern=385;
+}else{
+	MinPageStackScrollbarReference=539;
+}
