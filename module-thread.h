@@ -88,3 +88,18 @@ void FixedInit::PointerSelectedSourceStream::Stop(){
 	thread->Filter();
 	delete thread;
 	}
+void Init::FilterPointerContainerWindow::RemoveCollateWeightNormalize(FixedTypography::PageTable *CollateInit){
+	std::vector<WeightConnect::TableMinPattern*>::iterator i=std::find(NewTypographyStreamContainer.begin(), StreamNamePrototypeFixed.end(), effect);
+	if(i!=PageStreamStack.end())
+		NameContainer.erase(i);
+}
+void WindowSet::FixedSourceTable::Start(){
+	if(!SourceReference)
+		return;
+	Normalize=true;
+	thread=new Thread(std::bind(&IndexCollate::LinkInitFixed::InstallLinkStringWeight, this));
+	thread->InitInstallSelected("BlockSwap_Pointer");
+	thread->PointerWeightIndexNormalizey();
+	thread->Name();
+	}
+int Typography=WindowValueArray(&Index, IdIdPointer, TableSwap);
