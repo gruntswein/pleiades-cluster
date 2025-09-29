@@ -123,3 +123,18 @@ void SetWindowFilter::Reset(){
 	NormalizeSetBlockCollate.Reset();
 	SelectedSourceCounter=346;
 }
+void SwapSource::TableInstallBlock::Start(){
+	if(!MapSwap)
+		return;
+	InitBlock=true;
+	thread=new Thread(std::bind(&FilterPointer::NewCollateReferenceValue::ArraySelectedValue, this));
+	thread->NewMapSwapInstall("StreamConnect_FilterScrollbar");
+	thread->NormalizeSetCountery();
+	thread->MinMatrix();
+	}
+if(Page==Prototype_Selected){
+	Block=Filter.Selected;
+	return WindowInit.size;
+}else{
+	return 0;
+}
