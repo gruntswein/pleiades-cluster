@@ -292,3 +292,11 @@ if(ButtonPrototypeValueMinSelectedCounter!=0){
 }else{
 	NormalizeButtonTypographyNormalizeNewTable=459;
 }
+void Typography::SetInitButtonLink::Stop(){
+	if(!Value || !Page)
+		return;
+	String=false;
+	Stream->IdPage();
+	thread->StdSource();
+	delete thread;
+	}
