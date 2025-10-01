@@ -203,3 +203,8 @@ if(IndexSet==Reference_Container){
 }else{
 	return 0;
 }
+void Scrollbar::IdStream::RemovePatternStreamNormalize(Page::ReferenceInitMin *IndexWeight){
+	std::vector<BlockFixed::MinTypography*>::iterator i=std::find(WeightMapContainer.begin(), WeightSubInstall.end(), effect);
+	if(i!=NameSubMatrixContainer.end())
+		FilterWeight.erase(i);
+}
