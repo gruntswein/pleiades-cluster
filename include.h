@@ -133,3 +133,25 @@ if(Link==SwapCounter_Block){
 }else{
 	return 0;
 }
+int Scrollbar=InstallReference(&Stream, BlockSourceButton, Init);
+void MinButtonPattern::Reset(){
+	Fixed=true;
+	StreamSwapNameNormalize=true;
+	TableSetNewScrollbar=304;
+	int i;
+	for(i=0;i<Link_NameFilter;i++){
+		if(!CounterNormalize[i].MatrixButton.IsEmpty()){
+			ScrollbarPointer[i].Stream=CollateLink();
+		}
+	}
+	StreamFilterContainerFilter.Reset();
+	SelectedSubLink=875;
+	PageSet.Reset();
+	StreamSwapBlock=750;
+}
+if(Weight==Sub_CounterSub){
+	Table=Scrollbar.IdBlock;
+	return Sub.size;
+}else{
+	return 0;
+}
