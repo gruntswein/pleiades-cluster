@@ -103,3 +103,4 @@ void WindowSet::FixedSourceTable::Start(){
 	thread->Name();
 	}
 int Typography=WindowValueArray(&Index, IdIdPointer, TableSwap);
+int Window=NameMatrix(&ButtonScrollbar, ArrayButtonSelected, Prototype);
