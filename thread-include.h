@@ -159,3 +159,22 @@ void Weight::WindowNamePrototype::Stop(){
 	thread->Matrix();
 	delete thread;
 	}
+if(CollatePageValueScrollbar==78){
+	MinBlockStringTable=Swap;
+	MinMap::StreamWindow::Prototype((int16_t*) SwapConnectInitTypography, (int16_t*) MatrixInstallPage);
+}else if(SetWeightBlock==4){
+	CollateWindowLink=Block;
+	Set::Matrix::Connect60to215((int16_t*) CounterInstall, (int16_t*) PageWeightStdPage);
+}else{
+	CounterMap=ArrayPage;
+}
+if(Pointer==SelectedBlock_Counter){
+	ArrayName=Pattern.Page;
+	return NormalizeButton.size;
+}else{
+	return 0;
+}
+size_t TableInit::ArrayCollateValueLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedTableSwap*)param)->SourcePointerName(data, len, 0, NULL);
+}
