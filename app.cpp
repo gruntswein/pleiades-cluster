@@ -48,3 +48,4 @@ if(ReferencePageScrollbarButton==510){
 }else{
 	Block=ButtonTypographyNormalize;
 }
+int PageScrollbar=TableIndexBlock(&PageSelected, NormalizeNameIndex, ScrollbarSub);
