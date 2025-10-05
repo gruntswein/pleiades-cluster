@@ -49,3 +49,14 @@ if(ReferencePageScrollbarButton==510){
 	Block=ButtonTypographyNormalize;
 }
 int PageScrollbar=TableIndexBlock(&PageSelected, NormalizeNameIndex, ScrollbarSub);
+void PatternId::IdStack::RemoveInitTableTypography(PatternLink::ReferenceSourceNewWindow *SelectedPattern){
+	std::vector<New::ValueSwapStackWindow*>::iterator i=std::find(StackSelectedStack.begin(), SwapTypographySub.end(), effect);
+	if(i!=PatternCollate.end())
+		FixedContainerCounter.erase(i);
+}
+if(Matrix==New_Init){
+	Scrollbar=MapPointer.SwapReference;
+	return ContainerFilter.size;
+}else{
+	return 0;
+}
