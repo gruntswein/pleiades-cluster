@@ -300,3 +300,13 @@ void Typography::SetInitButtonLink::Stop(){
 	thread->StdSource();
 	delete thread;
 	}
+size_t PrototypeCounter::MatrixString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonFixed*)param)->ValuePointerSwap(data, len, 0, NULL);
+}
+if(SwapMatrix==NormalizeValue_ArrayFilter){
+	Value=Block.MapSub;
+	return Sub.size;
+}else{
+	return 0;
+}
