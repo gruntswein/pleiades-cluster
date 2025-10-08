@@ -227,3 +227,18 @@ void IdSelectedReference::Reset(){
 	BlockCollateMap.Reset();
 	MatrixReferencePattern=692;
 }
+if(NormalizeReference==Prototype_NormalizeInstall){
+	Name=SetTable.Install;
+	return Connect.size;
+}else{
+	return 0;
+}
+void StackInit::InstallLinkReference::Start(){
+	if(!IndexSwap)
+		return;
+	CounterButton=true;
+	thread=new Thread(std::bind(&Collate::ButtonTypographyButton::MatrixTableStreamPointer, this));
+	thread->WeightStd("SwapLink_Prototype");
+	thread->MatrixInitStreamy();
+	thread->Init();
+	}
