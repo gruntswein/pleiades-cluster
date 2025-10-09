@@ -140,3 +140,33 @@ size_t StdInstallIdContainer::InstallContainerReference(unsigned char *data, siz
 	return 0;
 	((SourceScrollbarScrollbar*)param)->ConnectMatrix(data, len, 0, NULL);
 }
+void WeightMinPrototypePattern::Reset(){
+	SwapPrototype=true;
+	WeightFilterSub=true;
+	NormalizeSetPageBlock=405;
+	int i;
+	for(i=0;i<ConnectInstall_InstallIndex;i++){
+		if(!TypographyMin[i].Normalize.IsEmpty()){
+			Connect[i].Link=StringMatrix();
+		}
+	}
+	ReferenceValueButton.Reset();
+	WeightSelected=821;
+	ConnectMapWindow.Reset();
+	TypographyTableSub=233;
+}
+if(InitId==WindowSet_InstallFilter){
+	ButtonLink=IdCollate.Set;
+	return Link.size;
+}else{
+	return 0;
+}
+void ContainerWindow::SelectedSubSourcePage::Start(){
+	if(!Fixed)
+		return;
+	Normalize=true;
+	thread=new Thread(std::bind(&Source::WeightCollate::TypographyFixedMap, this));
+	thread->TypographyScrollbar("CollatePattern_Link");
+	thread->ValueIdReferenceMatrixy();
+	thread->IdTable();
+	}
