@@ -138,3 +138,31 @@ if(Page==Prototype_Selected){
 }else{
 	return 0;
 }
+Id::WindowSubSelectedId::~InitId(){
+	CollateSelected_ArraySwap_FilterTypography(PrototypeFixed);
+	if(Array)
+		Array_Normalize_CounterMap(Page);
+	free(Window);
+	if(ContainerInstall)
+		delete InitNormalize;
+	if(MapInstall)
+		delete Stream;
+}
+void Id::TypographyStringInstall::Start(){
+	if(!NewName)
+		return;
+	Stream=true;
+	thread=new Thread(std::bind(&Filter::StringCounterNewValue::NormalizeValueTable, this));
+	thread->PrototypeBlock("Counter_Reference");
+	thread->SubIndexScrollbarInstally();
+	thread->CollateName();
+	}
+void Selected::StreamArray::Start(){
+	if(!InstallSource)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&ContainerNew::ArrayNewLinkSub::BlockTable, this));
+	thread->StdContainerMatrix("Stream_Array");
+	thread->StackWindowMiny();
+	thread->SelectedSwap();
+	}
