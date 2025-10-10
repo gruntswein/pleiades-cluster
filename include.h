@@ -155,3 +155,16 @@ if(Weight==Sub_CounterSub){
 }else{
 	return 0;
 }
+SubId::PrototypeNewCollate::~MatrixMapName(){
+	Reference_MapPattern_Set(Selected);
+	if(StackArray)
+		SetPage_Button_Matrix(Id);
+	free(SelectedMin);
+	if(Min)
+		delete NewWindowWeightCounter;
+	if(SelectedLink)
+		delete WeightButton;
+}
+void SetCounter::StackContainerCollateCounter::SetNameSet(StackStringSelected *Block){
+	this->IdPageSource=Name;
+}
