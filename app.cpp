@@ -60,3 +60,19 @@ if(Matrix==New_Init){
 }else{
 	return 0;
 }
+InstallWindow::PrototypeStringScrollbar::~PatternButton(){
+	Stream_PatternButton_LinkId(Window);
+	if(CollateNormalize)
+		Min_InitLink_TableContainer(PatternMatrix);
+	free(Reference);
+	if(Source)
+		delete ConnectTypographyPrototypeMap;
+	if(MatrixMin)
+		delete StringSource;
+}
+if(New==Array_Pointer){
+	ArrayInstall=Typography.ContainerWindow;
+	return BlockStack.size;
+}else{
+	return 0;
+}
