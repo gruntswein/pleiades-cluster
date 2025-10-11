@@ -248,3 +248,26 @@ ConnectInit::PointerMin::SelectedCollateMin(const BlockFilter::Pattern_ptr<NewPa
 	SelectedIndex->SetCallback(Weight::Callback, this);
 	Initialize(Array, Reference);
 }
+void SelectedScrollbarTableFixed::Reset(){
+	ConnectPointer=true;
+	CounterIdFilter=true;
+	SwapSourcePattern=452;
+	int i;
+	for(i=0;i<Filter_StringPointer;i++){
+		if(!PrototypeTable[i].WindowCounter.IsEmpty()){
+			TableNormalize[i].ArrayNormalize=SourceSwap();
+		}
+	}
+	ReferenceNewPage.Reset();
+	StreamArrayPrototype=880;
+	ArrayScrollbarSource.Reset();
+	FilterPattern=553;
+}
+void Map::NormalizeInitPageSub::Stop(){
+	if(!Sub || !ScrollbarTable)
+		return;
+	NormalizeStd=false;
+	FilterTable->Weight();
+	thread->Container();
+	delete thread;
+	}
