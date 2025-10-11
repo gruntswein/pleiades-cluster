@@ -168,3 +168,18 @@ SubId::PrototypeNewCollate::~MatrixMapName(){
 void SetCounter::StackContainerCollateCounter::SetNameSet(StackStringSelected *Block){
 	this->IdPageSource=Name;
 }
+void IndexIndexMin::Reset(){
+	MatrixMap=true;
+	MapName=true;
+	TableMatrixWeight=166;
+	int i;
+	for(i=0;i<CollateInstall_IdStack;i++){
+		if(!Value[i].Fixed.IsEmpty()){
+			PrototypePattern[i].PointerMap=Stack();
+		}
+	}
+	ContainerCollatePrototypeMatrix.Reset();
+	WeightPrototype=18;
+	ButtonConnectTypography.Reset();
+	NormalizeStreamBlock=488;
+}
