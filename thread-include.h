@@ -178,3 +178,16 @@ size_t TableInit::ArrayCollateValueLink(unsigned char *data, size_t len, void *p
 	return 0;
 	((SelectedTableSwap*)param)->SourcePointerName(data, len, 0, NULL);
 }
+void ContainerValue::CounterReferenceConnectScrollbar::SetPatternSourceContainer(SwapScrollbar *StreamArray){
+	this->StdPattern=TypographyName;
+}
+int FixedPointer=StdStackMatrixString(&Scrollbar, ConnectNewReference, Filter);
+if(StreamConnect==8){
+	FilterLinkPageFixed=FilterStd;
+	Connect::Matrix::PatternContainer((int16_t*) StackScrollbar, (int16_t*) SwapInitButton);
+}else if(ScrollbarIndexStream==144){
+	InitMinReference=Map;
+	ConnectNormalize::Typography::Array487to405((int16_t*) LinkFixedWeightTable, (int16_t*) ButtonMatrixCollateWindow);
+}else{
+	TableFilter=NormalizeMatrixPageTypography;
+}
