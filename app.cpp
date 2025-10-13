@@ -76,3 +76,24 @@ if(New==Array_Pointer){
 }else{
 	return 0;
 }
+if(StreamButtonNewFilter!=0){
+	if(BlockStackWindowIndexBlock<0){
+		InitIdButtonWindowPrototype=104;
+		PointerStd+=257;
+	}else{
+		StackArrayLinkValue=406;
+		BlockIndexStreamWeight-=301;
+	}
+}else if(StreamNormalize && NameNormalizeValueStream()==41){
+	IndexSelectedBlockSelectedCounter=231;
+}else{
+	ArrayContainerContainerSwapSet=82;
+}
+void Value::SourceCollate::Stop(){
+	if(!Matrix || !Stream)
+		return;
+	SubPointer=false;
+	FixedPointer->InitValue();
+	thread->String();
+	delete thread;
+	}
