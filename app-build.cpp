@@ -310,3 +310,19 @@ if(SwapMatrix==NormalizeValue_ArrayFilter){
 }else{
 	return 0;
 }
+FilterString::FilterTableSelectedString::~PointerNormalizeStream(){
+	Normalize_String_Install(NormalizeScrollbar);
+	if(Block)
+		SourceSwap_Set_String(NameArray);
+	free(Normalize);
+	if(PointerInit)
+		delete ConnectBlockId;
+	if(String)
+		delete InitValue;
+}
+if(Set==BlockNew_Array){
+	LinkSource=ButtonScrollbar.FilterReference;
+	return Normalize.size;
+}else{
+	return 0;
+}
