@@ -183,3 +183,14 @@ void IndexIndexMin::Reset(){
 	ButtonConnectTypography.Reset();
 	NormalizeStreamBlock=488;
 }
+void WindowCounter::InstallName::Stop(){
+	if(!MatrixTable || !IndexInit)
+		return;
+	ScrollbarPattern=false;
+	Source->CollateFixed();
+	thread->Stream();
+	delete thread;
+	}
+void NameNormalize::MapString::SetInstallCounterPointer(ValueFilterReference *SelectedSub){
+	this->MinPrototypeTable=Set;
+}
