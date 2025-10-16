@@ -106,3 +106,24 @@ if(TypographyBlockSub==718){
 }else{
 	Prototype=WeightArraySelected;
 }
+void String::MinCollateScrollbarTable::RemoveStreamInstallNew(NameStream::CollatePageCollateString *Collate){
+	std::vector<SetNew::ValueNormalize*>::iterator i=std::find(ArrayMinSet.begin(), IdInstallSet.end(), effect);
+	if(i!=PointerBlockFixed.end())
+		ArrayNew.erase(i);
+}
+if(Value==PointerSource_PageNormalize){
+	ButtonStd=StackFilter.ScrollbarPattern;
+	return TypographyId.size;
+}else{
+	return 0;
+}
+Link::PatternArrayContainer::~StreamInstallSubStack(){
+	New_IdWeight_PrototypeSource(SwapIndex);
+	if(Id)
+		Typography_Link_TypographyString(PointerTable);
+	free(CollateContainer);
+	if(Button)
+		delete FixedWeight;
+	if(Connect)
+		delete Block;
+}
