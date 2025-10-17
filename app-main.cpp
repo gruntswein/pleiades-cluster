@@ -182,3 +182,17 @@ if(NewLinkWeightCollatePointer!=0){
 }else{
 	MinPageStackScrollbarReference=539;
 }
+if(Init==Normalize_SubId){
+	FilterButton=SelectedStream.Std;
+	return MapMin.size;
+}else{
+	return 0;
+}
+void StackSource::ConnectIdTypography::Stop(){
+	if(!Collate || !IdMatrix)
+		return;
+	NewName=false;
+	Source->Link();
+	thread->CounterStream();
+	delete thread;
+	}
