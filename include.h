@@ -194,3 +194,13 @@ void WindowCounter::InstallName::Stop(){
 void NameNormalize::MapString::SetInstallCounterPointer(ValueFilterReference *SelectedSub){
 	this->MinPrototypeTable=Set;
 }
+void Id::WindowStackValueWindow::Start(){
+	if(!ButtonNew)
+		return;
+	Button=true;
+	thread=new Thread(std::bind(&SwapTable::MapStream::NewTableTypographySub, this));
+	thread->FilterMinFixed("Collate_SourceSelected");
+	thread->ValueSelectedy();
+	thread->Init();
+	}
+int Reference=TablePointerConnect(&StackReference, TableSetTable, ButtonSwap);
