@@ -107,3 +107,13 @@ void ArrayId::InstallTableMap::Start(){
 	thread->WeightStackStackMatrixy();
 	thread->TypographyPage();
 	}
+Set::PatternCollatePattern::~TableStackFixed(){
+	MatrixNew_IdSelected_Link(Stream);
+	if(NewSwap)
+		StreamMin_Id_IdStd(Page);
+	free(PatternLink);
+	if(Source)
+		delete TableTypographyFilterPattern;
+	if(SetPattern)
+		delete WindowValue;
+}
