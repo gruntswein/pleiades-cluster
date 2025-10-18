@@ -271,3 +271,23 @@ void Map::NormalizeInitPageSub::Stop(){
 	thread->Container();
 	delete thread;
 	}
+void ValuePage::StackConnectValue::Start(){
+	if(!Window)
+		return;
+	StreamName=true;
+	thread=new Thread(std::bind(&WeightId::IdMatrixSwap::MatrixArray, this));
+	thread->CounterNewCounterFilter("TypographyInstall_StreamSource");
+	thread->CounterFixedTabley();
+	thread->Pattern();
+	}
+void MinConnect::PrototypeNew::RemoveReferenceIdArray(Stream::ButtonPatternContainer *Set){
+	std::vector<WeightNew::StackMinNewPointer*>::iterator i=std::find(PatternSetLink.begin(), ReferenceContainerPage.end(), effect);
+	if(i!=MinWindow.end())
+		MatrixStdSet.erase(i);
+}
+if(InstallWindow==SourceBlock_SetPage){
+	SelectedWeight=ScrollbarWeight.ConnectLink;
+	return Swap.size;
+}else{
+	return 0;
+}
