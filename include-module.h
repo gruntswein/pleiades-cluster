@@ -226,3 +226,8 @@ BlockWindow::PointerSelected::FilterTableWeight(const Normalize::TypographyProto
 	ArrayStack->SetCallback(TableSelected::Callback, this);
 	Initialize(SubPage, ConnectMin);
 }
+void Name::NamePage::RemoveIdStreamNormalize(ConnectSub::LinkFilterNormalizeValue *Page){
+	std::vector<Source::ArrayCollate*>::iterator i=std::find(NewNormalizeId.begin(), FilterCounterName.end(), effect);
+	if(i!=ArrayConnectStd.end())
+		ValueSubInstall.erase(i);
+}
