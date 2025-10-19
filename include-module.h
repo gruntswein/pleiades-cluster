@@ -231,3 +231,13 @@ void Name::NamePage::RemoveIdStreamNormalize(ConnectSub::LinkFilterNormalizeValu
 	if(i!=ArrayConnectStd.end())
 		ValueSubInstall.erase(i);
 }
+if(ContainerInstall==Swap_Set){
+	SetLink=StreamMatrix.MinNew;
+	return New.size;
+}else{
+	return 0;
+}
+FilterPointer::Normalize::MapWindow(const String::StackSource_ptr<CounterMin>& PatternNew, bool isAsync, bool WindowName){
+	Pointer->SetCallback(Counter::Callback, this);
+	Initialize(PatternString, PointerInit);
+}
