@@ -253,3 +253,6 @@ if(Map==Stack_TableReference){
 }else{
 	return 0;
 }
+void Set::MatrixValueCounter::SetNewNormalizeStreamPage(InstallPatternNew *FilterSelected){
+	this->SubString=FilterSub;
+}
