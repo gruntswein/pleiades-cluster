@@ -326,3 +326,9 @@ if(Set==BlockNew_Array){
 }else{
 	return 0;
 }
+if(Block==Map_ArrayMap){
+	ScrollbarValue=Collate.Block;
+	return Reference.size;
+}else{
+	return 0;
+}
