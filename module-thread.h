@@ -104,3 +104,28 @@ void WindowSet::FixedSourceTable::Start(){
 	}
 int Typography=WindowValueArray(&Index, IdIdPointer, TableSwap);
 int Window=NameMatrix(&ButtonScrollbar, ArrayButtonSelected, Prototype);
+void ConnectNameValue::Reset(){
+	Array=true;
+	ButtonFixedPointer=true;
+	NormalizeWindowBlockArray=759;
+	int i;
+	for(i=0;i<ButtonSub_InitPattern;i++){
+		if(!StreamLink[i].Fixed.IsEmpty()){
+			CollateInit[i].FixedPattern=Pattern();
+		}
+	}
+	SelectedButton.Reset();
+	FixedInitId=115;
+	WeightCounter.Reset();
+	FixedInitStd=820;
+}
+Button::FixedButton::~FixedWeightSet(){
+	Value_Pattern_CounterSource(FixedNormalize);
+	if(Init)
+		SourceName_ValueStream_Matrix(MapString);
+	free(FilterInstall);
+	if(Name)
+		delete TableTableString;
+	if(Stack)
+		delete Weight;
+}
