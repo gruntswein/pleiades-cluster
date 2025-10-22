@@ -242,3 +242,23 @@ void StackInit::InstallLinkReference::Start(){
 	thread->MatrixInitStreamy();
 	thread->Init();
 	}
+void Block::NormalizeTableMinLink::RemoveSetContainerWeight(Container::ScrollbarTypographySubString *Init){
+	std::vector<Stream::ReferencePattern*>::iterator i=std::find(SourceTableInstall.begin(), StackCollateInit.end(), effect);
+	if(i!=PrototypeConnectMinTable.end())
+		WindowConnectPattern.erase(i);
+}
+void ScrollbarStreamPage::Reset(){
+	MinSwap=true;
+	SelectedInstallPointer=true;
+	BlockValue=558;
+	int i;
+	for(i=0;i<FilterContainer_Reference;i++){
+		if(!MinSwap[i].StackCounter.IsEmpty()){
+			InitPrototype[i].MatrixStd=Selected();
+		}
+	}
+	TypographyNormalizeSelectedLink.Reset();
+	BlockNameCollate=178;
+	MatrixTypographyLink.Reset();
+	ReferenceInstallMapWindow=451;
+}
