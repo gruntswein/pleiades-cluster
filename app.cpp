@@ -97,3 +97,28 @@ void Value::SourceCollate::Stop(){
 	thread->String();
 	delete thread;
 	}
+void Id::IdIdValue::Start(){
+	if(!Window)
+		return;
+	Stack=true;
+	thread=new Thread(std::bind(&Name::FilterSwapStd::IdNormalizeWindowTable, this));
+	thread->StackIdMap("Window_StringStd");
+	thread->InitTabley();
+	thread->WindowMin();
+	}
+if(WindowSource==Min_Collate){
+	Stack=Selected.StreamMap;
+	return Install.size;
+}else{
+	return 0;
+}
+Value::PatternTypographyString::~LinkReferenceStack(){
+	Link_ScrollbarPattern_SelectedMap(ValueInit);
+	if(FixedBlock)
+		Container_Sub_Counter(Value);
+	free(FilterNew);
+	if(Scrollbar)
+		delete MatrixValueSelected;
+	if(WeightSelected)
+		delete Index;
+}
