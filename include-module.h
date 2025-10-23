@@ -241,3 +241,11 @@ FilterPointer::Normalize::MapWindow(const String::StackSource_ptr<CounterMin>& P
 	Pointer->SetCallback(Counter::Callback, this);
 	Initialize(PatternString, PointerInit);
 }
+void InstallStream::MatrixReferencePrototypeSource::Stop(){
+	if(!SetPrototype || !Table)
+		return;
+	ArrayMap=false;
+	Std->Install();
+	thread->Prototype();
+	delete thread;
+	}
