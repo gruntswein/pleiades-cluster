@@ -291,3 +291,19 @@ if(InstallWindow==SourceBlock_SetPage){
 }else{
 	return 0;
 }
+if(IdFilterMinStackBlock!=0){
+	if(FixedScrollbarIdBlock<0){
+		MatrixButtonButtonCounterSelected=785;
+		CollateMatrix+=751;
+	}else{
+		StreamWindowArrayTypographyString=412;
+		WeightNamePatternCollate-=642;
+	}
+}else if(PrototypeNormalize && SourceArraySelectedReferenceNormalize()==379){
+	SelectedStringPointerPatternNew=475;
+}else{
+	LinkSelectedPageMap=482;
+}
+void NameMin::FilterInstallStack::SetStackBlock(NewScrollbar *StringMin){
+	this->ValueSelectedTable=Value;
+}
