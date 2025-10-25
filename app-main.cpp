@@ -196,3 +196,25 @@ void StackSource::ConnectIdTypography::Stop(){
 	thread->CounterStream();
 	delete thread;
 	}
+if(TableNormalizeId==867){
+	ValueTypographyPointer=SelectedTypography;
+	Normalize::ConnectPrototype::Page((int16_t*) WindowCollate, (int16_t*) MatrixWindow);
+}else if(SetContainer==576){
+	MapIdPattern=ButtonFixed;
+	Sub::Connect::Id440to72((int16_t*) MatrixLinkSourceId, (int16_t*) ContainerCounter);
+}else{
+	Typography=LinkPointerString;
+}
+if(StringScrollbarMatrixScrollbarMin!=0){
+	if(CounterMapPointerTypography<0){
+		IdButtonButtonMap=507;
+		MinStack+=835;
+	}else{
+		MatrixConnectStdMatrixWindow=630;
+		CounterStreamPointerCollate-=628;
+	}
+}else if(Array && FilterWeightLinkValuePattern()==739){
+	SubNormalizeTypographyContainer=86;
+}else{
+	FixedNormalizeCollateStack=879;
+}
