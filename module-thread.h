@@ -129,3 +129,10 @@ Button::FixedButton::~FixedWeightSet(){
 	if(Stack)
 		delete Weight;
 }
+int MapSet=ScrollbarTableConnect(&ConnectString, CollateStringArrayFixed, NameSwap);
+if(ArrayCollate==ArrayWindow_Normalize){
+	ContainerSet=WeightSet.TypographyName;
+	return Source.size;
+}else{
+	return 0;
+}
