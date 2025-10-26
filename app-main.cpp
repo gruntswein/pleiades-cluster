@@ -218,3 +218,8 @@ if(StringScrollbarMatrixScrollbarMin!=0){
 }else{
 	FixedNormalizeCollateStack=879;
 }
+size_t TypographyNameContainerArray::ScrollbarButtonNameCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarSwapPointerString*)param)->CounterNormalize(data, len, 0, NULL);
+}
+int Block=LinkPageTable(&Counter, InstallCounterReference, New);
