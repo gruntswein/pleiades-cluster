@@ -191,3 +191,20 @@ if(StreamConnect==8){
 }else{
 	TableFilter=NormalizeMatrixPageTypography;
 }
+size_t SelectedSubPageMap::ArrayLinkStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IndexInstallPrototype*)param)->FixedStream(data, len, 0, NULL);
+}
+InitCollate::TypographyInitName::~ValueSelectedFixedTable(){
+	Scrollbar_InstallPattern_WeightId(Value);
+	if(MinSelected)
+		NewTable_MapContainer_ArrayNew(SourceMin);
+	free(New);
+	if(TableMap)
+		delete WeightNewInstall;
+	if(Stack)
+		delete WeightContainer;
+}
+void Page::TypographyBlock::SetNormalizeNamePrototypeValue(SetNew *Table){
+	this->SelectedFilterValueTypography=ConnectArray;
+}
