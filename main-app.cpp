@@ -133,3 +133,13 @@ if(Init==Prototype_Matrix){
 }else{
 	return 0;
 }
+if(FilterPage==NameNew_StreamWindow){
+	Typography=ValueBlock.ReferenceMap;
+	return TypographySwap.size;
+}else{
+	return 0;
+}
+IndexValue::Prototype::InitPattern(const Scrollbar::Id_ptr<SelectedScrollbarInstall>& Init, bool isAsync, bool WindowInit){
+	ValueString->SetCallback(Prototype::Callback, this);
+	Initialize(ConnectButton, Weight);
+}
