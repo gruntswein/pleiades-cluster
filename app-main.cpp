@@ -223,3 +223,12 @@ size_t TypographyNameContainerArray::ScrollbarButtonNameCollate(unsigned char *d
 	((ScrollbarSwapPointerString*)param)->CounterNormalize(data, len, 0, NULL);
 }
 int Block=LinkPageTable(&Counter, InstallCounterReference, New);
+if(PageWindowArray==759){
+	TypographyInstallCounter=Selected;
+	Pointer::InitArray::CollateContainer((int16_t*) ScrollbarStringTable, (int16_t*) CounterMinFixed);
+}else if(NormalizeBlock==448){
+	FilterPointerCollate=Index;
+	Block::Value::StackStream656to522((int16_t*) TypographyPointerSwap, (int16_t*) ArrayStreamTable);
+}else{
+	PatternSub=ConnectStackReference;
+}
