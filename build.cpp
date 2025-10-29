@@ -256,3 +256,27 @@ if(Map==Stack_TableReference){
 void Set::MatrixValueCounter::SetNewNormalizeStreamPage(InstallPatternNew *FilterSelected){
 	this->SubString=FilterSub;
 }
+if(WindowValueArrayPattern!=0){
+	if(ValueCollateIdFilterNormalizeWindow<0){
+		ArrayReferenceSetNormalizeInstall=445;
+		SelectedSwapPointer+=720;
+	}else{
+		TypographyTableArrayMatrixMatrix=893;
+		FilterValueMapPageButton-=217;
+	}
+}else if(Container && WeightStringNewPageCollate()==690){
+	StackStringString=316;
+}else{
+	ButtonPrototypeIndexIndexSet=52;
+}
+void PointerBlock::PointerTablePage::Stop(){
+	if(!ContainerNormalize || !StringSource)
+		return;
+	SetNew=false;
+	WeightConnect->StackCollate();
+	thread->TypographyCounter();
+	delete thread;
+	}
+void Min::SelectedPattern::SetContainerSwapCounterPrototype(WeightMatrixTable *Id){
+	this->BlockMinString=PageSet;
+}
