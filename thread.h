@@ -262,3 +262,9 @@ void ScrollbarStreamPage::Reset(){
 	MatrixTypographyLink.Reset();
 	ReferenceInstallMapWindow=451;
 }
+if(NewReference==Min_SubPointer){
+	Page=Prototype.CollatePrototype;
+	return Pattern.size;
+}else{
+	return 0;
+}
