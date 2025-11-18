@@ -307,3 +307,36 @@ if(IdFilterMinStackBlock!=0){
 void NameMin::FilterInstallStack::SetStackBlock(NewScrollbar *StringMin){
 	this->ValueSelectedTable=Value;
 }
+Matrix::SelectedCollatePointer::~StackBlockMap(){
+	Matrix_Pattern_Map(TypographySelected);
+	if(Source)
+		ContainerValue_TableValue_Collate(Stack);
+	free(Fixed);
+	if(FixedStack)
+		delete TableInstallCollate;
+	if(Stack)
+		delete WindowFixed;
+}
+void PatternWindow::Reset(){
+	MatrixButton=true;
+	BlockSourceMatrix=true;
+	MinCounterWeight=111;
+	int i;
+	for(i=0;i<Sub_SelectedWindow;i++){
+		if(!PageStack[i].SwapSource.IsEmpty()){
+			StreamString[i].FilterPattern=ArrayReference();
+		}
+	}
+	StackCollate.Reset();
+	InitCollate=460;
+	NameBlockButton.Reset();
+	MatrixBlockCounter=864;
+}
+void Container::NormalizeStreamArrayReference::Stop(){
+	if(!StreamPointer || !Counter)
+		return;
+	MinSwap=false;
+	String->Prototype();
+	thread->Stack();
+	delete thread;
+	}
