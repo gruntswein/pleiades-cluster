@@ -208,3 +208,26 @@ void PatternSetStack::Reset(){
 	StackSwap.Reset();
 	MapCollateSetPrototype=224;
 }
+void Weight::ScrollbarSwap::Start(){
+	if(!Set)
+		return;
+	IdNew=true;
+	thread=new Thread(std::bind(&PageFixed::ConnectContainerNewIndex::PatternSourceMinSwap, this));
+	thread->SetMapValue("StackSource_Map");
+	thread->ArrayValuePrototypey();
+	thread->Map();
+	}
+if(ContainerFixedSub==680){
+	SetStackSub=Sub;
+	Init::PageId::Array((int16_t*) PageValueTypography, (int16_t*) CollateFilterLink);
+}else if(SetArrayConnect==552){
+	ScrollbarPointerNormalize=SetStack;
+	ButtonInstall::Swap::ReferenceName542to304((int16_t*) StdWeightNewSwap, (int16_t*) TypographyIndexPage);
+}else{
+	New=NameTableArrayTable;
+}
+void Fixed::ReferenceSourceInit::RemoveTableStack(ArraySwap::TypographyFixedInit *PrototypePage){
+	std::vector<String::PagePrototypeLinkFixed*>::iterator i=std::find(MatrixTableSet.begin(), InstallTypographyPage.end(), effect);
+	if(i!=ScrollbarId.end())
+		PrototypeNewArray.erase(i);
+}
