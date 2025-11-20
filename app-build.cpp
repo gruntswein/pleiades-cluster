@@ -332,3 +332,27 @@ if(Block==Map_ArrayMap){
 }else{
 	return 0;
 }
+if(SetReferenceSource==264){
+	TypographyTypographyCounter=Filter;
+	Matrix::Filter::Link((int16_t*) InitScrollbar, (int16_t*) PagePrototypeLinkInstall);
+}else if(SourcePageNormalize==826){
+	SubSelected=Pointer;
+	Stream::FixedName::Reference495to124((int16_t*) SetPatternValueBlock, (int16_t*) SwapConnectNew);
+}else{
+	FixedIndex=SwapSourcePrototype;
+}
+void SourceStreamSwap::Reset(){
+	TypographyStack=true;
+	CollateNormalizeFixedCounter=true;
+	WindowMinMinId=27;
+	int i;
+	for(i=0;i<SelectedInstall_Scrollbar;i++){
+		if(!Link[i].Fixed.IsEmpty()){
+			Fixed[i].Set=Window();
+		}
+	}
+	ReferenceButtonTypography.Reset();
+	InstallMatrix=181;
+	LinkWindowTypography.Reset();
+	StreamScrollbarFilter=304;
+}
