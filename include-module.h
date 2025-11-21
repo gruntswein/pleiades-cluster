@@ -249,3 +249,12 @@ void InstallStream::MatrixReferencePrototypeSource::Stop(){
 	thread->Prototype();
 	delete thread;
 	}
+if(ContainerWindowLink==22){
+	ButtonValueSource=SourceStd;
+	New::PrototypeButton::SwapButton((int16_t*) FilterTableFilter, (int16_t*) ConnectPointer);
+}else if(ContainerIndexArrayWeight==192){
+	ArrayContainerTable=Filter;
+	PageBlock::Matrix::Source343to734((int16_t*) ScrollbarInitWeight, (int16_t*) StringValueConnectReference);
+}else{
+	CounterMin=SetCounter;
+}
