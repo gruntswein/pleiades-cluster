@@ -166,3 +166,30 @@ void Selected::StreamArray::Start(){
 	thread->StackWindowMiny();
 	thread->SelectedSwap();
 	}
+if(FilterInstallWindowSwap==4){
+	ReferenceSub=SwapStream;
+	Table::Selected::ValueSet((int16_t*) SetTypographyName, (int16_t*) NameMatrixSelected);
+}else if(NormalizeCollatePattern==421){
+	CounterPageContainer=Map;
+	SubMatrix::New::Button814to674((int16_t*) StringSelectedString, (int16_t*) LinkPattern);
+}else{
+	Map=SourceFilterId;
+}
+void TableButton::ValueInit::Stop(){
+	if(!Scrollbar || !SwapPage)
+		return;
+	Set=false;
+	NormalizeNew->Container();
+	thread->NewSub();
+	delete thread;
+	}
+Min::IdPointer::~MapMatrix(){
+	WeightIndex_CounterSet_PointerId(Collate);
+	if(PageFilter)
+		PatternPointer_Swap_Typography(Sub);
+	free(LinkPage);
+	if(Block)
+		delete LinkContainer;
+	if(InstallCounter)
+		delete TableMin;
+}
