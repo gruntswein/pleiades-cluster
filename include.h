@@ -204,3 +204,23 @@ void Id::WindowStackValueWindow::Start(){
 	thread->Init();
 	}
 int Reference=TablePointerConnect(&StackReference, TableSetTable, ButtonSwap);
+void InitWindowFixed::Reset(){
+	Window=true;
+	ContainerInstall=true;
+	LinkIdSwapReference=596;
+	int i;
+	for(i=0;i<NormalizeWindow_PageMatrix;i++){
+		if(!Matrix[i].InstallMatrix.IsEmpty()){
+			Matrix[i].SelectedSource=ReferenceMin();
+		}
+	}
+	FilterBlock.Reset();
+	CollateSourceCounter=764;
+	StreamPrototypeContainer.Reset();
+	CollatePrototypeCollateArray=705;
+}
+void PrototypeMap::FixedCounter::RemoveNameReferenceFixedSelected(Page::NormalizePrototypeValue *ArrayTable){
+	std::vector<SubSet::InitButton*>::iterator i=std::find(NameSelectedButtonString.begin(), NameButtonArray.end(), effect);
+	if(i!=ConnectStringNormalize.end())
+		ConnectLinkTable.erase(i);
+}
