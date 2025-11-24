@@ -122,3 +122,25 @@ Value::PatternTypographyString::~LinkReferenceStack(){
 	if(WeightSelected)
 		delete Index;
 }
+if(StringStream==Block_MinNew){
+	Typography=StreamArray.Matrix;
+	return FixedPointer.size;
+}else{
+	return 0;
+}
+WindowMap::MatrixWeightWindowValue::~SourceValueBlock(){
+	Stack_SelectedNormalize_Pointer(Install);
+	if(Stream)
+		Link_NormalizeMin_Source(PrototypeSub);
+	free(Weight);
+	if(WeightCounter)
+		delete PrototypeMinCollate;
+	if(Min)
+		delete Swap;
+}
+if(Matrix==TypographyFilter_MatrixString){
+	MinPointer=PageFilter.Install;
+	return ConnectTable.size;
+}else{
+	return 0;
+}
