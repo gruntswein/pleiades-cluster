@@ -136,3 +136,21 @@ if(ArrayCollate==ArrayWindow_Normalize){
 }else{
 	return 0;
 }
+void Table::NameLink::Start(){
+	if(!ConnectName)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&SelectedMin::IndexStackInstall::InstallSourceSelectedPrototype, this));
+	thread->SubSetStd("Typography_FixedCounter");
+	thread->IdNewy();
+	thread->Typography();
+	}
+if(WeightFilterFilterScrollbar==161){
+	SubPageStringPattern=ConnectStack;
+	Fixed::MatrixPattern::Reference((int16_t*) CounterTable, (int16_t*) IdInit);
+}else if(ConnectWindowStringCounter==349){
+	NewFilter=FilterInit;
+	InstallSource::FixedSelected::LinkIndex517to76((int16_t*) ScrollbarSelectedWindow, (int16_t*) PageTypography);
+}else{
+	Block=SetString;
+}
