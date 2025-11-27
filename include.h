@@ -224,3 +224,23 @@ void PrototypeMap::FixedCounter::RemoveNameReferenceFixedSelected(Page::Normaliz
 	if(i!=ConnectStringNormalize.end())
 		ConnectLinkTable.erase(i);
 }
+void MatrixSelectedSet::Reset(){
+	Swap=true;
+	InstallStreamId=true;
+	StringPattern=414;
+	int i;
+	for(i=0;i<Min_ButtonName;i++){
+		if(!String[i].CounterMap.IsEmpty()){
+			StdNormalize[i].Collate=Filter();
+		}
+	}
+	FilterPageNormalize.Reset();
+	MinStreamStreamMatrix=226;
+	ReferenceInitReferenceBlock.Reset();
+	ReferenceTableSetStream=698;
+}
+void WeightScrollbar::TablePrototypeValue::RemoveSourceContainer(InstallString::InstallButtonSourceStack *LinkSet){
+	std::vector<Normalize::SourceName*>::iterator i=std::find(LinkMatrixMap.begin(), MapCounterWindow.end(), effect);
+	if(i!=ButtonSub.end())
+		IdTableWindow.erase(i);
+}
