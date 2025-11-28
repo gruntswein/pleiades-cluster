@@ -127,3 +127,33 @@ Link::PatternArrayContainer::~StreamInstallSubStack(){
 	if(Connect)
 		delete Block;
 }
+if(Std==SwapValue_Scrollbar){
+	Link=BlockMin.NewIndex;
+	return CounterStream.size;
+}else{
+	return 0;
+}
+void Prototype::NormalizeNewCounter::Start(){
+	if(!Block)
+		return;
+	IdSource=true;
+	thread=new Thread(std::bind(&SubReference::MinTableTypography::LinkValueCounterStd, this));
+	thread->TableIdStdBlock("LinkTypography_Swap");
+	thread->WindowCollateMatrixTabley();
+	thread->CollateInstall();
+	}
+void MatrixConnectCollate::Reset(){
+	Link=true;
+	ReferenceNameValue=true;
+	NormalizeCollatePointerIndex=522;
+	int i;
+	for(i=0;i<Scrollbar_PrototypeWindow;i++){
+		if(!Sub[i].Filter.IsEmpty()){
+			NewMin[i].ConnectCollate=MatrixFixed();
+		}
+	}
+	LinkSubPage.Reset();
+	IdFixedReference=521;
+	ButtonPointerInstallName.Reset();
+	PatternInstallMap=294;
+}
