@@ -49,3 +49,5 @@ if(SourceInstallReferencePattern!=0){
 }else{
 	InstallConnectTypographyReference=680;
 }
+int CollateStream=CollateTypography(&Value, PageValue, Stack);
+int FilterName=CounterCollatePattern(&Button, StringWindow, Stream);
