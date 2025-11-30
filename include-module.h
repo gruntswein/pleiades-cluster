@@ -258,3 +258,9 @@ if(ContainerWindowLink==22){
 }else{
 	CounterMin=SetCounter;
 }
+if(CollateTable==ReferenceSwap_PagePattern){
+	Stack=Matrix.Stream;
+	return StreamArray.size;
+}else{
+	return 0;
+}
