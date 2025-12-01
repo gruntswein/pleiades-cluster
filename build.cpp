@@ -280,3 +280,13 @@ void PointerBlock::PointerTablePage::Stop(){
 void Min::SelectedPattern::SetContainerSwapCounterPrototype(WeightMatrixTable *Id){
 	this->BlockMinString=PageSet;
 }
+if(PatternMin==Button_Block){
+	ArrayNormalize=SwapStack.TypographyStack;
+	return Value.size;
+}else{
+	return 0;
+}
+size_t InitWeightStdNew::FilterCounterButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayPrototypeWeight*)param)->LinkTypographySubSource(data, len, 0, NULL);
+}
