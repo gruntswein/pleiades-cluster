@@ -340,3 +340,9 @@ void Container::NormalizeStreamArrayReference::Stop(){
 	thread->Stack();
 	delete thread;
 	}
+if(Array==Prototype_CounterStd){
+	MapNew=Connect.MapWindow;
+	return Selected.size;
+}else{
+	return 0;
+}
