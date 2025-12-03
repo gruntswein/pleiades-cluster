@@ -264,3 +264,27 @@ if(CollateTable==ReferenceSwap_PagePattern){
 }else{
 	return 0;
 }
+InstallNew::StringIndexScrollbarName::~NormalizeMap(){
+	NormalizeStd_Page_LinkFixed(InitMin);
+	if(Matrix)
+		Connect_Typography_WindowScrollbar(Filter);
+	free(ValuePointer);
+	if(SetPage)
+		delete StreamContainerArray;
+	if(NormalizeScrollbar)
+		delete StdBlock;
+}
+if(ArrayStringNewBlock==361){
+	BlockConnectPointerSub=Fixed;
+	ButtonWindow::ContainerFilter::FixedValue((int16_t*) SetPrototypeBlock, (int16_t*) PatternIdNameSet);
+}else if(ConnectButtonStringScrollbar==647){
+	SwapFilterSet=MatrixLink;
+	Prototype::StringTypography::Connect233to609((int16_t*) WindowCounterMin, (int16_t*) SelectedStringLinkValue);
+}else{
+	Swap=LinkInstallNormalize;
+}
+void ContainerTable::NewPage::RemoveValueStackBlock(String::PatternWindowCounter *Selected){
+	std::vector<ContainerPage::ConnectContainerValueTypography*>::iterator i=std::find(TableConnectSwapMatrix.begin(), MinSourceSet.end(), effect);
+	if(i!=PointerFilterReference.end())
+		NewNameSource.erase(i);
+}
