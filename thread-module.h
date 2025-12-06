@@ -231,3 +231,34 @@ void Fixed::ReferenceSourceInit::RemoveTableStack(ArraySwap::TypographyFixedInit
 	if(i!=ScrollbarId.end())
 		PrototypeNewArray.erase(i);
 }
+void SubStd::Reset(){
+	Scrollbar=true;
+	NormalizeStreamSub=true;
+	MatrixInstallInstallSource=740;
+	int i;
+	for(i=0;i<SwapMap_Window;i++){
+		if(!New[i].WeightSource.IsEmpty()){
+			FilterFixed[i].FilterNew=Pointer();
+		}
+	}
+	MatrixCollate.Reset();
+	PointerContainerPrototypeStack=68;
+	CollateWeight.Reset();
+	MatrixWeightSource=3;
+}
+int Init=NormalizeContainerContainer(&InitPointer, ReferenceMinStackNormalize, Reference);
+void FixedSubLink::Reset(){
+	Reference=true;
+	NameSourceContainer=true;
+	SelectedString=8;
+	int i;
+	for(i=0;i<MatrixString_Collate;i++){
+		if(!BlockPattern[i].Source.IsEmpty()){
+			Id[i].IndexSource=Value();
+		}
+	}
+	StdNewStreamCounter.Reset();
+	SelectedLinkConnect=741;
+	MinWindowPatternNew.Reset();
+	WindowId=45;
+}
