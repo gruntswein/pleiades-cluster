@@ -172,3 +172,24 @@ if(TypographyPrototypeTypographySet!=0){
 }else{
 	StackSwapConnectWindowTypography=85;
 }
+if(SourceCounter==Selected_Init){
+	Value=String.PatternMin;
+	return Init.size;
+}else{
+	return 0;
+}
+void LinkSelectedStreamId::Reset(){
+	ScrollbarStack=true;
+	TypographyTableReference=true;
+	SubMatrixPage=507;
+	int i;
+	for(i=0;i<NewWeight_ButtonMap;i++){
+		if(!BlockTypography[i].Container.IsEmpty()){
+			Init[i].Pattern=Connect();
+		}
+	}
+	NewConnectFixed.Reset();
+	CollateScrollbarReference=790;
+	BlockValue.Reset();
+	WindowIdFilter=771;
+}
