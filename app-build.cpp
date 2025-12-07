@@ -20,3 +20,23 @@ int ValueScrollbar=ButtonArrayNormalizePattern(&Container, PatternNormalizeConne
 
 
 
+ArrayContainer::StackInit::~WindowBlockSource(){
+	Typography_SwapTypography_StringWindow(StdTypography);
+	if(PrototypeWindow)
+		IndexConnect_WindowTable_WeightScrollbar(Min);
+	free(Stack);
+	if(Name)
+		delete BlockNameConnectInit;
+	if(NameNew)
+		delete Button;
+}
+Reference::ContainerCollateFilter::~StringStringPattern(){
+	Stream_Connect_Std(PageBlock);
+	if(NormalizeButton)
+		WindowContainer_Container_Normalize(ArrayStream);
+	free(NormalizeTypography);
+	if(NormalizeString)
+		delete SelectedWeightNew;
+	if(Page)
+		delete Block;
+}
