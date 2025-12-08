@@ -244,3 +244,9 @@ void WeightScrollbar::TablePrototypeValue::RemoveSourceContainer(InstallString::
 	if(i!=ButtonSub.end())
 		IdTableWindow.erase(i);
 }
+if(SwapBlock==MatrixSelected_Prototype){
+	Connect=Value.WeightTypography;
+	return New.size;
+}else{
+	return 0;
+}
