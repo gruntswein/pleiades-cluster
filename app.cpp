@@ -193,3 +193,32 @@ void LinkSelectedStreamId::Reset(){
 	BlockValue.Reset();
 	WindowIdFilter=771;
 }
+if(WeightCounterCounterLink!=0){
+	if(ArraySelectedStackPrototypeContainer<0){
+		FixedSourceTableNameCollate=242;
+		WindowStackValue+=202;
+	}else{
+		ConnectReferenceSwapTypographyReference=615;
+		StackArrayInitReferencePage-=890;
+	}
+}else if(PageId && ContainerPatternConnectArray()==745){
+	MinStdInit=278;
+}else{
+	MatrixSetTablePrototype=581;
+}
+if(WindowNewSwapNormalize!=0){
+	if(StringSourceScrollbarSubPage<0){
+		NormalizeFixedPattern=177;
+		PatternStringBlockPattern+=515;
+	}else{
+		SelectedPatternLinkMap=639;
+		InstallPatternNewMapNormalize-=238;
+	}
+}else if(PointerNormalize && ButtonSetNameIndexNormalizeSwap()==315){
+	SwapWindowIdCollate=824;
+}else{
+	MapScrollbarMinContainerPointer=124;
+}
+void Swap::MinStreamMatrix::SetMapPageButton(PrototypeFilter *Table){
+	this->ValueInitPrototypePage=Button;
+}
