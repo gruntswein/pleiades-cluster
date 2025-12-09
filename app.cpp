@@ -222,3 +222,27 @@ if(WindowNewSwapNormalize!=0){
 void Swap::MinStreamMatrix::SetMapPageButton(PrototypeFilter *Table){
 	this->ValueInitPrototypePage=Button;
 }
+void IdPointerBlock::Reset(){
+	Fixed=true;
+	ScrollbarPrototypeScrollbar=true;
+	TableCounterStream=301;
+	int i;
+	for(i=0;i<SelectedSwap_Map;i++){
+		if(!StringSub[i].MapTable.IsEmpty()){
+			MapNormalize[i].Pattern=Connect();
+		}
+	}
+	StackFixed.Reset();
+	MapString=659;
+	TableBlockSelectedMap.Reset();
+	PatternPrototypeBlockTypography=67;
+}
+if(Weight==Page_ButtonString){
+	SelectedPointer=Array.FixedNew;
+	return ConnectPage.size;
+}else{
+	return 0;
+}
+void NameArray::SourceFixedInit::SetValueCounter(ScrollbarWindowPatternFixed *Normalize){
+	this->SwapMatrixNormalize=StreamMap;
+}
