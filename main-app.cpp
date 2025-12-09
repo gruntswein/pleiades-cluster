@@ -143,3 +143,11 @@ IndexValue::Prototype::InitPattern(const Scrollbar::Id_ptr<SelectedScrollbarInst
 	ValueString->SetCallback(Prototype::Callback, this);
 	Initialize(ConnectButton, Weight);
 }
+void MapMatrix::InitFilterFixedValue::Stop(){
+	if(!ValueString || !Id)
+		return;
+	Button=false;
+	Window->ButtonMap();
+	thread->ValueIndex();
+	delete thread;
+	}
