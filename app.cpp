@@ -246,3 +246,32 @@ if(Weight==Page_ButtonString){
 void NameArray::SourceFixedInit::SetValueCounter(ScrollbarWindowPatternFixed *Normalize){
 	this->SwapMatrixNormalize=StreamMap;
 }
+Stack::BlockStdIndex::~StringSwap(){
+	ScrollbarReference_New_ContainerNew(FilterCollate);
+	if(MinSelected)
+		Std_WeightId_NormalizePointer(Window);
+	free(CounterInstall);
+	if(Counter)
+		delete ButtonTableNameWindow;
+	if(InstallSwap)
+		delete Collate;
+}
+if(ArrayLinkIndexPage!=0){
+	if(InstallCollateSubSource<0){
+		TypographyPointerFilter=72;
+		FixedWeightSetString+=62;
+	}else{
+		ContainerStringSubSubWindow=247;
+		StreamWindowBlockStreamSub-=40;
+	}
+}else if(MapCounter && ValueIndexArraySelectedFilter()==337){
+	ArrayTableMatrixWindow=604;
+}else{
+	SourceContainerIndexCounterNormalizeWeight=183;
+}
+if(Array==IdSwap_Prototype){
+	IndexMatrix=Name.Window;
+	return Button.size;
+}else{
+	return 0;
+}
