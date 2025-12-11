@@ -275,3 +275,17 @@ if(Array==IdSwap_Prototype){
 }else{
 	return 0;
 }
+void LinkArray::StreamInitScrollbar::RemoveInstallValueStringWindow(Map::InitNewWeightCollate *Typography){
+	std::vector<CounterString::SwapBlock*>::iterator i=std::find(PointerCounterFilter.begin(), StackNewScrollbarSwap.end(), effect);
+	if(i!=NormalizeIdNameBlock.end())
+		TypographyReferenceSub.erase(i);
+}
+if(Weight==Pointer_NewReference){
+	TableReference=Array.ArrayConnect;
+	return CollateSelected.size;
+}else{
+	return 0;
+}
+void IndexSet::MinNameFixedReference::SetSetSelectedSub(WeightSourceCollate *StackPage){
+	this->PointerButton=Min;
+}
