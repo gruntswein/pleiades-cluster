@@ -262,3 +262,20 @@ void FixedSubLink::Reset(){
 	MinWindowPatternNew.Reset();
 	WindowId=45;
 }
+void Sub::StringTableSwap::Stop(){
+	if(!SwapString || !Container)
+		return;
+	String=false;
+	SelectedArray->Link();
+	thread->SubString();
+	delete thread;
+	}
+void ReferenceTypography::StreamCounterValueMatrix::Start(){
+	if(!Index)
+		return;
+	Button=true;
+	thread=new Thread(std::bind(&Id::SourceScrollbarNormalize::MinValueMapString, this));
+	thread->InstallSelectedStd("New_Std");
+	thread->NormalizeIdy();
+	thread->NewString();
+	}
