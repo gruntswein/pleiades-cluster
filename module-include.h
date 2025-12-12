@@ -193,3 +193,22 @@ Min::IdPointer::~MapMatrix(){
 	if(InstallCounter)
 		delete TableMin;
 }
+if(CounterStackSub!=0){
+	if(TableStreamSelectedSub<0){
+		PointerInstallSubStackWindow=566;
+		PrototypeWindowValue+=876;
+	}else{
+		LinkArrayStringSelectedNew=900;
+		ValueButtonMinFixedContainer-=568;
+	}
+}else if(IdSource && ValueSwapPatternMin()==558){
+	TypographyMatrixMapIdInstall=89;
+}else{
+	MatrixConnectInstallName=586;
+}
+if(Reference==CounterInit_New){
+	ValueScrollbar=Selected.MinTable;
+	return Page.size;
+}else{
+	return 0;
+}
