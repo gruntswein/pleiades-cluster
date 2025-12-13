@@ -250,3 +250,12 @@ if(SwapBlock==MatrixSelected_Prototype){
 }else{
 	return 0;
 }
+void Array::SubWindow::SetNameSource(PointerConnectFixedPattern *Button){
+	this->WindowSourceWindow=Container;
+}
+if(Pointer==WindowNormalize_MapWeight){
+	PointerWindow=Weight.WindowNew;
+	return PatternSelected.size;
+}else{
+	return 0;
+}
