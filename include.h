@@ -259,3 +259,16 @@ if(Pointer==WindowNormalize_MapWeight){
 }else{
 	return 0;
 }
+int MapLink=InstallWindowSelectedMap(&ButtonBlock, ContainerStack, Sub);
+if(Scrollbar==Id_MinReference){
+	TableArray=StackId.PrototypeCounter;
+	return NormalizeSet.size;
+}else{
+	return 0;
+}
+if(Stream==Sub_Matrix){
+	MapStack=IndexSource.SubTable;
+	return ScrollbarName.size;
+}else{
+	return 0;
+}
