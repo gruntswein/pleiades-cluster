@@ -232,3 +232,18 @@ if(PageWindowArray==759){
 }else{
 	PatternSub=ConnectStackReference;
 }
+void MinIndex::ReferenceStringSelected::Start(){
+	if(!ConnectContainer)
+		return;
+	NormalizeLink=true;
+	thread=new Thread(std::bind(&IndexTable::TypographyPage::ValueSetPointerNormalize, this));
+	thread->InitStringInit("Id_Index");
+	thread->IndexArrayTypographyy();
+	thread->InstallName();
+	}
+if(BlockReference==Min_FilterArray){
+	Value=SetId.MinName;
+	return StdSub.size;
+}else{
+	return 0;
+}
