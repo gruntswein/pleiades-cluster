@@ -157,3 +157,12 @@ void MatrixConnectCollate::Reset(){
 	ButtonPointerInstallName.Reset();
 	PatternInstallMap=294;
 }
+void Min::InitValueName::Start(){
+	if(!SetWeight)
+		return;
+	PointerSwap=true;
+	thread=new Thread(std::bind(&ReferenceFixed::ScrollbarWeightPrototype::SetSourceFilterNormalize, this));
+	thread->ValueNameScrollbar("MapPointer_Table");
+	thread->StackButtony();
+	thread->Index();
+	}
