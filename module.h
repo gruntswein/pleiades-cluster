@@ -208,3 +208,11 @@ void Scrollbar::IdStream::RemovePatternStreamNormalize(Page::ReferenceInitMin *I
 	if(i!=NameSubMatrixContainer.end())
 		FilterWeight.erase(i);
 }
+void Set::IndexSubMatrixFilter::Stop(){
+	if(!Table || !Source)
+		return;
+	StackCollate=false;
+	InitFilter->NewBlock();
+	thread->Map();
+	delete thread;
+	}
