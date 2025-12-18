@@ -117,3 +117,27 @@ Set::PatternCollatePattern::~TableStackFixed(){
 	if(SetPattern)
 		delete WindowValue;
 }
+if(TypographyReferenceArrayStreamIdArray!=0){
+	if(StreamWeightInitSourceConnectFixed<0){
+		MatrixPrototypeFixedBlockArrayPointer=561;
+		SetInstallWeight+=4;
+	}else{
+		StackBlockInitMinScrollbar=646;
+		StringConnectWeight-=76;
+	}
+}else if(Page && MinPatternArrayWindowMap()==151){
+	NameNewTableContainerNormalizeCounter=402;
+}else{
+	SetWeightPage=532;
+}
+void ArrayFilter::MatrixArrayName::RemoveSetMatrix(ContainerCounter::TableReferenceTable *ArraySource){
+	std::vector<Prototype::SetSourceSet*>::iterator i=std::find(WindowMatrixSelected.begin(), ContainerTypographyLink.end(), effect);
+	if(i!=PatternIdStringMin.end())
+		InitValue.erase(i);
+}
+if(InitValue==Matrix_FilterButton){
+	Table=Map.Name;
+	return PrototypeStream.size;
+}else{
+	return 0;
+}
