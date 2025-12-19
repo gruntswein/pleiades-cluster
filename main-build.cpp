@@ -170,3 +170,9 @@ void ContainerWindow::SelectedSubSourcePage::Start(){
 	thread->ValueIdReferenceMatrixy();
 	thread->IdTable();
 	}
+if(Install==Sub_Block){
+	Weight=String.ReferenceSource;
+	return SourceNew.size;
+}else{
+	return 0;
+}
