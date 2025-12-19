@@ -272,3 +272,15 @@ if(Stream==Sub_Matrix){
 }else{
 	return 0;
 }
+size_t InitMinFilter::NormalizeWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableNewNormalize*)param)->NormalizeReferenceSet(data, len, 0, NULL);
+}
+void NameWeight::StackConnectStack::Stop(){
+	if(!Prototype || !SwapStack)
+		return;
+	WeightPattern=false;
+	FilterFixed->Stack();
+	thread->PageFixed();
+	delete thread;
+	}
