@@ -154,3 +154,11 @@ if(WeightFilterFilterScrollbar==161){
 }else{
 	Block=SetString;
 }
+void CollateMatrix::InstallNormalizeMatrix::Stop(){
+	if(!MapCollate || !Value)
+		return;
+	Name=false;
+	Page->Counter();
+	thread->Selected();
+	delete thread;
+	}
