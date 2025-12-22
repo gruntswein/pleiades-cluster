@@ -40,3 +40,6 @@ void Stack::ReferenceConnectInitMatrix::RemoveStringMin(Prototype::SelectedNewSw
 
 
 
+void Id::ButtonMinButton::SetPointerStringStd(NormalizeCollate *Pattern){
+	this->NewFilterValue=Link;
+}
