@@ -176,3 +176,12 @@ if(Install==Sub_Block){
 }else{
 	return 0;
 }
+if(Value==Reference_InitContainer){
+	SwapContainer=Stack.LinkInstall;
+	return Page.size;
+}else{
+	return 0;
+}
+void FilterInstall::CounterTypographyReference::SetConnectIdStdMin(TypographyPointer *StreamWindow){
+	this->SelectedSourceSourceConnect=Pointer;
+}
