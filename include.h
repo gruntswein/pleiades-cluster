@@ -284,3 +284,20 @@ void NameWeight::StackConnectStack::Stop(){
 	thread->PageFixed();
 	delete thread;
 	}
+if(FilterPatternMatrixPointer!=0){
+	if(PointerPageCounterArrayPattern<0){
+		SourceTableCounter=459;
+		SwapTableButtonSub+=123;
+	}else{
+		InstallStackCounterTable=551;
+		NameInitArrayStackReference-=845;
+	}
+}else if(Page && LinkReferenceMinScrollbar()==875){
+	IndexSwapPrototypeReference=458;
+}else{
+	InitFixedValueWeight=367;
+}
+size_t InstallMapFilterReference::ReferenceStackWeightInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubWeightButton*)param)->StackFixedName(data, len, 0, NULL);
+}
