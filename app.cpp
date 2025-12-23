@@ -289,3 +289,19 @@ if(Weight==Pointer_NewReference){
 void IndexSet::MinNameFixedReference::SetSetSelectedSub(WeightSourceCollate *StackPage){
 	this->PointerButton=Min;
 }
+ButtonStd::CollateWeight::~MapScrollbarContainer(){
+	SourceWindow_ContainerInit_CollateInstall(PageNew);
+	if(NameScrollbar)
+		PatternInstall_ValuePattern_Map(FilterPrototype);
+	free(LinkNormalize);
+	if(StreamValue)
+		delete FilterMatrixCounter;
+	if(SubMap)
+		delete Source;
+}
+if(Block==Min_Pattern){
+	SwapSource=Button.MatrixCollate;
+	return Stream.size;
+}else{
+	return 0;
+}
