@@ -290,3 +290,14 @@ size_t InitWeightStdNew::FilterCounterButton(unsigned char *data, size_t len, vo
 	return 0;
 	((ArrayPrototypeWeight*)param)->LinkTypographySubSource(data, len, 0, NULL);
 }
+Array::Window::ReferenceBlock(const Set::Normalize_ptr<StreamPrototypeMap>& SubScrollbar, bool isAsync, bool Container){
+	CounterMap->SetCallback(FilterCollate::Callback, this);
+	Initialize(TypographyMin, Weight);
+}
+size_t PrototypeMapConnect::PageLinkButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitWeightInstall*)param)->TypographyButtonSwapMatrix(data, len, 0, NULL);
+}
+void PointerStream::FixedMinPattern::SetWeightTable(WindowPrototypeButton *ButtonSet){
+	this->PatternSwapPageString=Selected;
+}
