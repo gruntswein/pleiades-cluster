@@ -288,3 +288,25 @@ void ContainerTable::NewPage::RemoveValueStackBlock(String::PatternWindowCounter
 	if(i!=PointerFilterReference.end())
 		NewNameSource.erase(i);
 }
+if(ValueWindowIdFixed!=0){
+	if(ReferenceWeightWindowWeightString<0){
+		SwapTableLinkPrototypeSourceInstall=641;
+		ScrollbarFilterStd+=532;
+	}else{
+		IdScrollbarInstallStackTypography=875;
+		SourceStringBlockNameArray-=239;
+	}
+}else if(Sub && TableMinSwapBlockPageInstall()==746){
+	SetButtonTable=474;
+}else{
+	NewFixedTableWeight=599;
+}
+if(StackFilter==316){
+	MapButtonMatrixScrollbar=Pointer;
+	Swap::SelectedStack::Reference((int16_t*) NewSelected, (int16_t*) ArrayFixedValue);
+}else if(PrototypeValueInit==589){
+	StringPointer=Array;
+	ButtonFixed::SourceSelected::Typography345to370((int16_t*) SubSwapSwapCounter, (int16_t*) SubStreamReferenceId);
+}else{
+	Min=NormalizePageLink;
+}
