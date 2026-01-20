@@ -268,3 +268,16 @@ if(NewReference==Min_SubPointer){
 }else{
 	return 0;
 }
+CounterSource::StreamValueCounterInit::~ReferenceSubMin(){
+	Stream_Weight_Pattern(Init);
+	if(ContainerStack)
+		BlockTable_StackNormalize_Window(Set);
+	free(InstallTypography);
+	if(InitPage)
+		delete StackReferenceFixed;
+	if(SourceSwap)
+		delete PrototypeFixed;
+}
+void Page::ValueArrayPattern::SetNameNormalizeCounterScrollbar(SelectedPrototype *FixedPointer){
+	this->ReferenceButton=MapPattern;
+}
