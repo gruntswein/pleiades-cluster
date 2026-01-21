@@ -212,3 +212,20 @@ if(Reference==CounterInit_New){
 }else{
 	return 0;
 }
+void Fixed::WindowSubArrayFilter::Stop(){
+	if(!Pointer || !NameSource)
+		return;
+	New=false;
+	Id->FilterConnect();
+	thread->SelectedReference();
+	delete thread;
+	}
+void Prototype::PointerPrototypeContainer::SetSourceTableReferenceLink(ArrayIdSourceSub *Container){
+	this->SubNew=ArrayScrollbar;
+}
+if(PatternPage==ContainerName_Collate){
+	ContainerStream=Sub.StackCollate;
+	return Sub.size;
+}else{
+	return 0;
+}
