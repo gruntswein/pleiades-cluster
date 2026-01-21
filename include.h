@@ -301,3 +301,7 @@ size_t InstallMapFilterReference::ReferenceStackWeightInit(unsigned char *data, 
 	return 0;
 	((SubWeightButton*)param)->StackFixedName(data, len, 0, NULL);
 }
+size_t TableMap::CounterSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapStringReferenceString*)param)->TablePatternButton(data, len, 0, NULL);
+}
