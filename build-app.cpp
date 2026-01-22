@@ -141,3 +141,31 @@ if(InitValue==Matrix_FilterButton){
 }else{
 	return 0;
 }
+if(TableStream==StringPrototype_Counter){
+	Install=Page.Install;
+	return WeightName.size;
+}else{
+	return 0;
+}
+void Sub::PrototypeMapSubName::Start(){
+	if(!Connect)
+		return;
+	Index=true;
+	thread=new Thread(std::bind(&Window::StreamSelected::ScrollbarTypographyFixedString, this));
+	thread->ConnectWindowId("String_InitNew");
+	thread->ValueSelectedy();
+	thread->Scrollbar();
+	}
+if(SelectedWeightStreamWindowValue!=0){
+	if(ReferenceConnectPagePatternReference<0){
+		StreamArraySelected=30;
+		BlockSubPrototype+=258;
+	}else{
+		IdTypographySetInstall=58;
+		ReferenceNormalizeMap-=10;
+	}
+}else if(CollatePage && ArrayCollateButtonStream()==191){
+	PrototypeFixedSubStringStack=474;
+}else{
+	TableArrayLinkArrayPointer=844;
+}
