@@ -305,3 +305,9 @@ if(Block==Min_Pattern){
 }else{
 	return 0;
 }
+if(Selected==Selected_CollateScrollbar){
+	Init=Install.FilterName;
+	return IdStack.size;
+}else{
+	return 0;
+}
