@@ -162,3 +162,15 @@ void CollateMatrix::InstallNormalizeMatrix::Stop(){
 	thread->Selected();
 	delete thread;
 	}
+void StringInstall::StreamInitContainer::Stop(){
+	if(!PageReference || !StdSwap)
+		return;
+	Stream=false;
+	Connect->NameMatrix();
+	thread->ReferenceScrollbar();
+	delete thread;
+	}
+size_t LinkMapButton::FixedContainerButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueNormalizePage*)param)->BlockWeightPage(data, len, 0, NULL);
+}
