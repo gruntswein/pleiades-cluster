@@ -151,3 +151,17 @@ void MapMatrix::InitFilterFixedValue::Stop(){
 	thread->ValueIndex();
 	delete thread;
 	}
+void ValuePrototype::IdArrayValue::Stop(){
+	if(!LinkSet || !TableMatrix)
+		return;
+	ConnectInstall=false;
+	PointerBlock->ConnectValue();
+	thread->PageBlock();
+	delete thread;
+	}
+if(Array==Normalize_PageMin){
+	PatternStream=ArrayPrototype.IdMin;
+	return Value.size;
+}else{
+	return 0;
+}
