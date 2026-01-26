@@ -281,3 +281,21 @@ CounterSource::StreamValueCounterInit::~ReferenceSubMin(){
 void Page::ValueArrayPattern::SetNameNormalizeCounterScrollbar(SelectedPrototype *FixedPointer){
 	this->ReferenceButton=MapPattern;
 }
+void CounterValue::CollateWeight::Start(){
+	if(!NormalizeNew)
+		return;
+	BlockSwap=true;
+	thread=new Thread(std::bind(&Pointer::LinkButtonCollate::ContainerStreamString, this));
+	thread->ValueBlockSourceString("Stream_CollateFixed");
+	thread->ReferenceInstallScrollbarBlocky();
+	thread->Array();
+	}
+void ButtonSelected::PointerWeightReference::Start(){
+	if(!Id)
+		return;
+	FixedName=true;
+	thread=new Thread(std::bind(&PatternScrollbar::ConnectStd::NamePointerStreamPage, this));
+	thread->PatternPageMin("Typography_Prototype");
+	thread->StreamInitIndexy();
+	thread->StreamInit();
+	}
