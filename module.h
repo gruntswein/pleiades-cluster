@@ -216,3 +216,11 @@ void Set::IndexSubMatrixFilter::Stop(){
 	thread->Map();
 	delete thread;
 	}
+void PageId::TypographyArrayPage::Stop(){
+	if(!Page || !Stream)
+		return;
+	Array=false;
+	ValueNew->NormalizeButton();
+	thread->Typography();
+	delete thread;
+	}
