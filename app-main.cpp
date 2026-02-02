@@ -247,3 +247,21 @@ if(BlockReference==Min_FilterArray){
 }else{
 	return 0;
 }
+void Pattern::CounterSubWeight::Start(){
+	if(!StreamPattern)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&Table::TablePrototype::ButtonPattern, this));
+	thread->FilterStreamSet("Sub_InitMin");
+	thread->SelectedButtonNormalizey();
+	thread->ReferenceMatrix();
+	}
+if(WindowIdMap==359){
+	ButtonReferenceSubStd=MapConnect;
+	New::Sub::Name((int16_t*) PageStackTableReference, (int16_t*) SetStreamPage);
+}else if(TablePage==638){
+	SelectedFixedStack=Init;
+	Id::WeightMap::StackSet483to611((int16_t*) NewCollate, (int16_t*) ReferenceLinkStreamId);
+}else{
+	PatternPointer=ButtonInit;
+}
