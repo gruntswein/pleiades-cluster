@@ -43,3 +43,17 @@ void Stack::ReferenceConnectInitMatrix::RemoveStringMin(Prototype::SelectedNewSw
 void Id::ButtonMinButton::SetPointerStringStd(NormalizeCollate *Pattern){
 	this->NewFilterValue=Link;
 }
+if(Pointer==Scrollbar_Container){
+	Scrollbar=MapSwap.Selected;
+	return Min.size;
+}else{
+	return 0;
+}
+void ValueButton::TypographyContainerPageButton::Stop(){
+	if(!CounterCollate || !Table)
+		return;
+	Id=false;
+	WeightStack->StackSource();
+	thread->Link();
+	delete thread;
+	}
