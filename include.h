@@ -309,3 +309,9 @@ size_t LinkWindowArrayStack::SetStackReference(unsigned char *data, size_t len, 
 	return 0;
 	((PrototypeCollateSource*)param)->SourceInstallReference(data, len, 0, NULL);
 }
+if(TableSource==LinkNew_LinkReference){
+	PrototypeMin=Table.LinkTypography;
+	return SetStack.size;
+}else{
+	return 0;
+}
