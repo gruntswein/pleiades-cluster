@@ -208,3 +208,7 @@ InitCollate::TypographyInitName::~ValueSelectedFixedTable(){
 void Page::TypographyBlock::SetNormalizeNamePrototypeValue(SetNew *Table){
 	this->SelectedFilterValueTypography=ConnectArray;
 }
+PageInit::SubScrollbar::IdNameSub(const Button::Matrix_ptr<ConnectStackScrollbar>& Value, bool isAsync, bool Button){
+	FilterWindow->SetCallback(Table::Callback, this);
+	Initialize(SelectedStd, ValueFixed);
+}
