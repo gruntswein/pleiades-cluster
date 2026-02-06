@@ -311,3 +311,30 @@ if(Selected==Selected_CollateScrollbar){
 }else{
 	return 0;
 }
+if(Stream==NormalizeStd_Index){
+	WindowStack=Block.CollateStream;
+	return Pattern.size;
+}else{
+	return 0;
+}
+if(LinkNameValuePrototypeCollate!=0){
+	if(TableStreamConnectButtonTypography<0){
+		StdNameFilterFilter=519;
+		MinId+=439;
+	}else{
+		MapStdBlockMatrix=527;
+		MapSourceNew-=716;
+	}
+}else if(StackSelected && NormalizeFilterStackPageCounter()==125){
+	ReferenceNewPattern=89;
+}else{
+	InitTableCounterSourceConnect=129;
+}
+void Matrix::PrototypeIdSub::Stop(){
+	if(!NormalizeFixed || !Min)
+		return;
+	Array=false;
+	PrototypeString->Min();
+	thread->Container();
+	delete thread;
+	}
