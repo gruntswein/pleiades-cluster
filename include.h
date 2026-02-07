@@ -315,3 +315,6 @@ if(TableSource==LinkNew_LinkReference){
 }else{
 	return 0;
 }
+void Window::SwapCollate::SetMinNameConnect(StackString *Name){
+	this->InitCollateValueSet=PageSelected;
+}
