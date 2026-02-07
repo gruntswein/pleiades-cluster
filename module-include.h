@@ -229,3 +229,24 @@ if(PatternPage==ContainerName_Collate){
 }else{
 	return 0;
 }
+TableString::StringInstall::~MinLinkNewMin(){
+	TypographySelected_CollateMatrix_Connect(Collate);
+	if(Id)
+		PatternPointer_NewTable_SourceValue(Init);
+	free(Name);
+	if(Sub)
+		delete PageStringSelectedSet;
+	if(Collate)
+		delete Name;
+}
+void Window::PageSubSwapNormalize::Stop(){
+	if(!ButtonInit || !Normalize)
+		return;
+	Stack=false;
+	Prototype->StackValue();
+	thread->String();
+	delete thread;
+	}
+void PatternBlock::IdPointer::SetLinkValueMin(PageWeightFixedNew *New){
+	this->SourceSetMin=Name;
+}
