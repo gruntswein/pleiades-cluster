@@ -318,3 +318,27 @@ if(TableSource==LinkNew_LinkReference){
 void Window::SwapCollate::SetMinNameConnect(StackString *Name){
 	this->InitCollateValueSet=PageSelected;
 }
+if(ReferenceFilterIndexMatrix!=0){
+	if(TypographyStackFixedNameWeight<0){
+		SelectedWindowInstallTableBlock=356;
+		StringCollate+=133;
+	}else{
+		TypographyMatrixSourceTypography=19;
+		BlockInstallReferenceInitNew-=195;
+	}
+}else if(InstallBlock && ButtonNameMatrixMatrixSelected()==211){
+	NewReferenceStack=80;
+}else{
+	ButtonPatternWeightStreamInstall=124;
+}
+if(Swap==Window_LinkSwap){
+	Table=Table.Prototype;
+	return SwapFilter.size;
+}else{
+	return 0;
+}
+void Init::SelectedPatternArray::RemoveLinkCounterMinCounter(Min::SetCounterCollate *NewSwap){
+	std::vector<Stack::ButtonSelectedInit*>::iterator i=std::find(StreamCounterCollate.begin(), ValueConnect.end(), effect);
+	if(i!=TypographySwapButton.end())
+		BlockMinTable.erase(i);
+}
