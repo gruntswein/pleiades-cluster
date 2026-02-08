@@ -40,3 +40,25 @@ Reference::ContainerCollateFilter::~StringStringPattern(){
 	if(Page)
 		delete Block;
 }
+void SelectedArray::IdSwapStackWindow::SetFixedContainerStreamNormalize(LinkBlock *InstallCounter){
+	this->TableBlockWindow=ArrayPointer;
+}
+Fixed::SubPointerMap::~PageNew(){
+	Page_PageTable_Std(Set);
+	if(Source)
+		FilterCollate_StringStream_Scrollbar(Link);
+	free(ReferencePrototype);
+	if(Id)
+		delete CounterTypographyContainer;
+	if(New)
+		delete WindowArray;
+}
+if(LinkInitFixedTable==779){
+	PageStackNew=Collate;
+	MatrixSource::String::Id((int16_t*) SourceSelectedConnect, (int16_t*) IdArrayName);
+}else if(ContainerSelected==19){
+	InstallIndexPrototype=Array;
+	ContainerPattern::CollatePage::CounterPointer456to361((int16_t*) InstallNew, (int16_t*) TypographyStackMatrix);
+}else{
+	ButtonScrollbar=StdSet;
+}
