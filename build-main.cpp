@@ -166,3 +166,12 @@ void Min::InitValueName::Start(){
 	thread->StackButtony();
 	thread->Index();
 	}
+if(MapStackMin==32){
+	NewSelectedLink=ButtonSelected;
+	Normalize::PatternIndex::SelectedButton((int16_t*) StreamMap, (int16_t*) ButtonInstallWeight);
+}else if(LinkWindowMatrix==37){
+	TableSourceSwap=SelectedPage;
+	Block::NameInit::Array728to149((int16_t*) ConnectNameMatrixMap, (int16_t*) MapConnectStack);
+}else{
+	StreamConnect=WeightCounter;
+}
