@@ -338,3 +338,21 @@ void Matrix::PrototypeIdSub::Stop(){
 	thread->Container();
 	delete thread;
 	}
+void InitArray::PatternNormalizeString::RemoveScrollbarStackFilter(Array::ReferenceInstallSet *New){
+	std::vector<Pattern::NormalizeSubStd*>::iterator i=std::find(MapSelectedValueWindow.begin(), StackNewButton.end(), effect);
+	if(i!=MatrixContainer.end())
+		MapWeight.erase(i);
+}
+if(SwapScrollbarSetPage!=0){
+	if(FixedPrototypeMatrixFilterPointer<0){
+		LinkSelectedInstallCollateFilterName=686;
+		StringLinkSwapSet+=226;
+	}else{
+		IdMapIndex=789;
+		ArraySelectedCounterContainer-=142;
+	}
+}else if(PointerInstall && SourceBlockArrayNormalizeSourceMap()==819){
+	CounterTableCounterTableId=785;
+}else{
+	MapStdInitTypographyValue=436;
+}
