@@ -356,3 +356,16 @@ if(SwapScrollbarSetPage!=0){
 }else{
 	MapStdInitTypographyValue=436;
 }
+size_t FilterWeight::ConnectPrototypeTypographySwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterNewBlock*)param)->SetCounter(data, len, 0, NULL);
+}
+if(WeightStdSourceTypography==587){
+	IdNameStream=PointerInstall;
+	InstallWindow::MatrixSource::Pattern((int16_t*) CounterString, (int16_t*) PatternReference);
+}else if(ValueTableId==868){
+	MinPrototypeCounterMatrix=Page;
+	StreamFilter::ButtonLink::SourceMin408to152((int16_t*) SetArray, (int16_t*) ScrollbarCounter);
+}else{
+	Filter=ContainerBlockNormalize;
+}
