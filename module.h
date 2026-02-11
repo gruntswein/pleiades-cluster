@@ -224,3 +224,29 @@ void PageId::TypographyArrayPage::Stop(){
 	thread->Typography();
 	delete thread;
 	}
+if(TableValuePageContainer!=0){
+	if(PrototypeNormalizeNormalize<0){
+		NormalizeStdNewStdPrototype=568;
+		WeightInstallIndex+=589;
+	}else{
+		NormalizePrototypeInstallMatrixLink=889;
+		PatternFilterScrollbarPage-=635;
+	}
+}else if(ButtonContainer && TypographyNormalizeSourcePointer()==74){
+	ButtonPrototypeStreamFixed=207;
+}else{
+	MapValueConnect=198;
+}
+if(MapWeightSourceMatrix!=0){
+	if(ReferenceTableInitBlock<0){
+		MatrixNewWindow=354;
+		FixedInitPatternReference+=282;
+	}else{
+		ArraySubLinkWindow=823;
+		PageInstallTableCounterCollateReference-=701;
+	}
+}else if(CounterValue && LinkScrollbarPrototypeFilterReference()==127){
+	ValueIndexSelectedPage=401;
+}else{
+	WeightMapNewStream=849;
+}
