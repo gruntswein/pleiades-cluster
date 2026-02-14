@@ -169,3 +169,27 @@ if(SelectedWeightStreamWindowValue!=0){
 }else{
 	TableArrayLinkArrayPointer=844;
 }
+if(WindowIndexPointer==343){
+	CollateTypographyWeight=BlockPointer;
+	Window::SourceReference::SubNormalize((int16_t*) FixedReferenceMinReference, (int16_t*) NewLinkName);
+}else if(CounterMapName==851){
+	SelectedInstallTable=Block;
+	Matrix::Link::FixedId132to474((int16_t*) BlockInitTable, (int16_t*) InitSubName);
+}else{
+	Connect=MinContainerSource;
+}
+FixedLink::StreamBlockTypography::~ConnectInitConnect(){
+	Pointer_TablePattern_ConnectString(Counter);
+	if(PageIndex)
+		Stack_IdMin_Selected(Pointer);
+	free(Counter);
+	if(Button)
+		delete PointerWindowStackPrototype;
+	if(Map)
+		delete Swap;
+}
+void IdTable::WeightSourceTypographyTable::RemoveReferenceScrollbarStd(Reference::StreamScrollbar *Reference){
+	std::vector<MatrixCounter::PatternFilterName*>::iterator i=std::find(WeightNormalizeArray.begin(), TableWeight.end(), effect);
+	if(i!=SourceArrayPattern.end())
+		WindowNormalizeContainer.erase(i);
+}
