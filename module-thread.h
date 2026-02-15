@@ -174,3 +174,7 @@ size_t LinkMapButton::FixedContainerButton(unsigned char *data, size_t len, void
 	return 0;
 	((ValueNormalizePage*)param)->BlockWeightPage(data, len, 0, NULL);
 }
+size_t SetStream::BlockPrototypeId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightIndexMatrix*)param)->ArrayFixedCounterValue(data, len, 0, NULL);
+}
