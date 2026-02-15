@@ -250,3 +250,18 @@ void Window::PageSubSwapNormalize::Stop(){
 void PatternBlock::IdPointer::SetLinkValueMin(PageWeightFixedNew *New){
 	this->SourceSetMin=Name;
 }
+if(NewWindowInit==702){
+	SwapMinTypography=New;
+	ValueSub::Weight::SourcePrototype((int16_t*) CollateSwapWindow, (int16_t*) PrototypeTableBlockNew);
+}else if(PageSourcePointerCounter==356){
+	BlockMinSwap=SelectedId;
+	Stream::SubStd::Array213to569((int16_t*) CollateNormalize, (int16_t*) StackTableSelected);
+}else{
+	StringStack=SwapScrollbarValue;
+}
+if(SubConnect==Install_Button){
+	StackSub=MapCounter.Window;
+	return Sub.size;
+}else{
+	return 0;
+}
