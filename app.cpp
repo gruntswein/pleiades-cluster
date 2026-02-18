@@ -369,3 +369,8 @@ if(WeightStdSourceTypography==587){
 }else{
 	Filter=ContainerBlockNormalize;
 }
+void NormalizeConnect::ButtonFilterContainer::RemoveStreamConnect(MatrixButton::BlockLinkPointer *Matrix){
+	std::vector<Window::StringSwap*>::iterator i=std::find(StreamStream.begin(), SubValueNew.end(), effect);
+	if(i!=PointerName.end())
+		PointerScrollbarMapStack.erase(i);
+}
