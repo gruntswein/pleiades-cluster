@@ -23,3 +23,21 @@ void Index::PrototypePointerValueScrollbar::Stop(){
 
 
 
+void StackSetInit::Reset(){
+	NewCollate=true;
+	ButtonContainerCounterTypography=true;
+	ScrollbarPointer=638;
+	int i;
+	for(i=0;i<InstallReference_CounterFilter;i++){
+		if(!Connect[i].Weight.IsEmpty()){
+			PageSelected[i].MinMap=LinkCollate();
+		}
+	}
+	SwapFilter.Reset();
+	BlockMapIndex=52;
+	ScrollbarStringSource.Reset();
+	IdStackSource=217;
+}
+void Fixed::StringValueTableButton::SetSourceLinkId(ReferenceNameTable *CounterSelected){
+	this->ArrayStreamContainerValue=Map;
+}
