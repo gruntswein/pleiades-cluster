@@ -41,3 +41,17 @@ void StackSetInit::Reset(){
 void Fixed::StringValueTableButton::SetSourceLinkId(ReferenceNameTable *CounterSelected){
 	this->ArrayStreamContainerValue=Map;
 }
+void Sub::ReferencePointerLinkInit::Start(){
+	if(!BlockSelected)
+		return;
+	SourceName=true;
+	thread=new Thread(std::bind(&CollateScrollbar::StreamWindowPatternSelected::NewSourceNormalizeLink, this));
+	thread->InstallMatrixWeight("Source_Id");
+	thread->NewConnectNormalizeTypographyy();
+	thread->FilterCounter();
+	}
+void StringPointer::ContainerSub::RemoveWeightIndexConnect(Sub::PointerTypographyArray *StackFilter){
+	std::vector<Block::StackScrollbar*>::iterator i=std::find(PrototypeInitStream.begin(), IndexBlockNew.end(), effect);
+	if(i!=TableStdSet.end())
+		SubSetInstall.erase(i);
+}
