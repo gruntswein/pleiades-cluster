@@ -279,3 +279,12 @@ void ReferenceTypography::StreamCounterValueMatrix::Start(){
 	thread->NormalizeIdy();
 	thread->NewString();
 	}
+void Prototype::WindowCounter::Start(){
+	if(!New)
+		return;
+	StringId=true;
+	thread=new Thread(std::bind(&String::ContainerButtonSet::PointerMin, this));
+	thread->PrototypeConnectSwapSelected("StringTable_Prototype");
+	thread->FixedWeightBlockPatterny();
+	thread->ScrollbarPointer();
+	}
