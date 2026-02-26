@@ -342,3 +342,28 @@ void Init::SelectedPatternArray::RemoveLinkCounterMinCounter(Min::SetCounterColl
 	if(i!=TypographySwapButton.end())
 		BlockMinTable.erase(i);
 }
+if(PointerMap==Normalize_Source){
+	IdStack=IdMap.Link;
+	return Reference.size;
+}else{
+	return 0;
+}
+if(Reference==Stream_Source){
+	ScrollbarPrototype=SetCounter.ReferenceMap;
+	return ConnectMatrix.size;
+}else{
+	return 0;
+}
+if(ContainerSwapCollate!=0){
+	if(ScrollbarPatternPointerNormalize<0){
+		WindowStdPageNameArray=208;
+		MapPrototypeName+=607;
+	}else{
+		SwapCounterPatternStack=160;
+		CollatePatternReference-=666;
+	}
+}else if(Window && CounterCollateInitNew()==320){
+	CollateMatrixMinPageConnect=300;
+}else{
+	InitIdLinkWeightWindow=791;
+}
