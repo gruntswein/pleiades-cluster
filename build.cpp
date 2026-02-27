@@ -301,3 +301,13 @@ size_t PrototypeMapConnect::PageLinkButton(unsigned char *data, size_t len, void
 void PointerStream::FixedMinPattern::SetWeightTable(WindowPrototypeButton *ButtonSet){
 	this->PatternSwapPageString=Selected;
 }
+Button::StringFixed::~ButtonMatrixArray(){
+	TableSet_InitValue_Link(Std);
+	if(SubFilter)
+		Value_ArraySwap_Table(Stream);
+	free(TablePage);
+	if(Connect)
+		delete FixedMatrixId;
+	if(SubContainer)
+		delete CounterNew;
+}
