@@ -310,3 +310,9 @@ if(StackFilter==316){
 }else{
 	Min=NormalizePageLink;
 }
+if(InstallSet==Counter_Block){
+	Id=LinkStream.Stream;
+	return Container.size;
+}else{
+	return 0;
+}
