@@ -367,3 +367,7 @@ if(ContainerSwapCollate!=0){
 }else{
 	InitIdLinkWeightWindow=791;
 }
+size_t PageMap::WindowSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterContainerNormalizeFixed*)param)->ReferenceStackSelectedMap(data, len, 0, NULL);
+}
