@@ -57,3 +57,17 @@ void ValueButton::TypographyContainerPageButton::Stop(){
 	thread->Link();
 	delete thread;
 	}
+Pointer::PageStreamConnect::~BlockSubMap(){
+	IndexValue_Collate_Scrollbar(Page);
+	if(Link)
+		New_Stack_New(NewTypography);
+	free(Window);
+	if(StreamName)
+		delete NameWeightValuePage;
+	if(BlockSub)
+		delete Map;
+}
+size_t NewTypographyScrollbar::SourceReferenceInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallFixedFilter*)param)->SubNormalizeFilter(data, len, 0, NULL);
+}
