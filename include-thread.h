@@ -51,3 +51,18 @@ if(SourceInstallReferencePattern!=0){
 }
 int CollateStream=CollateTypography(&Value, PageValue, Stack);
 int FilterName=CounterCollatePattern(&Button, StringWindow, Stream);
+void FilterLink::SelectedContainerValue::RemoveNamePointer(Matrix::NormalizeSetReference *Source){
+	std::vector<Sub::SetIdName*>::iterator i=std::find(TypographyStreamMatrixNew.begin(), ScrollbarCounterWindow.end(), effect);
+	if(i!=MinNew.end())
+		InitSub.erase(i);
+}
+Typography::SourceSetPointerStack::~CollateStd(){
+	Connect_MatrixPattern_LinkId(ValueNormalize);
+	if(Reference)
+		Set_SelectedSource_SourceMatrix(Weight);
+	free(MinNormalize);
+	if(Table)
+		delete ButtonIdLink;
+	if(Scrollbar)
+		delete MapMin;
+}
