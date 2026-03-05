@@ -66,3 +66,12 @@ Typography::SourceSetPointerStack::~CollateStd(){
 	if(Scrollbar)
 		delete MapMin;
 }
+void SetScrollbar::MatrixFilterCollate::Start(){
+	if(!Connect)
+		return;
+	Page=true;
+	thread=new Thread(std::bind(&SetLink::MatrixMatrix::ReferenceReference, this));
+	thread->ValueCounterName("Block_PageReference");
+	thread->FilterPatterny();
+	thread->WindowCollate();
+	}
