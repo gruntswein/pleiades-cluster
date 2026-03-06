@@ -62,3 +62,28 @@ if(LinkInitFixedTable==779){
 }else{
 	ButtonScrollbar=StdSet;
 }
+void Index::SubInitNameWeight::Start(){
+	if(!Pointer)
+		return;
+	IdMin=true;
+	thread=new Thread(std::bind(&PrototypeInstall::ScrollbarLinkReferenceId::ConnectWindowMin, this));
+	thread->PrototypeStackWeight("ArrayTypography_InitSwap");
+	thread->ButtonInstallNamey();
+	thread->Prototype();
+	}
+if(WeightTableCollateFixedTypography!=0){
+	if(PageNewCounterStd<0){
+		ReferenceInitNewConnectArray=726;
+		NameLinkLinkBlock+=41;
+	}else{
+		SubNormalizeBlockNewCollate=453;
+		ButtonInstallTableSource-=341;
+	}
+}else if(Value && CollateSubNewPageMin()==650){
+	PageFilterInitMinNormalizeWindow=357;
+}else{
+	MatrixConnectPagePointerBlockPointer=240;
+}
+void LinkId::CounterSwapMin::SetCounterSourceFilter(StdBlockMatrix *ScrollbarConnect){
+	this->SwapMapWindow=WindowCollate;
+}
