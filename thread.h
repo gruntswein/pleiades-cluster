@@ -299,3 +299,8 @@ void ButtonSelected::PointerWeightReference::Start(){
 	thread->StreamInitIndexy();
 	thread->StreamInit();
 	}
+void Init::NormalizeConnectSourceMap::RemoveSwapPrototypeSubFilter(Pointer::LinkFilter *StackTypography){
+	std::vector<PrototypeNew::TableSwap*>::iterator i=std::find(InstallStreamCounter.begin(), SwapSwap.end(), effect);
+	if(i!=PrototypeValueSetLink.end())
+		SourceValueSet.erase(i);
+}
