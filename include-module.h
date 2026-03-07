@@ -316,3 +316,8 @@ if(InstallSet==Counter_Block){
 }else{
 	return 0;
 }
+void InitSource::MinTable::RemoveNamePrototype(Table::MatrixSourceName *ArrayCounter){
+	std::vector<CollateSource::BlockNameArraySelected*>::iterator i=std::find(WindowStackValue.begin(), NameFilter.end(), effect);
+	if(i!=WeightSetCollate.end())
+		StackInstallFilterButton.erase(i);
+}
