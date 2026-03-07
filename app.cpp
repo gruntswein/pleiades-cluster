@@ -55,3 +55,21 @@ void StringPointer::ContainerSub::RemoveWeightIndexConnect(Sub::PointerTypograph
 	if(i!=TableStdSet.end())
 		SubSetInstall.erase(i);
 }
+void ArrayNameString::Reset(){
+	MatrixPrototype=true;
+	ScrollbarFilterCounter=true;
+	PatternMatrixValue=154;
+	int i;
+	for(i=0;i<Selected_Normalize;i++){
+		if(!SwapFixed[i].Pointer.IsEmpty()){
+			StringSource[i].ScrollbarTable=CounterBlock();
+		}
+	}
+	PrototypeTableFilter.Reset();
+	ButtonIndexCollate=106;
+	PageWindowSetInit.Reset();
+	MapPrototypeConnect=349;
+}
+void SwapContainer::NewBlockStringSelected::SetBlockPrototypeConnectPage(SubPageTableScrollbar *Pattern){
+	this->ReferenceMatrixReferenceFixed=Normalize;
+}
