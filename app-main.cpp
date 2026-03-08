@@ -265,3 +265,39 @@ if(WindowIdMap==359){
 }else{
 	PatternPointer=ButtonInit;
 }
+void MatrixPatternSetNew::Reset(){
+	Source=true;
+	IdCounterContainer=true;
+	PrototypeValueWeight=177;
+	int i;
+	for(i=0;i<Source_FixedArray;i++){
+		if(!Link[i].TypographyPattern.IsEmpty()){
+			SubTypography[i].Pointer=IdMin();
+		}
+	}
+	SelectedPatternButton.Reset();
+	StreamContainerStdName=355;
+	ArrayMin.Reset();
+	PatternNormalizeNormalizeTable=408;
+}
+if(MatrixButtonSetNameValue!=0){
+	if(BlockWeightReference<0){
+		SetSelectedMinContainerWeight=376;
+		ArraySelectedContainer+=590;
+	}else{
+		StackContainerWindowId=812;
+		CounterWeightArrayStreamPage-=555;
+	}
+}else if(Connect && MinPointerTableTableString()==227){
+	FilterInstallSelectedStackFilter=616;
+}else{
+	SetStringInstallCollate=790;
+}
+void Min::ReferenceArrayMin::Stop(){
+	if(!Pointer || !Window)
+		return;
+	ScrollbarTypography=false;
+	Reference->NormalizeNew();
+	thread->ArrayPage();
+	delete thread;
+	}
