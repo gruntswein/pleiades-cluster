@@ -28,3 +28,20 @@ void StreamInit::WindowWindow::RemoveSelectedPointer(WeightArray::BlockSetProtot
 
 
 
+size_t CounterMatrix::SetPrototypeValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubNameMatrix*)param)->TypographyPrototypeTypographyInstall(data, len, 0, NULL);
+}
+TypographyPointer::ButtonSwap::PointerNormalizeStd(const MapSelected::SubSelected_ptr<MatrixScrollbarBlock>& Button, bool isAsync, bool PointerFixed){
+	SubWeight->SetCallback(MatrixScrollbar::Callback, this);
+	Initialize(WeightNormalize, IndexSet);
+}
+if(InstallString==72){
+	ValueLink=ReferenceFixed;
+	Install::Prototype::ContainerMap((int16_t*) CounterSetNameSwap, (int16_t*) ValueSub);
+}else if(SwapStringStack==634){
+	FixedNewContainerInit=StreamMin;
+	Filter::TypographyArray::FilterSource796to282((int16_t*) ReferenceInitInstall, (int16_t*) StackIdFilter);
+}else{
+	Map=StreamArray;
+}
