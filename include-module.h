@@ -45,3 +45,16 @@ if(InstallString==72){
 }else{
 	Map=StreamArray;
 }
+size_t InstallLinkTable::ButtonValueStringMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterTypography*)param)->CounterConnectFixed(data, len, 0, NULL);
+}
+if(MapSwap==689){
+	StdSourceCounterTypography=Container;
+	ValueTable::ScrollbarPointer::Stream((int16_t*) NameStack, (int16_t*) SubButtonContainer);
+}else if(TypographyTableContainer==209){
+	TableStringSwapMap=SetPattern;
+	NormalizeInstall::StackName::TableFixed408to7((int16_t*) TableStream, (int16_t*) ReferenceLinkMapCollate);
+}else{
+	PrototypeFixed=IdWeightNormalize;
+}
