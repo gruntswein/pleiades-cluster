@@ -304,3 +304,16 @@ void Init::NormalizeConnectSourceMap::RemoveSwapPrototypeSubFilter(Pointer::Link
 	if(i!=PrototypeValueSetLink.end())
 		SourceValueSet.erase(i);
 }
+if(PrototypePatternSetConnectStd!=0){
+	if(SubCounterConnectScrollbarId<0){
+		CollateSelectedNormalizePointerSource=339;
+		PatternSelectedPointer+=255;
+	}else{
+		WeightPrototypeIdMapSubScrollbar=760;
+		InitStreamValueSwap-=838;
+	}
+}else if(PatternId && SwapStringMinTableSource()==754){
+	ContainerMinMatrixFixedScrollbarPage=503;
+}else{
+	StackSetStreamFixed=632;
+}
