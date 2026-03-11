@@ -75,3 +75,9 @@ void SetScrollbar::MatrixFilterCollate::Start(){
 	thread->FilterPatterny();
 	thread->WindowCollate();
 	}
+if(BlockConnect==New_Table){
+	ValueSub=Name.Link;
+	return CounterSelected.size;
+}else{
+	return 0;
+}
