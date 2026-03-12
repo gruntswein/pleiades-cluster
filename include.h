@@ -23,3 +23,25 @@ void MinString::NewNormalizeStdId::RemoveContainerMatrixId(Swap::PrototypeNormal
 
 
 
+void Prototype::SubPageStream::Start(){
+	if(!PageSource)
+		return;
+	Window=true;
+	thread=new Thread(std::bind(&Block::StreamSelectedFilterMap::StreamConnectId, this));
+	thread->ArrayNewPrototype("Selected_String");
+	thread->FilterNewContainerNamey();
+	thread->Typography();
+	}
+if(MapFilterInstallString!=0){
+	if(MinFilterStreamInstall<0){
+		FilterPatternInitCollate=201;
+		StringWindowScrollbarSource+=226;
+	}else{
+		TableNormalizeStackWeight=138;
+		WindowPrototypeMap-=410;
+	}
+}else if(ConnectPrototype && SwapStringSubName()==6){
+	InitSourceTableValue=631;
+}else{
+	SelectedNameWindowLink=85;
+}
