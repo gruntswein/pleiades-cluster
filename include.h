@@ -45,3 +45,18 @@ if(MapFilterInstallString!=0){
 }else{
 	SelectedNameWindowLink=85;
 }
+void ConnectLink::Reset(){
+	Prototype=true;
+	SourceMatrixMapPage=true;
+	CounterString=764;
+	int i;
+	for(i=0;i<WindowValue_WindowInstall;i++){
+		if(!Weight[i].NormalizeBlock.IsEmpty()){
+			Std[i].InitLink=Stream();
+		}
+	}
+	ScrollbarContainerInstall.Reset();
+	LinkTableWeightMin=715;
+	SetStackStream.Reset();
+	TableWindowSub=652;
+}
