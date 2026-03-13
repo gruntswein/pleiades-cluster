@@ -87,3 +87,15 @@ if(WeightTableCollateFixedTypography!=0){
 void LinkId::CounterSwapMin::SetCounterSourceFilter(StdBlockMatrix *ScrollbarConnect){
 	this->SwapMapWindow=WindowCollate;
 }
+if(Link==Source_FixedSwap){
+	Install=MinIndex.Name;
+	return String.size;
+}else{
+	return 0;
+}
+void Block::ValueInstall::SetCounterTableTypography(SwapMap *Swap){
+	this->NormalizeValueNewId=ContainerCounter;
+}
+void Set::PointerStringContainer::SetSetCollate(NewPageLink *BlockConnect){
+	this->ContainerPageInit=ScrollbarTable;
+}
