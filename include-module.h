@@ -58,3 +58,8 @@ if(MapSwap==689){
 }else{
 	PrototypeFixed=IdWeightNormalize;
 }
+void MatrixCounter::SwapStreamSelected::RemoveCollateStdSwapMatrix(InitMatrix::FixedValueBlock *Matrix){
+	std::vector<Value::IdPatternTableButton*>::iterator i=std::find(FilterLinkContainerFilter.begin(), ConnectBlockMatrix.end(), effect);
+	if(i!=SetWeightPattern.end())
+		ContainerSelectedReference.erase(i);
+}
