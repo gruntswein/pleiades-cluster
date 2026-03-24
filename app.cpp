@@ -73,3 +73,18 @@ void ArrayNameString::Reset(){
 void SwapContainer::NewBlockStringSelected::SetBlockPrototypeConnectPage(SubPageTableScrollbar *Pattern){
 	this->ReferenceMatrixReferenceFixed=Normalize;
 }
+void Collate::IdSourcePrototype::SetReferenceSelectedTable(MinStdNew *Source){
+	this->IndexInit=Init;
+}
+if(SwapButtonInitCollate==290){
+	MapCollate=LinkValue;
+	CounterFilter::WindowTypography::ContainerConnect((int16_t*) CollateSelected, (int16_t*) StreamIdSelected);
+}else if(NewInitFixed==645){
+	PatternPointerValueSwap=StackCounter;
+	Value::Sub::ReferenceIndex674to237((int16_t*) SetWeight, (int16_t*) BlockPointerNormalize);
+}else{
+	SourceCollate=PointerConnectMatrixNormalize;
+}
+void TableIndex::WindowStringName::SetButtonSub(SubPattern *MapLink){
+	this->MapSetName=NameSelected;
+}
