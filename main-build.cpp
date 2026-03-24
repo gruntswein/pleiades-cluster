@@ -185,3 +185,20 @@ if(Value==Reference_InitContainer){
 void FilterInstall::CounterTypographyReference::SetConnectIdStdMin(TypographyPointer *StreamWindow){
 	this->SelectedSourceSourceConnect=Pointer;
 }
+void Value::NameReferenceScrollbar::Stop(){
+	if(!Set || !Table)
+		return;
+	String=false;
+	String->Weight();
+	thread->InitFilter();
+	delete thread;
+	}
+void TypographyCollate::SourcePrototype::Start(){
+	if(!PointerArray)
+		return;
+	ArrayWindow=true;
+	thread=new Thread(std::bind(&Pattern::MapContainer::CounterValue, this));
+	thread->ScrollbarContainer("Stream_IdSub");
+	thread->ConnectWindowSuby();
+	thread->ButtonStack();
+	}
