@@ -63,3 +63,13 @@ void MatrixCounter::SwapStreamSelected::RemoveCollateStdSwapMatrix(InitMatrix::F
 	if(i!=SetWeightPattern.end())
 		ContainerSelectedReference.erase(i);
 }
+PrototypeValue::IdArraySub::~FilterWeightPointerButton(){
+	BlockSwap_Weight_FixedFilter(Source);
+	if(Collate)
+		Map_SubSelected_Counter(Init);
+	free(Selected);
+	if(NormalizeSet)
+		delete NewScrollbar;
+	if(Page)
+		delete WeightStack;
+}
