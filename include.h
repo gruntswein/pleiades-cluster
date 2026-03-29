@@ -60,3 +60,19 @@ void ConnectLink::Reset(){
 	SetStackStream.Reset();
 	TableWindowSub=652;
 }
+SubSwap::ValueInstall::CollateNormalizeContainer(const MinPattern::NewPointer_ptr<ArrayBlockTypographyPattern>& TableNew, bool isAsync, bool Scrollbar){
+	CounterSwap->SetCallback(Set::Callback, this);
+	Initialize(Filter, Swap);
+}
+size_t MinSourceCollate::CollatePatternBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetSelectedNameStream*)param)->PointerButton(data, len, 0, NULL);
+}
+void TableLink::PatternFixedTypography::Stop(){
+	if(!Fixed || !Page)
+		return;
+	Typography=false;
+	Container->Init();
+	thread->IndexNew();
+	delete thread;
+	}
