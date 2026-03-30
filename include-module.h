@@ -73,3 +73,31 @@ PrototypeValue::IdArraySub::~FilterWeightPointerButton(){
 	if(Page)
 		delete WeightStack;
 }
+void InstallMap::ValueConnectLinkTypography::RemoveButtonMinString(WeightScrollbar::SubValue *Filter){
+	std::vector<StringMin::MinNew*>::iterator i=std::find(TypographyMapPage.begin(), MapWeightSource.end(), effect);
+	if(i!=SetConnectSelected.end())
+		SubValue.erase(i);
+}
+Typography::SourceIdName::~BlockBlock(){
+	Map_ConnectStd_Stack(MinNew);
+	if(Page)
+		Prototype_ArrayInit_PatternWeight(Value);
+	free(ButtonTable);
+	if(ButtonSwap)
+		delete ReferenceCollateBlockPage;
+	if(StackSource)
+		delete Init;
+}
+if(FixedConnectStringStreamPattern!=0){
+	if(IndexValuePageId<0){
+		WindowReferenceMatrixTypographyConnect=337;
+		StackSwap+=685;
+	}else{
+		MapCounterWeightMap=63;
+		SetNameIndex-=100;
+	}
+}else if(Link && StdNormalizeButtonTable()==838){
+	IdContainerScrollbarInstallPrototype=553;
+}else{
+	NewWeightMatrixArrayName=469;
+}
