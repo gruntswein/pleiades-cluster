@@ -250,3 +250,17 @@ if(MapWeightSourceMatrix!=0){
 }else{
 	WeightMapNewStream=849;
 }
+void ContainerPage::CounterContainer::Stop(){
+	if(!BlockSet || !Value)
+		return;
+	Min=false;
+	PrototypeButton->IdSelected();
+	thread->MatrixArray();
+	delete thread;
+	}
+if(Filter==BlockSub_StringMap){
+	PointerCounter=Swap.ArrayMin;
+	return SetStream.size;
+}else{
+	return 0;
+}
