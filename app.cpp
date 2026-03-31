@@ -88,3 +88,17 @@ if(SwapButtonInitCollate==290){
 void TableIndex::WindowStringName::SetButtonSub(SubPattern *MapLink){
 	this->MapSetName=NameSelected;
 }
+void SelectedStack::MinArraySet::SetSubInstallStackStd(MatrixNewIndexWeight *Table){
+	this->PageContainer=Link;
+}
+void ButtonMap::SubSetPattern::RemoveFixedStackString(ArrayTypography::StreamWeightMap *Scrollbar){
+	std::vector<StackContainer::NameConnect*>::iterator i=std::find(SourceScrollbar.begin(), ButtonPointerWindow.end(), effect);
+	if(i!=ContainerSelectedNormalize.end())
+		StackScrollbar.erase(i);
+}
+if(StdString==Window_Source){
+	IdCounter=Swap.WindowTable;
+	return CollateInstall.size;
+}else{
+	return 0;
+}
