@@ -81,3 +81,36 @@ if(BlockConnect==New_Table){
 }else{
 	return 0;
 }
+if(PatternStringStackStream!=0){
+	if(PatternSwapButton<0){
+		SwapSelectedSelectedWeight=110;
+		PageTableMatrix+=68;
+	}else{
+		StringStdId=155;
+		PageStringFilterMap-=719;
+	}
+}else if(ReferenceArray && BlockIdCounter()==357){
+	ValueMatrixSet=637;
+}else{
+	NewWeightValue=709;
+}
+void MinName::Reset(){
+	SelectedString=true;
+	StringInstallPrototypePointer=true;
+	MapFixedArray=306;
+	int i;
+	for(i=0;i<Page_Table;i++){
+		if(!WindowInit[i].MapId.IsEmpty()){
+			Reference[i].Reference=Set();
+		}
+	}
+	IndexSet.Reset();
+	NameInstallButtonStream=628;
+	CollateSwapWeight.Reset();
+	IndexStringWeight=44;
+}
+void SelectedArray::MapWeightCollate::RemoveStringFilterNew(Fixed::NewFixedStream *Array){
+	std::vector<String::SwapScrollbar*>::iterator i=std::find(CounterFilter.begin(), FilterReference.end(), effect);
+	if(i!=StreamTypographyMapWeight.end())
+		StringLinkSwap.erase(i);
+}
