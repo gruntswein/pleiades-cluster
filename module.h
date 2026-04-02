@@ -264,3 +264,9 @@ if(Filter==BlockSub_StringMap){
 }else{
 	return 0;
 }
+if(Pointer==SetTypography_NormalizeId){
+	CollateMap=Install.Fixed;
+	return Stream.size;
+}else{
+	return 0;
+}
