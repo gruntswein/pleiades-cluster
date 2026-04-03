@@ -178,3 +178,30 @@ size_t SetStream::BlockPrototypeId(unsigned char *data, size_t len, void *param)
 	return 0;
 	((WeightIndexMatrix*)param)->ArrayFixedCounterValue(data, len, 0, NULL);
 }
+size_t FixedCollate::ArrayWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyMapInitStack*)param)->NewScrollbarMatrixStack(data, len, 0, NULL);
+}
+void FixedString::IdWindow::Stop(){
+	if(!Weight || !Filter)
+		return;
+	PatternReference=false;
+	WeightFilter->Std();
+	thread->CollateSub();
+	delete thread;
+	}
+void PatternSet::Reset(){
+	IdNormalize=true;
+	PatternWeightInitMin=true;
+	FixedInit=259;
+	int i;
+	for(i=0;i<Container_New;i++){
+		if(!PrototypeTable[i].FixedSelected.IsEmpty()){
+			NewMatrix[i].SourceMin=InstallMap();
+		}
+	}
+	ContainerPatternCounterPage.Reset();
+	PointerContainer=192;
+	StringTypographyMatrixPage.Reset();
+	InitButtonCounterMatrix=191;
+}
