@@ -165,3 +165,14 @@ if(Array==Normalize_PageMin){
 }else{
 	return 0;
 }
+void Reference::ArrayConnectLink::Stop(){
+	if(!CounterStream || !Block)
+		return;
+	Button=false;
+	Connect->MinStack();
+	thread->FixedIndex();
+	delete thread;
+	}
+void WindowName::ContainerSwapFilterCounter::SetWeightSwapPattern(WindowReference *ArrayNormalize){
+	this->SourceWeight=NameWindow;
+}
