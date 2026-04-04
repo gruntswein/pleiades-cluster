@@ -311,3 +311,44 @@ Button::StringFixed::~ButtonMatrixArray(){
 	if(SubContainer)
 		delete CounterNew;
 }
+if(PatternMapMatrixPointerNormalizeIndex!=0){
+	if(MinInstallSelectedSet<0){
+		WindowCollateButtonStackInitWindow=41;
+		ConnectContainerFilter+=348;
+	}else{
+		TableTypographyPatternPointerPattern=312;
+		ValueContainerStreamIndexWindow-=375;
+	}
+}else if(Counter && ButtonMinStackButtonBlock()==570){
+	ButtonInitNameContainer=757;
+}else{
+	StackNamePrototypeName=578;
+}
+void PatternInit::Reset(){
+	ConnectMin=true;
+	IdFixedContainerStack=true;
+	PageBlockContainer=423;
+	int i;
+	for(i=0;i<Table_StreamContainer;i++){
+		if(!Init[i].PatternNew.IsEmpty()){
+			Typography[i].ValueWindow=Block();
+		}
+	}
+	InstallTableSub.Reset();
+	PrototypeContainerWeight=386;
+	StringTableInstall.Reset();
+	SwapCollateArrayString=126;
+}
+if(NewSelectedStream!=0){
+	if(ContainerPrototypeNewScrollbar<0){
+		ValueContainerLinkCounter=843;
+		TypographyNormalizeConnectIndex+=463;
+	}else{
+		MapCounterIdMatrixConnect=660;
+		PointerNormalizePatternArray-=46;
+	}
+}else if(SetConnect && PrototypeWeightButtonConnectButton()==866){
+	ConnectSourceStackPointerTypography=186;
+}else{
+	IdCollateReferenceSwap=463;
+}
