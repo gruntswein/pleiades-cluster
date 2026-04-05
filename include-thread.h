@@ -114,3 +114,8 @@ void SelectedArray::MapWeightCollate::RemoveStringFilterNew(Fixed::NewFixedStrea
 	if(i!=StreamTypographyMapWeight.end())
 		StringLinkSwap.erase(i);
 }
+void SelectedSet::StringTypographyString::RemoveStreamStackLink(Normalize::ReferenceMap *Source){
+	std::vector<Collate::LinkStackReference*>::iterator i=std::find(TypographyPattern.begin(), MinTable.end(), effect);
+	if(i!=NamePattern.end())
+		NormalizeCounterMatrix.erase(i);
+}
