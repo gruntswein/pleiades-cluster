@@ -265,3 +265,18 @@ if(SubConnect==Install_Button){
 }else{
 	return 0;
 }
+void TableStackPage::Reset(){
+	MinWeight=true;
+	InitContainer=true;
+	SetContainer=307;
+	int i;
+	for(i=0;i<FixedCounter_Prototype;i++){
+		if(!Pattern[i].StreamTypography.IsEmpty()){
+			SourcePage[i].MatrixNormalize=Min();
+		}
+	}
+	StackString.Reset();
+	IdSelectedPointerArray=205;
+	MapPrototype.Reset();
+	BlockSwapPageReference=16;
+}
