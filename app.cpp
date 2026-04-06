@@ -102,3 +102,18 @@ if(StdString==Window_Source){
 }else{
 	return 0;
 }
+void Link::NormalizeValue::Start(){
+	if(!NameStream)
+		return;
+	Index=true;
+	thread=new Thread(std::bind(&Table::SubLinkBlock::ContainerPatternContainer, this));
+	thread->ValueArrayCounter("NormalizeTypography_NameStd");
+	thread->SubCounterStreamy();
+	thread->Name();
+	}
+if(NewCollate==WeightFilter_PrototypeSub){
+	Filter=Sub.TypographyName;
+	return Init.size;
+}else{
+	return 0;
+}
