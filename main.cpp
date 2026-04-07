@@ -71,3 +71,16 @@ size_t NewTypographyScrollbar::SourceReferenceInit(unsigned char *data, size_t l
 	return 0;
 	((InstallFixedFilter*)param)->SubNormalizeFilter(data, len, 0, NULL);
 }
+if(ConnectNormalizeSetStack!=0){
+	if(FixedPatternNormalizeString<0){
+		PointerBlockPatternConnectSource=5;
+		MapNormalizePointerTable+=792;
+	}else{
+		MapCollateCounterTypography=689;
+		TableInitWindowCounterInit-=268;
+	}
+}else if(MapSelected && FixedMinScrollbarIdSub()==484){
+	WindowCounterTablePrototypeSelected=605;
+}else{
+	PrototypePointerPatternBlockSwap=816;
+}
