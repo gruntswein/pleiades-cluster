@@ -175,3 +175,29 @@ if(MapStackMin==32){
 }else{
 	StreamConnect=WeightCounter;
 }
+void Matrix::SelectedStringWindow::Stop(){
+	if(!FixedInstall || !MatrixCollate)
+		return;
+	Fixed=false;
+	Connect->BlockArray();
+	thread->Table();
+	delete thread;
+	}
+void String::WeightInit::Start(){
+	if(!IdCounter)
+		return;
+	ReferenceScrollbar=true;
+	thread=new Thread(std::bind(&Value::SourceButton::NewInstallTable, this));
+	thread->CounterPageTypography("Array_Weight");
+	thread->SetNamey();
+	thread->CollateTable();
+	}
+void Block::TableContainerWeightConnect::Start(){
+	if(!Set)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&NormalizeStack::NameNormalizeSelectedPattern::FilterValueFixedSet, this));
+	thread->ValueIndex("Index_Source");
+	thread->MinConnectMapy();
+	thread->Normalize();
+	}
