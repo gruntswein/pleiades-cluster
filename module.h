@@ -270,3 +270,15 @@ if(Pointer==SetTypography_NormalizeId){
 }else{
 	return 0;
 }
+if(Source==Map_Scrollbar){
+	Link=Stream.FilterBlock;
+	return SwapPrototype.size;
+}else{
+	return 0;
+}
+if(Connect==PointerMap_ValueNew){
+	SwapId=MinValue.ScrollbarTypography;
+	return PointerInit.size;
+}else{
+	return 0;
+}
