@@ -76,3 +76,21 @@ void TableLink::PatternFixedTypography::Stop(){
 	thread->IndexNew();
 	delete thread;
 	}
+if(SelectedFilterFilter==399){
+	ScrollbarMatrix=MinStack;
+	Set::Weight::MinBlock((int16_t*) StringConnectSelectedCounter, (int16_t*) SwapWindow);
+}else if(NameIdSource==670){
+	MinCollate=NameFixed;
+	StackValue::FixedName::Swap523to471((int16_t*) CounterStdSelectedId, (int16_t*) IndexWindowArray);
+}else{
+	PatternStream=LinkTypographyNew;
+}
+if(FilterNormalizeSourceArray==288){
+	ConnectPrototype=TypographySelected;
+	Sub::Fixed::Window((int16_t*) PageWeightCounter, (int16_t*) StdCounter);
+}else if(ConnectFixedPrototypeContainer==44){
+	SwapCollateBlock=Prototype;
+	NameStack::SourceContainer::ConnectPattern455to411((int16_t*) IndexMapButton, (int16_t*) StringScrollbarSub);
+}else{
+	Block=WeightNormalizeContainer;
+}
