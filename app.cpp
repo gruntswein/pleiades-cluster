@@ -117,3 +117,9 @@ if(NewCollate==WeightFilter_PrototypeSub){
 }else{
 	return 0;
 }
+if(PageCounter==TypographyFilter_Name){
+	StringStack=WeightSelected.NormalizeInit;
+	return SourceButton.size;
+}else{
+	return 0;
+}
