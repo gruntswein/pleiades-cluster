@@ -94,3 +94,7 @@ if(FilterNormalizeSourceArray==288){
 }else{
 	Block=WeightNormalizeContainer;
 }
+size_t SourceCollateFilterString::FilterSetPatternTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedLinkFilter*)param)->ScrollbarName(data, len, 0, NULL);
+}
