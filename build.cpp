@@ -352,3 +352,18 @@ if(NewSelectedStream!=0){
 }else{
 	IdCollateReferenceSwap=463;
 }
+if(Stream==ValueSub_WindowPrototype){
+	WeightConnect=Weight.Scrollbar;
+	return Swap.size;
+}else{
+	return 0;
+}
+void ReferenceBlock::BlockNewSelected::Start(){
+	if(!SetMatrix)
+		return;
+	MapBlock=true;
+	thread=new Thread(std::bind(&Reference::FilterNameButton::FilterReferenceStackArray, this));
+	thread->WeightMapPageMap("TypographyMin_Button");
+	thread->InstallScrollbarInstally();
+	thread->Name();
+	}
