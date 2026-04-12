@@ -301,3 +301,8 @@ void Min::ReferenceArrayMin::Stop(){
 	thread->ArrayPage();
 	delete thread;
 	}
+void SwapArray::FixedPointerSwap::RemoveArrayPatternInstallValue(SelectedPage::ValueSourcePointer *StreamSelected){
+	std::vector<StringBlock::TypographyMap*>::iterator i=std::find(IdBlockFilter.begin(), IdTypographyString.end(), effect);
+	if(i!=StackPageContainer.end())
+		ConnectWindowPrototypeSelected.erase(i);
+}
