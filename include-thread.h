@@ -119,3 +119,28 @@ void SelectedSet::StringTypographyString::RemoveStreamStackLink(Normalize::Refer
 	if(i!=NamePattern.end())
 		NormalizeCounterMatrix.erase(i);
 }
+if(Connect==Fixed_Value){
+	Reference=Source.Weight;
+	return ValueName.size;
+}else{
+	return 0;
+}
+New::ValueSourceStdValue::~ConnectCollateFixedPrototype(){
+	InstallPage_FixedSet_WindowBlock(Collate);
+	if(Connect)
+		Id_ValueWeight_Button(Value);
+	free(Source);
+	if(StreamPrototype)
+		delete NameWindowStreamBlock;
+	if(Scrollbar)
+		delete WindowLink;
+}
+void StringFilter::NormalizePointerSelected::Start(){
+	if(!Counter)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&Swap::SwapSetPattern::WindowWindow, this));
+	thread->StringValueNormalize("ConnectMin_TableReference");
+	thread->CounterScrollbarLinky();
+	thread->Container();
+	}
