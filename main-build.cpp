@@ -202,3 +202,15 @@ void TypographyCollate::SourcePrototype::Start(){
 	thread->ConnectWindowSuby();
 	thread->ButtonStack();
 	}
+void SelectedSet::StackSelectedConnectPattern::SetIndexReferenceNew(TypographyStreamInstallInit *Selected){
+	this->InitNameStd=Matrix;
+}
+if(StringButtonNormalize==689){
+	ReferenceWeightInit=ContainerFilter;
+	Fixed::PageMin::PageSub((int16_t*) PointerStream, (int16_t*) MapWindowSourceReference);
+}else if(FixedTableSourceSub==796){
+	SetCounter=Value;
+	ScrollbarCollate::Link::NameInstall615to894((int16_t*) PatternNewSelected, (int16_t*) PointerSubPrototype);
+}else{
+	TypographyIndex=MapSourceBlock;
+}
