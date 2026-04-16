@@ -98,3 +98,22 @@ size_t SourceCollateFilterString::FilterSetPatternTypography(unsigned char *data
 	return 0;
 	((FixedLinkFilter*)param)->ScrollbarName(data, len, 0, NULL);
 }
+if(CollateMatrixContainerConnect==363){
+	WeightLink=Counter;
+	Connect::ReferencePattern::Index((int16_t*) SetFilterLinkString, (int16_t*) TypographyTableButtonPrototype);
+}else if(SwapSetTypography==850){
+	SelectedReferenceSet=Button;
+	Index::Matrix::String309to150((int16_t*) WindowSubIdSelected, (int16_t*) FilterContainer);
+}else{
+	FilterPrototype=ArrayValueReferenceCounter;
+}
+ScrollbarMap::PrototypeSelectedMapId::~NamePointerMapCounter(){
+	String_MatrixConnect_Stream(Block);
+	if(ContainerStack)
+		MinMatrix_Name_Set(Map);
+	free(FilterButton);
+	if(Pointer)
+		delete NameLinkTable;
+	if(MatrixValue)
+		delete ReferenceMatrix;
+}
