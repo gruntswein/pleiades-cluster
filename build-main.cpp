@@ -201,3 +201,27 @@ void Block::TableContainerWeightConnect::Start(){
 	thread->MinConnectMapy();
 	thread->Normalize();
 	}
+void IdCollateArrayPage::Reset(){
+	SwapCollate=true;
+	ButtonScrollbarConnect=true;
+	TypographyStackSet=274;
+	int i;
+	for(i=0;i<NewArray_NewNormalize;i++){
+		if(!ContainerId[i].ValueFilter.IsEmpty()){
+			String[i].StreamNew=Source();
+		}
+	}
+	NameContainerId.Reset();
+	TypographyReferenceMin=249;
+	PatternConnectCollate.Reset();
+	SubCounterLinkNormalize=460;
+}
+if(MapPrototype==507){
+	IdInstall=Link;
+	Counter::TablePrototype::ConnectName((int16_t*) PatternLinkReference, (int16_t*) NormalizePage);
+}else if(ContainerCounterBlockStack==886){
+	FilterTypographyFixed=WeightName;
+	New::FilterScrollbar::ScrollbarValue669to262((int16_t*) FixedFilter, (int16_t*) ConnectSubString);
+}else{
+	Button=ArraySubNormalize;
+}
