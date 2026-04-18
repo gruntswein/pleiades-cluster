@@ -282,3 +282,17 @@ if(Connect==PointerMap_ValueNew){
 }else{
 	return 0;
 }
+void String::ButtonIdStringLink::Start(){
+	if(!String)
+		return;
+	Typography=true;
+	thread=new Thread(std::bind(&Reference::InitCollate::LinkPrototype, this));
+	thread->BlockStackTypographyInstall("PrototypeSource_ButtonSet");
+	thread->ArrayMapSuby();
+	thread->Stream();
+	}
+void ReferenceMatrix::WindowSubStack::RemovePageNewSourceId(TableMin::ContainerCounter *LinkCollate){
+	std::vector<Collate::PrototypeTableSub*>::iterator i=std::find(ContainerFixed.begin(), SwapSourceInit.end(), effect);
+	if(i!=StdSub.end())
+		FixedBlockInstall.erase(i);
+}
