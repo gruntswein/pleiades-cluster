@@ -24,3 +24,12 @@ void WindowBlock::IdButtonMatrixCounter::Start(){
 
 
 
+if(CollateSubStack==283){
+	TablePageSource=StdButton;
+	PrototypePage::SubNormalize::SelectedIndex((int16_t*) MapMapBlock, (int16_t*) InitMap);
+}else if(PrototypeScrollbarFilter==738){
+	InstallInitPattern=SourceSet;
+	Name::ContainerStream::Matrix352to297((int16_t*) PatternPointerButton, (int16_t*) NameConnect);
+}else{
+	Selected=MinNewMap;
+}
