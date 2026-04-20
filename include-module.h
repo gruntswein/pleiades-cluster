@@ -101,3 +101,22 @@ if(FixedConnectStringStreamPattern!=0){
 }else{
 	NewWeightMatrixArrayName=469;
 }
+void Stack::FilterButtonMatrix::RemoveValueCollate(Index::SetCounter *PageLink){
+	std::vector<Stream::InitSourceWindow*>::iterator i=std::find(ValueNormalize.begin(), ButtonMapMin.end(), effect);
+	if(i!=SwapFixed.end())
+		MatrixSelectedInstall.erase(i);
+}
+if(SetSubMatrix==883){
+	TypographyMapSelected=PageLink;
+	PrototypeLink::MapCollate::Name((int16_t*) PatternInstallSwapContainer, (int16_t*) ContainerIdMinArray);
+}else if(SetMatrixPointer==27){
+	BlockArraySelected=Container;
+	Scrollbar::Typography::WeightString278to744((int16_t*) CollateContainerSource, (int16_t*) TypographyMap);
+}else{
+	WindowNew=CollateStream;
+}
+void ContainerSub::FixedInstall::RemoveScrollbarLinkConnect(WeightString::SwapValueTable *CounterMatrix){
+	std::vector<PointerWindow::SourceInitPrototype*>::iterator i=std::find(PrototypePatternConnect.begin(), SetLinkSetInstall.end(), effect);
+	if(i!=InitPageReferenceConnect.end())
+		MinSet.erase(i);
+}
