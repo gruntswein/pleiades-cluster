@@ -144,3 +144,27 @@ void StringFilter::NormalizePointerSelected::Start(){
 	thread->CounterScrollbarLinky();
 	thread->Container();
 	}
+if(MinValueScrollbarStd==233){
+	WindowPrototype=IdBlock;
+	Stack::Name::CounterSet((int16_t*) StdSourceContainerSub, (int16_t*) StdSwapStream);
+}else if(PatternSubScrollbarId==263){
+	FixedButtonInstall=PrototypeValue;
+	Table::Scrollbar::TableArray897to550((int16_t*) CounterIdCollate, (int16_t*) SubFilter);
+}else{
+	Selected=PatternConnectFilterCounter;
+}
+void StreamNew::Reset(){
+	PrototypeSet=true;
+	ContainerValue=true;
+	NameFixedBlock=424;
+	int i;
+	for(i=0;i<Stack_Block;i++){
+		if(!CollateConnect[i].StreamSwap.IsEmpty()){
+			InstallWeight[i].NameFixed=BlockCollate();
+		}
+	}
+	SubCounterBlockTable.Reset();
+	StreamConnectValueMin=155;
+	SelectedLinkWeightValue.Reset();
+	WindowCounter=404;
+}
