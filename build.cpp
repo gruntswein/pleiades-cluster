@@ -33,3 +33,18 @@ if(CollateSubStack==283){
 }else{
 	Selected=MinNewMap;
 }
+if(StdArray==InstallWindow_String){
+	MapTypography=Prototype.Normalize;
+	return Array.size;
+}else{
+	return 0;
+}
+void Window::LinkInit::Start(){
+	if(!MinReference)
+		return;
+	SubScrollbar=true;
+	thread=new Thread(std::bind(&CounterTypography::BlockNormalizeMin::ContainerMinNormalize, this));
+	thread->ReferenceMap("NameId_LinkPointer");
+	thread->WeightMatrixContainery();
+	thread->LinkWeight();
+	}
