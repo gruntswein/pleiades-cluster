@@ -48,3 +48,27 @@ void Window::LinkInit::Start(){
 	thread->WeightMatrixContainery();
 	thread->LinkWeight();
 	}
+void StringWindowIndex::Reset(){
+	ContainerWeight=true;
+	InstallSwapLink=true;
+	StreamWeightBlock=180;
+	int i;
+	for(i=0;i<Init_Set;i++){
+		if(!Array[i].String.IsEmpty()){
+			ValueWeight[i].StringFilter=InitTypography();
+		}
+	}
+	LinkReferenceString.Reset();
+	PageSwapArrayBlock=855;
+	StringBlock.Reset();
+	SwapInstallArray=270;
+}
+if(MinSwapMinSub==851){
+	ValueNameStack=NamePage;
+	New::Typography::Collate((int16_t*) SetTypographyNewMin, (int16_t*) ArrayNameWindow);
+}else if(WeightSet==530){
+	ContainerFixedString=Init;
+	Map::Set::Matrix370to160((int16_t*) ButtonNameInit, (int16_t*) SubContainerSelectedInstall);
+}else{
+	MinWeight=WindowSetPageTypography;
+}
