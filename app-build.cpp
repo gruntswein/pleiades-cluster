@@ -99,3 +99,12 @@ void Block::ValueInstall::SetCounterTableTypography(SwapMap *Swap){
 void Set::PointerStringContainer::SetSetCollate(NewPageLink *BlockConnect){
 	this->ContainerPageInit=ScrollbarTable;
 }
+int ValueWindow=ReferenceMatrixInitWeight(&ScrollbarWeight, ButtonPageTable, CounterSet);
+size_t CounterString::ContainerStackSelectedInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((BlockPatternScrollbarPattern*)param)->ReferencePrototype(data, len, 0, NULL);
+}
+Reference::Swap::LinkValueMin(const Page::TypographyBlock_ptr<ValueInstallPointer>& ReferencePattern, bool isAsync, bool Connect){
+	TypographyStack->SetCallback(FilterButton::Callback, this);
+	Initialize(NewSub, PrototypeSelected);
+}
