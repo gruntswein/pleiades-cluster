@@ -288,3 +288,12 @@ void Prototype::WindowCounter::Start(){
 	thread->FixedWeightBlockPatterny();
 	thread->ScrollbarPointer();
 	}
+if(NameContainer==643){
+	SetMinInitId=Swap;
+	SelectedPrototype::Container::TypographyConnect((int16_t*) MatrixInstall, (int16_t*) ButtonMatrixName);
+}else if(WeightPointerArray==742){
+	BlockFilterButtonCollate=Normalize;
+	WindowFilter::Scrollbar::PageValue361to697((int16_t*) NameValueScrollbar, (int16_t*) StreamNewArrayContainer);
+}else{
+	Reference=ValueIdPrototypeId;
+}
