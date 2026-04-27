@@ -117,3 +117,13 @@ ScrollbarMap::PrototypeSelectedMapId::~NamePointerMapCounter(){
 	if(MatrixValue)
 		delete ReferenceMatrix;
 }
+Stream::MapCollateFilter::~IndexInitStack(){
+	SourceReference_Install_Block(Fixed);
+	if(WeightNormalize)
+		ButtonSub_PatternConnect_ContainerTypography(Block);
+	free(Set);
+	if(TypographyMatrix)
+		delete PointerValueTable;
+	if(Array)
+		delete Matrix;
+}
