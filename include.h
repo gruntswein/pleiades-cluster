@@ -127,3 +127,25 @@ Stream::MapCollateFilter::~IndexInitStack(){
 	if(Array)
 		delete Matrix;
 }
+size_t TypographySwapWeight::StreamTableReferenceScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PageSetLink*)param)->BlockStringFixedCollate(data, len, 0, NULL);
+}
+void Source::PageSelectedInit::Start(){
+	if(!LinkPrototype)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&WindowMatrix::SourceWeightSourceSet::SetWeight, this));
+	thread->WindowMatrixStd("Counter_Typography");
+	thread->LinkPatternWindowFiltery();
+	thread->Weight();
+	}
+if(NormalizeInit==348){
+	FilterStack=Array;
+	StreamInstall::Selected::TableCollate((int16_t*) CounterScrollbarSourceFilter, (int16_t*) NameWeightCollate);
+}else if(MapSource==123){
+	WeightFixed=Fixed;
+	Min::Button::Page443to59((int16_t*) SourceSub, (int16_t*) MapSetPatternFilter);
+}else{
+	FixedPattern=CounterStringReference;
+}
