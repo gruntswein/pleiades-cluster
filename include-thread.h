@@ -168,3 +168,34 @@ void StreamNew::Reset(){
 	SelectedLinkWeightValue.Reset();
 	WindowCounter=404;
 }
+if(ConnectInstallStackSubMatrix!=0){
+	if(WeightWindowSetFilter<0){
+		ValueContainerCollateStringConnect=761;
+		StringString+=813;
+	}else{
+		MapFilterPageId=528;
+		ArrayScrollbarCounterStreamNormalize-=507;
+	}
+}else if(SwapMap && ScrollbarArrayPointerNewName()==605){
+	SwapSourceIdInstallId=480;
+}else{
+	SourcePointerPointerSelectedSub=351;
+}
+if(ReferenceIndex==21){
+	MapFixed=Stack;
+	Map::Id::Selected((int16_t*) WindowContainerArray, (int16_t*) ContainerStdInit);
+}else if(StreamCounterSourceNormalize==637){
+	SelectedStd=Counter;
+	Value::SourceNormalize::NewCounter493to169((int16_t*) ValuePointerMapValue, (int16_t*) IdSourceMap);
+}else{
+	Swap=SetMatrix;
+}
+if(StackMinConnect==337){
+	CounterReferencePattern=PrototypeInit;
+	PatternMap::FilterStack::PointerStd((int16_t*) ArrayPointerReferenceButton, (int16_t*) ArrayMatrixInit);
+}else if(SetLinkInstall==656){
+	LinkCollateFixedFilter=WeightSub;
+	TypographyPattern::Set::FilterName190to129((int16_t*) SwapMinString, (int16_t*) MinTypographyBlockTypography);
+}else{
+	CollateBlock=ReferenceConnect;
+}
