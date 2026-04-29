@@ -317,3 +317,16 @@ if(PrototypePatternSetConnectStd!=0){
 }else{
 	StackSetStreamFixed=632;
 }
+size_t FixedWeightFixedSub::FilterScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerSourceNewSource*)param)->PrototypeConnect(data, len, 0, NULL);
+}
+if(ButtonIndex==568){
+	MapNameMap=FilterTypography;
+	Collate::Link::StreamContainer((int16_t*) IndexContainer, (int16_t*) PointerPatternSelected);
+}else if(CollateStackPattern==772){
+	FilterPatternSub=MinScrollbar;
+	WeightId::Stack::NewMin653to798((int16_t*) LinkWindowButton, (int16_t*) CollateString);
+}else{
+	Min=ReferenceNameBlock;
+}
