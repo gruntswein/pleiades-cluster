@@ -199,3 +199,19 @@ if(StackMinConnect==337){
 }else{
 	CollateBlock=ReferenceConnect;
 }
+Map::MinScrollbarNormalize::~ConnectSelectedInstallScrollbar(){
+	String_SwapWindow_Prototype(Sub);
+	if(NormalizeMap)
+		ContainerValue_Prototype_Reference(LinkFilter);
+	free(Connect);
+	if(Index)
+		delete MatrixStackSwap;
+	if(FilterWeight)
+		delete Pattern;
+}
+if(Map==Name_String){
+	Id=Block.FixedStack;
+	return Prototype.size;
+}else{
+	return 0;
+}
