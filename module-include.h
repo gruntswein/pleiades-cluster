@@ -280,3 +280,18 @@ void TableStackPage::Reset(){
 	MapPrototype.Reset();
 	BlockSwapPageReference=16;
 }
+void StackSelectedCollate::Reset(){
+	InitTypography=true;
+	MapWeightLinkReference=true;
+	TypographySelected=726;
+	int i;
+	for(i=0;i<Link_PrototypeConnect;i++){
+		if(!Table[i].Map.IsEmpty()){
+			WindowId[i].NameConnect=Matrix();
+		}
+	}
+	TypographyStringSub.Reset();
+	SetSelectedReference=862;
+	TableFixedPage.Reset();
+	InitReference=821;
+}
