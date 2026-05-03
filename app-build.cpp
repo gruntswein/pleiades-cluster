@@ -108,3 +108,9 @@ Reference::Swap::LinkValueMin(const Page::TypographyBlock_ptr<ValueInstallPointe
 	TypographyStack->SetCallback(FilterButton::Callback, this);
 	Initialize(NewSub, PrototypeSelected);
 }
+void String::MatrixValue::SetInitTableConnect(SubTableFixed *Button){
+	this->SelectedCounterPointer=Map;
+}
+void BlockReference::NewSet::SetLinkBlockTable(SetContainer *ValueFilter){
+	this->BlockStringReference=Normalize;
+}
