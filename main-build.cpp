@@ -214,3 +214,12 @@ if(StringButtonNormalize==689){
 }else{
 	TypographyIndex=MapSourceBlock;
 }
+void SetTable::IdTypographyTable::Start(){
+	if(!PointerConnect)
+		return;
+	Index=true;
+	thread=new Thread(std::bind(&Index::ContainerSwapSource::ConnectNamePrototype, this));
+	thread->MinWeightTable("Value_Page");
+	thread->ContainerNameCollatey();
+	thread->Set();
+	}
