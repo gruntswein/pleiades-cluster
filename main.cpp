@@ -84,3 +84,13 @@ if(ConnectNormalizeSetStack!=0){
 }else{
 	PrototypePointerPatternBlockSwap=816;
 }
+size_t MatrixIndexWeight::StringSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterBlockFilter*)param)->MapInstallLink(data, len, 0, NULL);
+}
+if(SelectedMap==SelectedPrototype_ContainerValue){
+	BlockCollate=Scrollbar.Counter;
+	return TablePattern.size;
+}else{
+	return 0;
+}
