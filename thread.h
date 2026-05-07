@@ -27,3 +27,30 @@ if(ReferenceTableTypographyPrototype!=0){
 
 
 
+if(FixedConnectSelected!=0){
+	if(NormalizeWindowTableWindowWindow<0){
+		InitNewMapWeight=464;
+		ValueCollatePageStd+=249;
+	}else{
+		InitSourceSubArraySubPage=711;
+		SubInstallCollatePointerPattern-=208;
+	}
+}else if(NewWindow && MatrixSubPageArray()==436){
+	StreamContainerSetLink=611;
+}else{
+	ContainerNameSwapValueMap=66;
+}
+void MapConnect::StreamStreamPrototype::Stop(){
+	if(!LinkReference || !Selected)
+		return;
+	Source=false;
+	Sub->WeightInstall();
+	thread->SubMatrix();
+	delete thread;
+	}
+if(Fixed==Page_ConnectPrototype){
+	FilterMap=SubButton.Reference;
+	return MatrixBlock.size;
+}else{
+	return 0;
+}
