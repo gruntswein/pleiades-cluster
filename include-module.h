@@ -120,3 +120,35 @@ void ContainerSub::FixedInstall::RemoveScrollbarLinkConnect(WeightString::SwapVa
 	if(i!=InitPageReferenceConnect.end())
 		MinSet.erase(i);
 }
+size_t PointerBlock::IdValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightNormalizeNameWeight*)param)->BlockMatrixBlock(data, len, 0, NULL);
+}
+void StringArrayInstallReference::Reset(){
+	Array=true;
+	NormalizeTablePattern=true;
+	MapMatrix=838;
+	int i;
+	for(i=0;i<Counter_ReferenceFixed;i++){
+		if(!Stream[i].SourceStd.IsEmpty()){
+			Collate[i].ReferenceFilter=Min();
+		}
+	}
+	SubButton.Reset();
+	ConnectCollate=382;
+	WindowScrollbarNew.Reset();
+	MapCounter=781;
+}
+if(WeightPageArraySelected!=0){
+	if(SwapScrollbarStreamSource<0){
+		StreamStreamStringScrollbarInit=405;
+		SelectedPattern+=213;
+	}else{
+		FilterCounterFixed=876;
+		StreamNormalizeSet-=403;
+	}
+}else if(PrototypeWeight && ReferenceBlockNewButton()==81){
+	ArrayReferenceInitIdSwap=293;
+}else{
+	InstallStdTableStd=449;
+}
