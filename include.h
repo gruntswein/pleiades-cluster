@@ -149,3 +149,8 @@ if(NormalizeInit==348){
 }else{
 	FixedPattern=CounterStringReference;
 }
+void FilterSub::CollatePrototypeSelected::RemoveFixedFilterTypography(Map::NormalizeWindow *MatrixScrollbar){
+	std::vector<ArrayTable::PrototypeStackFixedTable*>::iterator i=std::find(WindowIdStack.begin(), StdPatternFilter.end(), effect);
+	if(i!=SourceName.end())
+		CounterString.erase(i);
+}
