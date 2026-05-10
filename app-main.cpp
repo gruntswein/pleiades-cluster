@@ -306,3 +306,17 @@ void SwapArray::FixedPointerSwap::RemoveArrayPatternInstallValue(SelectedPage::V
 	if(i!=StackPageContainer.end())
 		ConnectWindowPrototypeSelected.erase(i);
 }
+void Weight::IndexIdLink::RemoveSourceButtonFixed(Weight::ScrollbarSelectedStdNormalize *PrototypeTable){
+	std::vector<CounterNormalize::ValueValueButton*>::iterator i=std::find(PrototypeTypographyStream.begin(), InstallPageContainerLink.end(), effect);
+	if(i!=WeightInstallArray.end())
+		ButtonStackSet.erase(i);
+}
+if(SubPatternMinTable==83){
+	FixedFilterReference=ConnectWeight;
+	SwapLink::Filter::String((int16_t*) ScrollbarNewCounter, (int16_t*) ArrayTable);
+}else if(NameTableMinPattern==247){
+	TypographyTableId=Id;
+	Stream::Window::Stream145to682((int16_t*) ConnectScrollbarInstallCounter, (int16_t*) ValueSourceStream);
+}else{
+	TypographySelected=PatternStringTypographyMin;
+}
