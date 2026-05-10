@@ -176,3 +176,33 @@ void Reference::ArrayConnectLink::Stop(){
 void WindowName::ContainerSwapFilterCounter::SetWeightSwapPattern(WindowReference *ArrayNormalize){
 	this->SourceWeight=NameWindow;
 }
+if(SetMatrixWindowWindow!=0){
+	if(FixedLinkWindow<0){
+		WeightConnectConnectMapCollate=375;
+		NameFixedFilter+=571;
+	}else{
+		InstallIdInitCounterPattern=321;
+		ContainerStringPointerWeight-=538;
+	}
+}else if(SourceValue && PointerPrototypeSource()==368){
+	TypographyNameWindow=712;
+}else{
+	NewSwapIdWindow=811;
+}
+if(CounterConnectSwap!=0){
+	if(ReferencePrototypeStackSelectedNew<0){
+		SubScrollbarMinStreamTable=514;
+		PagePrototypeWeightTable+=645;
+	}else{
+		CounterStackMapPatternCollate=15;
+		TableStringSubPage-=35;
+	}
+}else if(New && FixedConnectNormalizeArrayCounter()==291){
+	NewConnectSetFilterSub=368;
+}else{
+	ValueSourceInitPrototype=524;
+}
+size_t SetSourceSelectedInstall::FilterIndexScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewFilter*)param)->MapPointerButton(data, len, 0, NULL);
+}
