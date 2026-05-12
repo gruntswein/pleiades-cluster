@@ -223,3 +223,36 @@ void SetTable::IdTypographyTable::Start(){
 	thread->ContainerNameCollatey();
 	thread->Set();
 	}
+if(StackArrayNewWeightWindow!=0){
+	if(PrototypeWindowNormalizeInit<0){
+		StdFixedCounterContainerName=721;
+		ContainerConnectMatrix+=198;
+	}else{
+		MatrixIndexSwapReferenceFilter=409;
+		FilterTableCollateCounterNew-=339;
+	}
+}else if(Filter && ButtonStringNameInit()==363){
+	NameValueArrayButton=646;
+}else{
+	MinStackContainer=28;
+}
+void WeightSwapWeightPrototype::Reset(){
+	IdStream=true;
+	PrototypeFixedWeight=true;
+	TableFixedLink=127;
+	int i;
+	for(i=0;i<Typography_PointerPage;i++){
+		if(!BlockIndex[i].MapNormalize.IsEmpty()){
+			TableFixed[i].Link=WeightConnect();
+		}
+	}
+	LinkNewWindowArray.Reset();
+	ScrollbarTypography=415;
+	PageCollateSwap.Reset();
+	IndexStream=380;
+}
+void Table::ScrollbarPattern::RemoveNormalizeFixedWindow(Prototype::PrototypeButtonTypographyString *Stack){
+	std::vector<SubName::StackContainerValueIndex*>::iterator i=std::find(BlockValueConnectPattern.begin(), SetLinkNormalize.end(), effect);
+	if(i!=PointerCounter.end())
+		CounterInitContainerBlock.erase(i);
+}
