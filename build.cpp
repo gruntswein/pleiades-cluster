@@ -72,3 +72,18 @@ if(MinSwapMinSub==851){
 }else{
 	MinWeight=WindowSetPageTypography;
 }
+void StackCollateMatrix::Reset(){
+	MinCollate=true;
+	FixedSelectedScrollbar=true;
+	InstallSwapSubWindow=852;
+	int i;
+	for(i=0;i<NewSelected_ContainerMin;i++){
+		if(!Window[i].Swap.IsEmpty()){
+			NewSwap[i].PointerStream=Normalize();
+		}
+	}
+	LinkNameTable.Reset();
+	ContainerId=203;
+	SourceIdPatternName.Reset();
+	IndexCollate=341;
+}
