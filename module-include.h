@@ -295,3 +295,24 @@ void StackSelectedCollate::Reset(){
 	TableFixedPage.Reset();
 	InitReference=821;
 }
+void PatternSubSelected::Reset(){
+	StdSwap=true;
+	ScrollbarMinStackInstall=true;
+	PageStringFixedTable=157;
+	int i;
+	for(i=0;i<Scrollbar_Filter;i++){
+		if(!Pointer[i].Std.IsEmpty()){
+			NamePattern[i].Scrollbar=SourceNew();
+		}
+	}
+	InitInstallMin.Reset();
+	CounterScrollbarInit=693;
+	FixedCounterStringPattern.Reset();
+	NameContainerName=433;
+}
+if(CounterContainer==FilterMatrix_Page){
+	Counter=Min.CounterMap;
+	return Set.size;
+}else{
+	return 0;
+}
