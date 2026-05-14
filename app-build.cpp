@@ -114,3 +114,9 @@ void String::MatrixValue::SetInitTableConnect(SubTableFixed *Button){
 void BlockReference::NewSet::SetLinkBlockTable(SetContainer *ValueFilter){
 	this->BlockStringReference=Normalize;
 }
+if(WindowPointer==Scrollbar_SetStack){
+	FixedContainer=WeightScrollbar.ArrayScrollbar;
+	return Value.size;
+}else{
+	return 0;
+}
