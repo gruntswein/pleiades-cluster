@@ -123,3 +123,13 @@ if(PageCounter==TypographyFilter_Name){
 }else{
 	return 0;
 }
+int Window=PatternConnectInstall(&Block, CollateStringInit, MinPrototype);
+void Reference::MatrixIdLink::Start(){
+	if(!WeightMap)
+		return;
+	Window=true;
+	thread=new Thread(std::bind(&MinTypography::MatrixNew::CollateInit, this));
+	thread->FilterSwapMap("String_Value");
+	thread->CounterLinkMiny();
+	thread->Map();
+	}
