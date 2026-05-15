@@ -87,3 +87,28 @@ void StackCollateMatrix::Reset(){
 	SourceIdPatternName.Reset();
 	IndexCollate=341;
 }
+void CollateMin::FixedStackReference::Stop(){
+	if(!WeightName || !Button)
+		return;
+	SubButton=false;
+	Init->Source();
+	thread->Init();
+	delete thread;
+	}
+if(ContainerCounter==197){
+	FilterInstallArrayLink=SwapMap;
+	Normalize::PointerCounter::Normalize((int16_t*) TableInitInit, (int16_t*) MinString);
+}else if(IdLinkValue==404){
+	StdPageMapConnect=NameFixed;
+	WindowSource::Source::Page265to252((int16_t*) WeightStack, (int16_t*) IdNameStream);
+}else{
+	ArrayInstall=FixedSubMatrix;
+}
+void Normalize::SourceInstallMinArray::Stop(){
+	if(!SourcePage || !StringLink)
+		return;
+	TypographyTable=false;
+	StreamPattern->Block();
+	thread->Index();
+	delete thread;
+	}
