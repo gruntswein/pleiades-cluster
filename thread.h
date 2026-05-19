@@ -54,3 +54,13 @@ if(Fixed==Page_ConnectPrototype){
 }else{
 	return 0;
 }
+if(ContainerInit==Array_StringTable){
+	LinkInit=Map.Swap;
+	return BlockSub.size;
+}else{
+	return 0;
+}
+size_t MinFilterString::MatrixConnectSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceSelectedFixedMatrix*)param)->PatternWindowWindowButton(data, len, 0, NULL);
+}
