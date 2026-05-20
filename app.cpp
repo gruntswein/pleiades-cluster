@@ -133,3 +133,21 @@ void Reference::MatrixIdLink::Start(){
 	thread->CounterLinkMiny();
 	thread->Map();
 	}
+Selected::FilterWeight::~StackCollateMinStack(){
+	Install_Min_PatternFixed(Block);
+	if(TablePrototype)
+		BlockMap_Std_Weight(Source);
+	free(CounterWeight);
+	if(FilterButton)
+		delete LinkSetTypography;
+	if(WeightMatrix)
+		delete PageInit;
+}
+void PointerValue::SwapTable::Stop(){
+	if(!Swap || !MinNormalize)
+		return;
+	Selected=false;
+	Min->Set();
+	thread->PointerSwap();
+	delete thread;
+	}
