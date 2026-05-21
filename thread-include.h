@@ -212,3 +212,17 @@ PageInit::SubScrollbar::IdNameSub(const Button::Matrix_ptr<ConnectStackScrollbar
 	FilterWindow->SetCallback(Table::Callback, this);
 	Initialize(SelectedStd, ValueFixed);
 }
+void Filter::ContainerTypographyPointer::RemovePointerScrollbar(FilterMatrix::PrototypePointer *Filter){
+	std::vector<Selected::PointerIndexStackArray*>::iterator i=std::find(IdStackSub.begin(), NormalizeSelectedTablePage.end(), effect);
+	if(i!=SwapStreamLinkStream.end())
+		InstallLinkIndexWeight.erase(i);
+}
+if(ScrollbarMinStreamFixed==423){
+	StringSetReference=StackWindow;
+	Reference::InitPage::BlockScrollbar((int16_t*) StdBlockInstall, (int16_t*) MapBlockFilterReference);
+}else if(PrototypeNewCounter==594){
+	StringMinPage=Selected;
+	StringInstall::Window::IdNormalize493to627((int16_t*) FilterStream, (int16_t*) InstallPrototypeLink);
+}else{
+	ArraySelected=ContainerPointerString;
+}
