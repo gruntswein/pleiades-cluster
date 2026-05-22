@@ -94,3 +94,15 @@ if(SelectedMap==SelectedPrototype_ContainerValue){
 }else{
 	return 0;
 }
+void PointerContainer::SubSelected::Stop(){
+	if(!Std || !FilterString)
+		return;
+	ArrayStack=false;
+	FilterCounter->Selected();
+	thread->Block();
+	delete thread;
+	}
+size_t ValueMapSwap::FilterIndexMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightLink*)param)->BlockTable(data, len, 0, NULL);
+}
