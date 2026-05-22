@@ -320,3 +320,15 @@ if(SubPatternMinTable==83){
 }else{
 	TypographySelected=PatternStringTypographyMin;
 }
+void ContainerWindow::StringMapReferenceCounter::Stop(){
+	if(!Name || !Pointer)
+		return;
+	Init=false;
+	BlockSwap->Id();
+	thread->SubScrollbar();
+	delete thread;
+	}
+size_t StringPrototypeFilter::NormalizeSubPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyStackReference*)param)->SubCounterInstall(data, len, 0, NULL);
+}
