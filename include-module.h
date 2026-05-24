@@ -152,3 +152,26 @@ if(WeightPageArraySelected!=0){
 }else{
 	InstallStdTableStd=449;
 }
+void Array::ButtonConnectValue::RemoveConnectReferenceId(Normalize::IdSwapButton *Container){
+	std::vector<Source::SwapFixedScrollbarSwap*>::iterator i=std::find(FixedMatrixName.begin(), ScrollbarFixedMinFixed.end(), effect);
+	if(i!=PointerSwapSource.end())
+		ConnectSetPointer.erase(i);
+}
+if(ReferenceTypography==400){
+	MapPatternConnect=Connect;
+	Id::Link::InstallTable((int16_t*) FixedStdId, (int16_t*) TableReferenceWeight);
+}else if(PointerPrototypeSwap==355){
+	InitName=StreamCounter;
+	Window::CollateConnect::Value260to757((int16_t*) StringCounterSetStd, (int16_t*) ValueStringScrollbarCollate);
+}else{
+	Pattern=FilterInstallNormalizePattern;
+}
+void ConnectIndex::ButtonSelectedButton::Start(){
+	if(!Counter)
+		return;
+	PatternPage=true;
+	thread=new Thread(std::bind(&Window::TableName::SetNewMap, this));
+	thread->TableScrollbarCollate("Prototype_PageStream");
+	thread->SetInstallSelectedy();
+	thread->Install();
+	}
