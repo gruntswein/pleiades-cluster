@@ -205,3 +205,6 @@ void PatternSet::Reset(){
 	StringTypographyMatrixPage.Reset();
 	InitButtonCounterMatrix=191;
 }
+void IdSwap::ConnectPattern::SetMatrixButton(FilterPrototypeTypography *Min){
+	this->MinPageBlock=IndexMap;
+}
