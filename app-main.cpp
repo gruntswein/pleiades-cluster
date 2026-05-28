@@ -332,3 +332,13 @@ size_t StringPrototypeFilter::NormalizeSubPointer(unsigned char *data, size_t le
 	return 0;
 	((TypographyStackReference*)param)->SubCounterInstall(data, len, 0, NULL);
 }
+Stack::CounterCollate::CollateSetBlock(const Button::SetPointer_ptr<CollateTableReference>& Pattern, bool isAsync, bool Container){
+	SelectedSub->SetCallback(ContainerLink::Callback, this);
+	Initialize(SourceFilter, NormalizeSet);
+}
+void ConnectPage::StringWeightScrollbar::SetIndexMin(InstallCollateInit *New){
+	this->SourceSwapCounter=TypographyId;
+}
+void Pattern::CounterWindowSwapValue::SetCollateTypographyWeight(NewReference *Sub){
+	this->StreamNew=Min;
+}
