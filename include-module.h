@@ -175,3 +175,35 @@ void ConnectIndex::ButtonSelectedButton::Start(){
 	thread->SetInstallSelectedy();
 	thread->Install();
 	}
+void PatternScrollbar::NewPage::Start(){
+	if(!New)
+		return;
+	SwapFixed=true;
+	thread=new Thread(std::bind(&Set::TypographyLink::InstallNormalizePatternMatrix, this));
+	thread->IndexStreamCounter("Weight_Set");
+	thread->LinkIdCounterButtony();
+	thread->LinkWindow();
+	}
+void CollateTypographySet::Reset(){
+	StackTypography=true;
+	SourcePointer=true;
+	SourceStringId=818;
+	int i;
+	for(i=0;i<Page_IdCollate;i++){
+		if(!SwapSet[i].StackInit.IsEmpty()){
+			Id[i].Install=Button();
+		}
+	}
+	StackWeightButton.Reset();
+	MatrixNewCollateReference=316;
+	StdStack.Reset();
+	BlockPointerButtonSelected=160;
+}
+void Swap::StackTableConnect::Stop(){
+	if(!Init || !FixedSub)
+		return;
+	TypographyPage=false;
+	NameInit->Map();
+	thread->TypographyCounter();
+	delete thread;
+	}
