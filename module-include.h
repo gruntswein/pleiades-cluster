@@ -316,3 +316,7 @@ if(CounterContainer==FilterMatrix_Page){
 }else{
 	return 0;
 }
+StringId::Window::CounterSourceLink(const ConnectStd::Page_ptr<LinkStringContainer>& LinkValue, bool isAsync, bool BlockSwap){
+	TableNew->SetCallback(IdNew::Callback, this);
+	Initialize(Id, Value);
+}
