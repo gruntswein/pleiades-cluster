@@ -215,3 +215,22 @@ if(Map==Name_String){
 }else{
 	return 0;
 }
+void NameFilterStd::Reset(){
+	Block=true;
+	CounterInitTypography=true;
+	SubValueContainer=815;
+	int i;
+	for(i=0;i<SetSwap_Index;i++){
+		if(!Reference[i].String.IsEmpty()){
+			InstallStd[i].MatrixSub=Block();
+		}
+	}
+	MinStringString.Reset();
+	ButtonBlockSwap=492;
+	PageTypographySwapString.Reset();
+	CollateTableIndex=552;
+}
+size_t ValueWeightButton::MapNameInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitValueSet*)param)->PointerCollateSubConnect(data, len, 0, NULL);
+}
