@@ -154,3 +154,8 @@ void FilterSub::CollatePrototypeSelected::RemoveFixedFilterTypography(Map::Norma
 	if(i!=SourceName.end())
 		CounterString.erase(i);
 }
+void InitArray::FixedCounterInstall::RemoveStringIdName(Page::SelectedSwapNewNormalize *Source){
+	std::vector<PointerSource::CounterWindowButton*>::iterator i=std::find(WeightNewContainerFixed.begin(), ReferenceConnect.end(), effect);
+	if(i!=ArrayMinFixed.end())
+		MinMatrix.erase(i);
+}
