@@ -106,3 +106,15 @@ size_t ValueMapSwap::FilterIndexMap(unsigned char *data, size_t len, void *param
 	return 0;
 	((WeightLink*)param)->BlockTable(data, len, 0, NULL);
 }
+void Link::ScrollbarPageMapReference::Start(){
+	if(!Stream)
+		return;
+	Array=true;
+	thread=new Thread(std::bind(&Name::NameSetWeight::CounterIdScrollbar, this));
+	thread->BlockSourceIndexWindow("Button_InitPointer");
+	thread->ScrollbarNameSelectedy();
+	thread->New();
+	}
+void Fixed::FilterMatrix::SetTableNew(IndexInstallReference *Normalize){
+	this->IndexFilterWindowFilter=CollateTypography;
+}
