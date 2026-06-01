@@ -225,3 +225,18 @@ if(MapPrototype==507){
 }else{
 	Button=ArraySubNormalize;
 }
+void IndexReferenceConnectBlock::Reset(){
+	Source=true;
+	SwapIndexName=true;
+	FilterReferenceWindowConnect=458;
+	int i;
+	for(i=0;i<TypographyStream_BlockPattern;i++){
+		if(!Weight[i].Sub.IsEmpty()){
+			Page[i].New=Stack();
+		}
+	}
+	WindowLinkCounter.Reset();
+	StreamStringSwap=823;
+	ContainerValueArray.Reset();
+	PrototypeConnectSelected=158;
+}
