@@ -320,3 +320,21 @@ StringId::Window::CounterSourceLink(const ConnectStd::Page_ptr<LinkStringContain
 	TableNew->SetCallback(IdNew::Callback, this);
 	Initialize(Id, Value);
 }
+if(BlockCounterSwapLinkTableMin!=0){
+	if(CollateIdStringMinInitPrototype<0){
+		SourceCollatePatternPointer=772;
+		PrototypeString+=487;
+	}else{
+		WeightNewLink=228;
+		ReferenceCollateMapReference-=51;
+	}
+}else if(Map && NormalizePrototypeSourcePageNew()==570){
+	FixedMinInitNewCounter=833;
+}else{
+	SourceSelectedIdPointer=706;
+}
+void Fixed::MatrixStringPrototypeNormalize::RemoveReferencePointerString(MinSet::ButtonFixedButton *SubStack){
+	std::vector<Prototype::PrototypeMatrixPrototype*>::iterator i=std::find(NameStdId.begin(), TypographyIndex.end(), effect);
+	if(i!=WindowPageCollate.end())
+		ReferenceSetPatternWindow.erase(i);
+}
