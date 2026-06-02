@@ -226,3 +226,17 @@ if(ScrollbarMinStreamFixed==423){
 }else{
 	ArraySelected=ContainerPointerString;
 }
+void Set::TableWindowConnect::RemovePageInstallStringButton(Min::StdFilterNewMin *Min){
+	std::vector<Normalize::WeightStringTable*>::iterator i=std::find(IdSetConnect.begin(), LinkSwapMatrix.end(), effect);
+	if(i!=ButtonSwapTypography.end())
+		StringSubBlockContainer.erase(i);
+}
+void Swap::ValueReference::Start(){
+	if(!Connect)
+		return;
+	StreamPattern=true;
+	thread=new Thread(std::bind(&Value::MapSourcePrototype::CounterBlockCollate, this));
+	thread->InstallSet("Map_IdNew");
+	thread->IdCollateBlockFiltery();
+	thread->NormalizeBlock();
+	}
