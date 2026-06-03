@@ -256,3 +256,31 @@ void Table::ScrollbarPattern::RemoveNormalizeFixedWindow(Prototype::PrototypeBut
 	if(i!=PointerCounter.end())
 		CounterInitContainerBlock.erase(i);
 }
+void InstallSwapNameReference::Reset(){
+	ReferenceMin=true;
+	InstallSwap=true;
+	MapNew=890;
+	int i;
+	for(i=0;i<Name_ValueButton;i++){
+		if(!Id[i].CollateSource.IsEmpty()){
+			WindowStack[i].Stream=NewSelected();
+		}
+	}
+	WindowBlockReferenceInit.Reset();
+	SourceFilterIdPrototype=155;
+	StringInstallStd.Reset();
+	TypographySet=116;
+}
+if(NameStreamFilterTable!=0){
+	if(FixedIdConnectPointerValue<0){
+		StreamInstallWeightContainer=383;
+		CounterId+=811;
+	}else{
+		ButtonTableIdSubBlockFilter=433;
+		WeightStdFixedFilterStackName-=466;
+	}
+}else if(PrototypeBlock && WindowMapMinSwap()==567){
+	WindowStackWindowButtonMapSwap=736;
+}else{
+	ArrayInitMinSwapWindow=470;
+}
