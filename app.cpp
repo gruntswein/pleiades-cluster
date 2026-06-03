@@ -151,3 +151,12 @@ void PointerValue::SwapTable::Stop(){
 	thread->PointerSwap();
 	delete thread;
 	}
+void SwapMap::FilterInstallScrollbar::Start(){
+	if(!Page)
+		return;
+	Min=true;
+	thread=new Thread(std::bind(&SetConnect::SelectedTypography::IdMap, this));
+	thread->PageStreamValue("LinkValue_SelectedValue");
+	thread->MatrixSwapTypographyy();
+	thread->Array();
+	}
