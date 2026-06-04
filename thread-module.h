@@ -297,3 +297,31 @@ if(NameContainer==643){
 }else{
 	Reference=ValueIdPrototypeId;
 }
+if(StringArrayInit!=0){
+	if(NormalizeTypographyPointerCollate<0){
+		ArrayPrototypeNewTypographyStream=896;
+		InitFilterValue+=587;
+	}else{
+		BlockArraySetPage=505;
+		TableIndexStdButtonScrollbar-=170;
+	}
+}else if(Swap && MinSourceMapConnect()==182){
+	SelectedFilterContainerWeight=28;
+}else{
+	FilterIdCollateCounterSource=262;
+}
+void TableSelectedString::Reset(){
+	ContainerPattern=true;
+	ConnectNormalizeName=true;
+	ReferenceStringSetReference=328;
+	int i;
+	for(i=0;i<SelectedPattern_Container;i++){
+		if(!Weight[i].Connect.IsEmpty()){
+			ValueInstall[i].Install=SwapString();
+		}
+	}
+	CounterBlock.Reset();
+	ContainerTypographyIndexMatrix=546;
+	InstallPrototypeSource.Reset();
+	PageArrayArraySelected=362;
+}
