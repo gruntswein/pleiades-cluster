@@ -266,3 +266,17 @@ if(IdMinTableNormalizeSwap!=0){
 }else{
 	TypographyMapNameInitInstall=378;
 }
+if(PageScrollbarCollate==830){
+	MapStackMap=SubTable;
+	Connect::ArrayFixed::Weight((int16_t*) StreamFilter, (int16_t*) LinkId);
+}else if(WindowSourceReference==521){
+	ValueTableSwap=Source;
+	TypographyFixed::Id::ValueArray857to801((int16_t*) IdBlockSet, (int16_t*) MinStringStack);
+}else{
+	Value=SubFixedTable;
+}
+void StackPointer::NormalizeArray::RemoveArrayNamePrototype(PatternWeight::ScrollbarTypographyArray *ReferencePointer){
+	std::vector<InitSelected::SubMapSub*>::iterator i=std::find(NameInitInstall.begin(), NormalizeNamePattern.end(), effect);
+	if(i!=BlockPage.end())
+		LinkFixedConnect.erase(i);
+}
