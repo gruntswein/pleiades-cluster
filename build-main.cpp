@@ -240,3 +240,29 @@ void IndexReferenceConnectBlock::Reset(){
 	ContainerValueArray.Reset();
 	PrototypeConnectSelected=158;
 }
+if(LinkStdSwapScrollbarTableConnect!=0){
+	if(TypographySwapStackPrototypeWeight<0){
+		IndexStdScrollbarTableLink=770;
+		NewButton+=652;
+	}else{
+		BlockNameWindowTable=795;
+		MapSetScrollbar-=458;
+	}
+}else if(SwapButton && SwapTableNewScrollbar()==469){
+	SwapNormalizePageNormalizeTypography=102;
+}else{
+	StreamStreamStdSource=415;
+}
+if(IdMinTableNormalizeSwap!=0){
+	if(NameContainerSubWindowSelected<0){
+		TableTypographyArrayStringContainer=354;
+		SwapStd+=47;
+	}else{
+		InitCounterWeightPointer=602;
+		StringStreamWeightSelectedString-=414;
+	}
+}else if(Name && ContainerFilterCounterPageArray()==623){
+	CollateBlockConnectReferenceTypography=757;
+}else{
+	TypographyMapNameInitInstall=378;
+}
