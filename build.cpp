@@ -112,3 +112,24 @@ void Normalize::SourceInstallMinArray::Stop(){
 	thread->Index();
 	delete thread;
 	}
+if(ConnectFixedStreamWeight!=0){
+	if(CounterPrototypeWeightConnectWindow<0){
+		PageTableNameSource=553;
+		NameWeightContainer+=373;
+	}else{
+		BlockMinConnectSourcePattern=113;
+		PointerMinFixedCollate-=446;
+	}
+}else if(MinInstall && ArrayInstallPointerSelectedNew()==636){
+	MapStdPage=218;
+}else{
+	MapCounterCollateSet=554;
+}
+void Value::SetPatternWeightPattern::Stop(){
+	if(!Array || !PrototypeWeight)
+		return;
+	ContainerValue=false;
+	ValueWeight->NormalizeSet();
+	thread->Window();
+	delete thread;
+	}
