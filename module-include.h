@@ -338,3 +338,21 @@ void Fixed::MatrixStringPrototypeNormalize::RemoveReferencePointerString(MinSet:
 	if(i!=WindowPageCollate.end())
 		ReferenceSetPatternWindow.erase(i);
 }
+if(ScrollbarInitPrototype==609){
+	MatrixMap=Source;
+	ArrayValue::Collate::FilterPage((int16_t*) SubSubSwap, (int16_t*) MatrixStackIdName);
+}else if(MatrixWeight==240){
+	ButtonTypographyScrollbar=Name;
+	Set::Filter::Id392to709((int16_t*) MapPattern, (int16_t*) StreamMapLink);
+}else{
+	NewConnect=MatrixCounterStack;
+}
+if(CollateSubFilter==510){
+	ReferenceSwapNormalize=Page;
+	WindowTypography::Button::SourceScrollbar((int16_t*) StringStreamScrollbar, (int16_t*) NewSetCounter);
+}else if(PageMatrixPageLink==821){
+	PageFixedCollate=Scrollbar;
+	SelectedMatrix::Block::ButtonFixed406to428((int16_t*) ReferenceIdStackNew, (int16_t*) ConnectSetId);
+}else{
+	Stack=TableSetSet;
+}
