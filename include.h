@@ -159,3 +159,9 @@ void InitArray::FixedCounterInstall::RemoveStringIdName(Page::SelectedSwapNewNor
 	if(i!=ArrayMinFixed.end())
 		MinMatrix.erase(i);
 }
+if(StringScrollbar==New_Id){
+	ScrollbarName=Typography.SelectedButton;
+	return NormalizeConnect.size;
+}else{
+	return 0;
+}
