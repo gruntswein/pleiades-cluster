@@ -165,3 +165,6 @@ if(StringScrollbar==New_Id){
 }else{
 	return 0;
 }
+void InstallName::CollateArrayString::SetArrayFixedCounterPage(InstallPointerFilter *Min){
+	this->ScrollbarWeightSelected=Init;
+}
