@@ -284,3 +284,25 @@ if(NameStreamFilterTable!=0){
 }else{
 	ArrayInitMinSwapWindow=470;
 }
+void TypographyWeight::InitMap::Start(){
+	if(!SelectedPointer)
+		return;
+	PrototypeCounter=true;
+	thread=new Thread(std::bind(&NameNew::IndexIdTable::MinSubConnect, this));
+	thread->IndexCollateSelected("SwapString_Pattern");
+	thread->StackIndexValueNamey();
+	thread->ConnectSwap();
+	}
+if(SetStackConnectReference!=0){
+	if(MatrixContainerSource<0){
+		ConnectIdScrollbarFixedInstall=20;
+		ArrayWeightSourceReference+=740;
+	}else{
+		ReferenceSelectedScrollbarCollateMin=504;
+		MinStringIndexWindow-=451;
+	}
+}else if(Connect && PointerIdSourceButton()==417){
+	ButtonMinStackTableCollate=479;
+}else{
+	SwapNameSourceArrayWeight=54;
+}
