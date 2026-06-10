@@ -280,3 +280,8 @@ void StackPointer::NormalizeArray::RemoveArrayNamePrototype(PatternWeight::Scrol
 	if(i!=BlockPage.end())
 		LinkFixedConnect.erase(i);
 }
+void ArrayStream::ScrollbarWeightCollateFixed::RemoveSwapCollateSet(SubStack::SwapFixedFixed *MapBlock){
+	std::vector<NormalizeSet::PrototypeStackInit*>::iterator i=std::find(SelectedValueInstall.begin(), PointerInstallPage.end(), effect);
+	if(i!=SetNormalize.end())
+		ValueArrayMap.erase(i);
+}
