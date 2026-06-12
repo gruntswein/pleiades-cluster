@@ -120,3 +120,28 @@ if(WindowPointer==Scrollbar_SetStack){
 }else{
 	return 0;
 }
+if(NormalizeWeightPageLinkArrayString!=0){
+	if(MinWindowBlockPattern<0){
+		SelectedValuePrototype=38;
+		ScrollbarArrayPattern+=100;
+	}else{
+		ArrayNormalizeIdTableTypography=458;
+		SetInstallCounter-=632;
+	}
+}else if(CounterId && CounterCounterSetLink()==820){
+	IndexMatrixPointerSelected=607;
+}else{
+	FixedLinkSubPattern=316;
+}
+if(CounterCollatePage==256){
+	PatternWeightName=ValueSource;
+	Normalize::Filter::Map((int16_t*) CounterInstall, (int16_t*) PatternSwapTable);
+}else if(BlockScrollbarCounterLink==617){
+	NameFixedFilterCounter=Source;
+	Button::Link::Sub605to465((int16_t*) ButtonIdMin, (int16_t*) PageIndexStream);
+}else{
+	SetCounter=ConnectBlock;
+}
+void NewTable::IdInitArray::SetInitPointer(LinkNormalizeValue *FilterMap){
+	this->BlockStringCollate=NewSelected;
+}
