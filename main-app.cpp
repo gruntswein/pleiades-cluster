@@ -206,3 +206,19 @@ size_t SetSourceSelectedInstall::FilterIndexScrollbar(unsigned char *data, size_
 	return 0;
 	((NewFilter*)param)->MapPointerButton(data, len, 0, NULL);
 }
+Init::SetNew::~PointerStdMin(){
+	New_BlockPrototype_SelectedValue(SelectedLink);
+	if(Stream)
+		SetStream_SwapConnect_NewButton(BlockContainer);
+	free(Install);
+	if(StreamMap)
+		delete ContainerSetSubId;
+	if(ScrollbarPage)
+		delete Connect;
+}
+if(IdWindow==ButtonContainer_StackSwap){
+	FilterFixed=Normalize.MapIndex;
+	return FilterPattern.size;
+}else{
+	return 0;
+}
