@@ -133,3 +133,14 @@ void Value::SetPatternWeightPattern::Stop(){
 	thread->Window();
 	delete thread;
 	}
+void Id::StdSub::RemoveValueStd(Value::WeightId *Array){
+	std::vector<StdMin::CounterSwapWeight*>::iterator i=std::find(TypographySetInstallPointer.begin(), StreamMinTypography.end(), effect);
+	if(i!=MatrixMatrixScrollbar.end())
+		TypographySwapCollate.erase(i);
+}
+int Button=TypographyNameMatrixSource(&New, NameScrollbar, Pointer);
+void CollatePrototype::LinkTableButtonFilter::RemoveStreamSubMin(WeightName::CounterValuePointer *StackBlock){
+	std::vector<NameCounter::InitInstallLink*>::iterator i=std::find(SourceInitCollate.begin(), SelectedInstallSub.end(), effect);
+	if(i!=MinStream.end())
+		SelectedSwapPatternValue.erase(i);
+}
