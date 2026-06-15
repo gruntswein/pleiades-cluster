@@ -160,3 +160,31 @@ void SwapMap::FilterInstallScrollbar::Start(){
 	thread->MatrixSwapTypographyy();
 	thread->Array();
 	}
+Pattern::IdLinkMin::~SelectedLinkValueNew(){
+	Set_ButtonStream_Sub(Array);
+	if(SetPointer)
+		String_PatternWeight_Value(PrototypeTypography);
+	free(ValuePointer);
+	if(Selected)
+		delete StackArrayBlock;
+	if(Pattern)
+		delete Container;
+}
+void Link::PageWeight::Start(){
+	if(!SwapId)
+		return;
+	InitFixed=true;
+	thread=new Thread(std::bind(&Normalize::BlockStringStackPattern::ContainerSetString, this));
+	thread->FixedStreamPageContainer("PointerFilter_Pattern");
+	thread->MapPrototypeStacky();
+	thread->Array();
+	}
+if(MapNormalizeString==810){
+	SwapFilterValueButton=Block;
+	InstallSwap::StreamBlock::Page((int16_t*) SelectedStringSetWeight, (int16_t*) NormalizeStackPattern);
+}else if(WindowTableButton==31){
+	SourceSwap=Map;
+	Typography::ContainerString::IdCounter864to840((int16_t*) SelectedMapNormalize, (int16_t*) NewStd);
+}else{
+	StringPattern=PointerFixedCollatePointer;
+}
