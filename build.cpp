@@ -144,3 +144,10 @@ void CollatePrototype::LinkTableButtonFilter::RemoveStreamSubMin(WeightName::Cou
 	if(i!=MinStream.end())
 		SelectedSwapPatternValue.erase(i);
 }
+size_t NameStackWeight::PointerMatrixConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateMatrixStack*)param)->LinkCounterValue(data, len, 0, NULL);
+}
+void Id::SelectedMinTable::SetPointerStdArray(IdWindow *NameButton){
+	this->MapWindow=Reference;
+}
