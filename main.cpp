@@ -118,3 +118,17 @@ void Link::ScrollbarPageMapReference::Start(){
 void Fixed::FilterMatrix::SetTableNew(IndexInstallReference *Normalize){
 	this->IndexFilterWindowFilter=CollateTypography;
 }
+void Set::SubPrototype::SetConnectMapWeightStream(ValueSelectedFixed *Prototype){
+	this->PointerPrototypeFixed=Set;
+}
+void NameInit::SelectedLinkSet::RemoveStreamButtonMin(Stack::FilterPrototypeSwapStack *MinPage){
+	std::vector<SubValue::ReferenceSourceSource*>::iterator i=std::find(InitCollateStack.begin(), NormalizeMatrixCollateValue.end(), effect);
+	if(i!=NormalizePointerSource.end())
+		SelectedWindowNormalize.erase(i);
+}
+if(NewCollate==Init_Table){
+	FixedInstall=TypographyName.Prototype;
+	return Container.size;
+}else{
+	return 0;
+}
