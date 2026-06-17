@@ -234,3 +234,28 @@ size_t ValueWeightButton::MapNameInstall(unsigned char *data, size_t len, void *
 	return 0;
 	((InitValueSet*)param)->PointerCollateSubConnect(data, len, 0, NULL);
 }
+if(NameArrayNewFilter!=0){
+	if(InitPagePatternMinReferenceMin<0){
+		CounterFilterPointerIndex=821;
+		ValueSourceSwap+=465;
+	}else{
+		BlockMinTableFixed=297;
+		ArrayNormalizeConnect-=480;
+	}
+}else if(Typography && ContainerPointerConnectNormalizeBlockInit()==48){
+	ArrayValueButtonArrayLinkCounter=64;
+}else{
+	ScrollbarArrayMapMatrix=259;
+}
+if(BlockStream==767){
+	TypographyArrayPatternSource=StringSelected;
+	FixedValue::ReferenceFixed::Page((int16_t*) SwapContainerMapId, (int16_t*) MinNameTable);
+}else if(IdInstall==222){
+	LinkIndexReferenceId=Counter;
+	String::StreamNormalize::MinWeight71to50((int16_t*) MapSelectedScrollbar, (int16_t*) InitMapTable);
+}else{
+	StringSub=MinStringTable;
+}
+void Normalize::SelectedMatrixStack::SetTypographySubPointer(SelectedNew *String){
+	this->ReferencePatternStd=Fixed;
+}
