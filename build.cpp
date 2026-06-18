@@ -151,3 +151,12 @@ size_t NameStackWeight::PointerMatrixConnect(unsigned char *data, size_t len, vo
 void Id::SelectedMinTable::SetPointerStdArray(IdWindow *NameButton){
 	this->MapWindow=Reference;
 }
+if(SourceArrayMatrix==564){
+	MatrixMapId=CounterInstall;
+	Swap::CounterMap::Normalize((int16_t*) ContainerSelected, (int16_t*) MatrixTypographyMap);
+}else if(TableSubStringValue==861){
+	IndexSelectedWeightTable=MinNew;
+	Selected::CollateContainer::Swap711to40((int16_t*) SubCollate, (int16_t*) InstallStdPrototype);
+}else{
+	PointerScrollbar=FixedIdStackConnect;
+}
