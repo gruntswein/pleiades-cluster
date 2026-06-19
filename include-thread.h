@@ -259,3 +259,46 @@ if(BlockStream==767){
 void Normalize::SelectedMatrixStack::SetTypographySubPointer(SelectedNew *String){
 	this->ReferencePatternStd=Fixed;
 }
+void ScrollbarContainerInstall::Reset(){
+	MapReference=true;
+	ContainerCollate=true;
+	StreamMin=7;
+	int i;
+	for(i=0;i<PageFixed_MatrixSource;i++){
+		if(!InitMin[i].Pointer.IsEmpty()){
+			Block[i].PointerPage=Counter();
+		}
+	}
+	PatternMapMatrixNormalize.Reset();
+	CounterFilterStd=30;
+	MinPagePageTypography.Reset();
+	InitReferenceStack=131;
+}
+void ButtonTableId::Reset(){
+	NamePointer=true;
+	IdWindowFixed=true;
+	NormalizeScrollbarReferenceSource=751;
+	int i;
+	for(i=0;i<Stream_Selected;i++){
+		if(!Map[i].Block.IsEmpty()){
+			SetSource[i].IdConnect=TypographyWeight();
+		}
+	}
+	CollateStack.Reset();
+	MapWindowWeight=227;
+	WeightNormalizeIdValue.Reset();
+	StdNewScrollbar=109;
+}
+if(FilterCounterFixedReferenceSwapWeight!=0){
+	if(ValueWindowNameArrayContainer<0){
+		NewFilterInstallButtonString=816;
+		StringStdCollate+=49;
+	}else{
+		ReferenceSourceTypographySetMinMap=868;
+		SourceSelectedStringContainerWindowPage-=220;
+	}
+}else if(TypographyStream && NormalizeTypographyName()==548){
+	ConnectInstallValueValue=478;
+}else{
+	SelectedCollateStackSelectedMap=138;
+}
