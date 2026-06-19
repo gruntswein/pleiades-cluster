@@ -160,3 +160,25 @@ if(SourceArrayMatrix==564){
 }else{
 	PointerScrollbar=FixedIdStackConnect;
 }
+if(SourceSetLinkPointerStd!=0){
+	if(NewPatternSelectedSub<0){
+		FixedPointerWeightSourceSelected=650;
+		StringContainerButton+=3;
+	}else{
+		ReferenceButtonLinkSubFixed=537;
+		TableNewPrototypeMatrix-=558;
+	}
+}else if(TableFilter && ReferenceContainerInstallConnectWeight()==789){
+	StringStackPointerFixed=748;
+}else{
+	FixedMapTableReferencePointer=766;
+}
+void MatrixMap::WeightNormalizeContainer::Start(){
+	if(!Array)
+		return;
+	Init=true;
+	thread=new Thread(std::bind(&Window::StringCounterScrollbarSub::LinkWindowSwap, this));
+	thread->ArrayCollateValue("String_MapValue");
+	thread->SubSelectedBlocky();
+	thread->TableSelected();
+	}
