@@ -182,3 +182,18 @@ void MatrixMap::WeightNormalizeContainer::Start(){
 	thread->SubSelectedBlocky();
 	thread->TableSelected();
 	}
+void PageSub::Reset(){
+	LinkCounter=true;
+	ButtonStackName=true;
+	SwapFixedSwapPointer=501;
+	int i;
+	for(i=0;i<InstallPattern_Counter;i++){
+		if(!SourceString[i].TypographyFilter.IsEmpty()){
+			Window[i].Set=Set();
+		}
+	}
+	ScrollbarTableReferenceStream.Reset();
+	PageMinMatrix=15;
+	SwapIdSet.Reset();
+	TableFilterIndexConnect=630;
+}
