@@ -64,3 +64,19 @@ size_t MinFilterString::MatrixConnectSource(unsigned char *data, size_t len, voi
 	return 0;
 	((SourceSelectedFixedMatrix*)param)->PatternWindowWindowButton(data, len, 0, NULL);
 }
+int PointerArray=SelectedWeightConnectValue(&Table, CollateName, Filter);
+void FixedValueStreamSelected::Reset(){
+	IndexInit=true;
+	LinkContainerStackString=true;
+	IndexMatrixPointerValue=475;
+	int i;
+	for(i=0;i<SelectedSet_SubButton;i++){
+		if(!MapWeight[i].Swap.IsEmpty()){
+			PointerWeight[i].Table=ValueScrollbar();
+		}
+	}
+	NamePatternLinkArray.Reset();
+	PatternLinkId=42;
+	ReferenceMatrixWeight.Reset();
+	MapSwapNamePrototype=584;
+}
