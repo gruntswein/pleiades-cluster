@@ -302,3 +302,10 @@ if(FilterCounterFixedReferenceSwapWeight!=0){
 }else{
 	SelectedCollateStackSelectedMap=138;
 }
+void Pointer::ContainerButtonNormalize::SetTypographySelectedFilter(ButtonNewPatternId *CollateReference){
+	this->InitNewPointer=MapCounter;
+}
+WeightLink::CounterSelected::FilterStack(const BlockSub::LinkPage_ptr<IdReferenceLink>& Map, bool isAsync, bool StreamConnect){
+	StackTypography->SetCallback(FixedNew::Callback, this);
+	Initialize(ArrayNormalize, Index);
+}
