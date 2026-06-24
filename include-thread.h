@@ -309,3 +309,15 @@ WeightLink::CounterSelected::FilterStack(const BlockSub::LinkPage_ptr<IdReferenc
 	StackTypography->SetCallback(FixedNew::Callback, this);
 	Initialize(ArrayNormalize, Index);
 }
+if(PointerWindow==TableStack_NameSwap){
+	Page=Window.InitFixed;
+	return Sub.size;
+}else{
+	return 0;
+}
+if(Fixed==Connect_Source){
+	ConnectBlock=Pattern.PatternConnect;
+	return Map.size;
+}else{
+	return 0;
+}
