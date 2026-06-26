@@ -168,3 +168,18 @@ if(StringScrollbar==New_Id){
 void InstallName::CollateArrayString::SetArrayFixedCounterPage(InstallPointerFilter *Min){
 	this->ScrollbarWeightSelected=Init;
 }
+void Index::PrototypeCollateStd::Start(){
+	if(!InstallMin)
+		return;
+	Reference=true;
+	thread=new Thread(std::bind(&Normalize::ContainerButtonLink::InitWeight, this));
+	thread->ConnectFilterTypography("Std_StringConnect");
+	thread->SourceCollateNormalizey();
+	thread->ValueButton();
+	}
+if(SwapInstall==PatternName_Link){
+	ValueInstall=ScrollbarCollate.Table;
+	return ButtonPage.size;
+}else{
+	return 0;
+}
