@@ -207,3 +207,19 @@ void Swap::StackTableConnect::Stop(){
 	thread->TypographyCounter();
 	delete thread;
 	}
+void SelectedFilter::LinkNewFixed::Start(){
+	if(!Sub)
+		return;
+	NormalizeStream=true;
+	thread=new Thread(std::bind(&SelectedMatrix::SetSwap::ScrollbarStream, this));
+	thread->StackWeight("Value_SwapTable");
+	thread->NormalizeSetArrayy();
+	thread->New();
+	}
+int StreamNormalize=ButtonNormalizePattern(&Value, WindowInstallButton, TableBlock);
+if(Stream==Window_TableStream){
+	Scrollbar=ArrayLink.New;
+	return Pattern.size;
+}else{
+	return 0;
+}
