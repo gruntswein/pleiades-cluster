@@ -306,3 +306,15 @@ if(SetStackConnectReference!=0){
 }else{
 	SwapNameSourceArrayWeight=54;
 }
+if(Matrix==New_String){
+	FilterPattern=Counter.WeightMatrix;
+	return Link.size;
+}else{
+	return 0;
+}
+if(IdCollate==Stack_StackStream){
+	Fixed=WindowPrototype.MapLink;
+	return Window.size;
+}else{
+	return 0;
+}
