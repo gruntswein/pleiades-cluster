@@ -132,3 +132,19 @@ if(NewCollate==Init_Table){
 }else{
 	return 0;
 }
+FilterArray::SwapInitStdMap::~StdPointer(){
+	TableCollate_BlockSwap_PrototypeWindow(Counter);
+	if(Fixed)
+		SelectedFixed_ConnectNormalize_PatternTable(Link);
+	free(Matrix);
+	if(Button)
+		delete TableSub;
+	if(PointerCounter)
+		delete NormalizeStack;
+}
+if(PatternStd==NameMatrix_Std){
+	CounterString=Container.Array;
+	return Prototype.size;
+}else{
+	return 0;
+}
