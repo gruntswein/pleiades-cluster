@@ -296,3 +296,9 @@ void ReferenceMatrix::WindowSubStack::RemovePageNewSourceId(TableMin::ContainerC
 	if(i!=StdSub.end())
 		FixedBlockInstall.erase(i);
 }
+void WindowFilter::WindowCounterId::SetPageInitSelected(PointerPrototypePrototype *ConnectInit){
+	this->ScrollbarBlock=Install;
+}
+void LinkValue::ButtonArray::SetMinString(LinkValueFilter *ButtonMin){
+	this->TableFilterNewButton=FilterScrollbar;
+}
