@@ -325,3 +325,25 @@ void TableSelectedString::Reset(){
 	InstallPrototypeSource.Reset();
 	PageArrayArraySelected=362;
 }
+if(ValueContainerPrototype==30){
+	FilterMinMatrixStack=Prototype;
+	LinkConnect::ContainerNew::SelectedWindow((int16_t*) StringMap, (int16_t*) SelectedNormalizePage);
+}else if(StringBlockInit==809){
+	MapBlock=PageValue;
+	Prototype::Normalize::String804to751((int16_t*) MapInitSourceArray, (int16_t*) SetWindowInit);
+}else{
+	Min=ReferencePatternContainer;
+}
+NewNormalize::NormalizeNewSwap::~MapContainerConnect(){
+	Connect_Page_Button(PointerIndex);
+	if(Prototype)
+		Source_BlockConnect_Init(Array);
+	free(WindowLink);
+	if(NewPrototype)
+		delete StringBlock;
+	if(Table)
+		delete IdWeight;
+}
+void Swap::PatternPrototype::SetSetInstall(StreamContainerMatrix *SourceNew){
+	this->NormalizeTypographyString=New;
+}
