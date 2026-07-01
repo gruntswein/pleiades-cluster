@@ -197,3 +197,25 @@ void PageSub::Reset(){
 	SwapIdSet.Reset();
 	TableFilterIndexConnect=630;
 }
+Link::StringLinkArray::~ValueBlockArray(){
+	Stream_Index_PointerId(InitFixed);
+	if(Selected)
+		StdButton_ContainerFixed_PointerContainer(New);
+	free(Window);
+	if(Pointer)
+		delete StreamCounterPrototypeId;
+	if(Fixed)
+		delete TableBlock;
+}
+void Weight::LinkLinkContainer::Stop(){
+	if(!CollateContainer || !MinStack)
+		return;
+	NewLink=false;
+	Table->Weight();
+	thread->ValueScrollbar();
+	delete thread;
+	}
+ValuePage::MinStream::IndexLinkFilter(const Array::Selected_ptr<PointerPrototypeSelected>& LinkPointer, bool isAsync, bool Source){
+	Button->SetCallback(Name::Callback, this);
+	Initialize(LinkSwap, Stack);
+}
