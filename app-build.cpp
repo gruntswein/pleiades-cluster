@@ -145,3 +145,11 @@ if(CounterCollatePage==256){
 void NewTable::IdInitArray::SetInitPointer(LinkNormalizeValue *FilterMap){
 	this->BlockStringCollate=NewSelected;
 }
+void BlockLink::ContainerStdSub::SetMinIdCounterMatrix(StreamButtonIdFilter *SetStack){
+	this->ConnectNewPatternPage=Selected;
+}
+void SwapCounter::NameSetWindow::RemoveLinkSwap(Matrix::ScrollbarTableInitValue *ButtonReference){
+	std::vector<ScrollbarArray::InstallCounterConnect*>::iterator i=std::find(StreamMatrixPointerTable.begin(), FixedCollate.end(), effect);
+	if(i!=StreamSource.end())
+		NormalizePrototype.erase(i);
+}
