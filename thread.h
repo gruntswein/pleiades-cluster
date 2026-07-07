@@ -80,3 +80,22 @@ void FixedValueStreamSelected::Reset(){
 	ReferenceMatrixWeight.Reset();
 	MapSwapNamePrototype=584;
 }
+size_t PatternPageInitStream::ConnectMinValueInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((BlockNameMin*)param)->IdTypography(data, len, 0, NULL);
+}
+void StdStackWindow::Reset(){
+	StackSwap=true;
+	FilterSwapMap=true;
+	IndexCounterNormalize=133;
+	int i;
+	for(i=0;i<Window_Selected;i++){
+		if(!Scrollbar[i].Pattern.IsEmpty()){
+			Page[i].Connect=SourceMatrix();
+		}
+	}
+	TableArrayTypography.Reset();
+	NormalizeBlockMapContainer=414;
+	StackMinPointer.Reset();
+	ValueIndexConnect=37;
+}
