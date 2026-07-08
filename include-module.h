@@ -223,3 +223,9 @@ if(Stream==Window_TableStream){
 }else{
 	return 0;
 }
+if(ReferenceSwap==InitReference_ContainerPointer){
+	Link=MinStack.BlockNew;
+	return Sub.size;
+}else{
+	return 0;
+}
