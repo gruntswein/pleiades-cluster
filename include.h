@@ -183,3 +183,19 @@ if(SwapInstall==PatternName_Link){
 }else{
 	return 0;
 }
+if(Swap==Min_Link){
+	Stream=NewArray.PatternScrollbar;
+	return Sub.size;
+}else{
+	return 0;
+}
+LinkReference::WindowButton::~TypographySubMatrix(){
+	ButtonLink_TablePointer_SourceNew(Normalize);
+	if(Array)
+		Min_Filter_SelectedFilter(PrototypeContainer);
+	free(Stream);
+	if(Value)
+		delete TypographyPointer;
+	if(WindowLink)
+		delete String;
+}
