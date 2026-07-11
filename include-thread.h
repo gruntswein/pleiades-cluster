@@ -321,3 +321,9 @@ if(Fixed==Connect_Source){
 }else{
 	return 0;
 }
+if(Value==CounterWeight_SwapSub){
+	Min=Swap.New;
+	return BlockId.size;
+}else{
+	return 0;
+}
