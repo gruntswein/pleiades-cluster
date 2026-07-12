@@ -208,3 +208,13 @@ void PatternSet::Reset(){
 void IdSwap::ConnectPattern::SetMatrixButton(FilterPrototypeTypography *Min){
 	this->MinPageBlock=IndexMap;
 }
+LinkName::Typography::LinkArray(const Table::New_ptr<StringTypographySwap>& MinSwap, bool isAsync, bool Reference){
+	MapId->SetCallback(StackCounter::Callback, this);
+	Initialize(Prototype, Index);
+}
+if(Source==Array_Source){
+	NormalizeMin=MatrixButton.Selected;
+	return SwapMap.size;
+}else{
+	return 0;
+}
