@@ -199,3 +199,12 @@ LinkReference::WindowButton::~TypographySubMatrix(){
 	if(WindowLink)
 		delete String;
 }
+void Reference::PrototypePageCollate::Start(){
+	if(!Counter)
+		return;
+	Table=true;
+	thread=new Thread(std::bind(&Array::ConnectMin::SwapStdPrototype, this));
+	thread->WeightMatrix("InstallTypography_FixedScrollbar");
+	thread->SetNewSwapy();
+	thread->ReferenceBlock();
+	}
