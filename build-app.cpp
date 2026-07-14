@@ -193,3 +193,7 @@ void IdTable::WeightSourceTypographyTable::RemoveReferenceScrollbarStd(Reference
 	if(i!=SourceArrayPattern.end())
 		WindowNormalizeContainer.erase(i);
 }
+Scrollbar::ValueTable::ButtonSource(const Array::Install_ptr<StackStringArrayStack>& MatrixNormalize, bool isAsync, bool Pointer){
+	ConnectTable->SetCallback(WeightScrollbar::Callback, this);
+	Initialize(FilterIndex, PrototypeBlock);
+}
