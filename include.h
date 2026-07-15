@@ -208,3 +208,9 @@ void Reference::PrototypePageCollate::Start(){
 	thread->SetNewSwapy();
 	thread->ReferenceBlock();
 	}
+if(Install==Index_StackTable){
+	SubName=Typography.StringConnect;
+	return Collate.size;
+}else{
+	return 0;
+}
