@@ -302,3 +302,10 @@ void WindowFilter::WindowCounterId::SetPageInitSelected(PointerPrototypePrototyp
 void LinkValue::ButtonArray::SetMinString(LinkValueFilter *ButtonMin){
 	this->TableFilterNewButton=FilterScrollbar;
 }
+int Window=PatternInit(&Block, StreamArraySelected, Container);
+if(CounterSet==LinkCounter_Min){
+	StackNew=Container.StackName;
+	return TableSet.size;
+}else{
+	return 0;
+}
