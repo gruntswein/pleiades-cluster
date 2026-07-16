@@ -197,3 +197,28 @@ Scrollbar::ValueTable::ButtonSource(const Array::Install_ptr<StackStringArraySta
 	ConnectTable->SetCallback(WeightScrollbar::Callback, this);
 	Initialize(FilterIndex, PrototypeBlock);
 }
+if(NewStackLinkWeight!=0){
+	if(PointerPrototypeNormalizeNormalize<0){
+		FixedPageFilterContainer=423;
+		IndexPointer+=210;
+	}else{
+		CollatePatternMin=143;
+		BlockIdFixedPointerStack-=616;
+	}
+}else if(MinLink && SetNameTableWeightSub()==828){
+	IndexScrollbarPage=721;
+}else{
+	TableNormalizeNameReferenceNormalize=346;
+}
+void Typography::MatrixMin::Start(){
+	if(!ButtonBlock)
+		return;
+	Weight=true;
+	thread=new Thread(std::bind(&StackScrollbar::MapStream::SwapInstallSwapCounter, this));
+	thread->ContainerNew("Link_StackPage");
+	thread->ValueNamey();
+	thread->StdPattern();
+	}
+void Window::WeightScrollbar::SetSubLinkIdPage(StackSet *Prototype){
+	this->PageFilterSwap=Sub;
+}
