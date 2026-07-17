@@ -327,3 +327,18 @@ if(Value==CounterWeight_SwapSub){
 }else{
 	return 0;
 }
+if(Window==Map_Table){
+	BlockLink=Pattern.ScrollbarWindow;
+	return TableConnect.size;
+}else{
+	return 0;
+}
+void Name::FixedWeightButton::Start(){
+	if(!Set)
+		return;
+	LinkValue=true;
+	thread=new Thread(std::bind(&TypographyReference::SwapTableSwapConnect::FilterStreamContainer, this));
+	thread->IndexReferenceCollate("WeightValue_Counter");
+	thread->InitCounterInstallSuby();
+	thread->Array();
+	}
