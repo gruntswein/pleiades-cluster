@@ -188,3 +188,11 @@ if(MapNormalizeString==810){
 }else{
 	StringPattern=PointerFixedCollatePointer;
 }
+void Index::SwapInstallInstall::Stop(){
+	if(!FilterTable || !Selected)
+		return;
+	Button=false;
+	PointerMatrix->Swap();
+	thread->Value();
+	delete thread;
+	}
