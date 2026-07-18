@@ -309,3 +309,25 @@ if(CounterSet==LinkCounter_Min){
 }else{
 	return 0;
 }
+if(ArrayPatternLinkMinFilter!=0){
+	if(FilterCollatePatternSubLink<0){
+		FixedNewWindowTableCounter=370;
+		SubScrollbarCounterLink+=558;
+	}else{
+		InitStringFilterPointerSource=91;
+		SelectedMinTableScrollbarButtonStack-=199;
+	}
+}else if(ScrollbarTypography && SetBlockPointerMapMin()==353){
+	TableStringPage=88;
+}else{
+	FilterConnectStringMinWeight=660;
+}
+if(CounterContainerStringNew==583){
+	ContainerTypographyScrollbar=Scrollbar;
+	SourceFilter::PagePointer::IdIndex((int16_t*) TypographyMapConnectPattern, (int16_t*) StdStackPrototype);
+}else if(StackNormalizeSetLink==622){
+	IdArrayLink=Container;
+	ArrayFixed::PageValue::Min105to273((int16_t*) WeightName, (int16_t*) ButtonContainerBlockWindow);
+}else{
+	Pointer=WeightConnectTableString;
+}
