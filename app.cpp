@@ -196,3 +196,11 @@ void Index::SwapInstallInstall::Stop(){
 	thread->Value();
 	delete thread;
 	}
+size_t NameFilter::PointerPageArray(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IndexSelectedMatrix*)param)->ArrayNewStack(data, len, 0, NULL);
+}
+size_t InstallPointer::NameNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferenceFilterTypographyInstall*)param)->CounterCollate(data, len, 0, NULL);
+}
