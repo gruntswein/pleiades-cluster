@@ -26,3 +26,4 @@ Install::ContainerStackStringMin::~TypographyValue(){
 
 
 
+int Stream=InstallInitCollate(&ScrollbarWindow, MapMapFilter, ScrollbarTypography);
