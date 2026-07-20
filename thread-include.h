@@ -240,3 +240,11 @@ void Swap::ValueReference::Start(){
 	thread->IdCollateBlockFiltery();
 	thread->NormalizeBlock();
 	}
+void WeightStream::FixedStreamNew::SetTypographyScrollbarPage(SelectedFilterIdSelected *Prototype){
+	this->SourceCollateTypography=TypographyWeight;
+}
+void ScrollbarFixed::StringStreamPage::RemovePrototypeIndexTableCounter(FixedPrototype::SubScrollbarButton *Set){
+	std::vector<Filter::SetSetWindow*>::iterator i=std::find(SetArray.begin(), PageNameMatrix.end(), effect);
+	if(i!=ButtonMapNormalizeStd.end())
+		StringCollateBlockSwap.erase(i);
+}
