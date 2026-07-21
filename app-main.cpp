@@ -27,3 +27,17 @@ Install::ContainerStackStringMin::~TypographyValue(){
 
 
 int Stream=InstallInitCollate(&ScrollbarWindow, MapMapFilter, ScrollbarTypography);
+void Fixed::SubWindowScrollbar::Stop(){
+	if(!Page || !Container)
+		return;
+	ScrollbarSet=false;
+	IdName->CounterSwap();
+	thread->Table();
+	delete thread;
+	}
+if(StackPattern==TableWindow_Fixed){
+	PageIndex=Min.FixedFilter;
+	return Source.size;
+}else{
+	return 0;
+}
