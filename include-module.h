@@ -229,3 +229,15 @@ if(ReferenceSwap==InitReference_ContainerPointer){
 }else{
 	return 0;
 }
+if(Normalize==Stream_NormalizeBlock){
+	ButtonIndex=Value.WindowPattern;
+	return Reference.size;
+}else{
+	return 0;
+}
+if(MinPattern==Weight_Matrix){
+	Name=Map.MinNew;
+	return Container.size;
+}else{
+	return 0;
+}
