@@ -204,3 +204,26 @@ size_t InstallPointer::NameNew(unsigned char *data, size_t len, void *param){
 	return 0;
 	((ReferenceFilterTypographyInstall*)param)->CounterCollate(data, len, 0, NULL);
 }
+if(SetStackBlock!=0){
+	if(MinPatternSourceId<0){
+		NameReferenceTableValueSource=695;
+		SourcePointerTypographyString+=385;
+	}else{
+		NewWindowCollateInitInit=806;
+		SwapButtonButtonTableId-=692;
+	}
+}else if(TypographyArray && SelectedCounterNormalizeCounterReferenceValue()==525){
+	PrototypeReferenceWindow=594;
+}else{
+	CollateInitReferenceInstall=859;
+}
+Id::SwapLinkWeightTypography::~NameLink(){
+	ValueInit_SourceReference_Min(ValueNormalize);
+	if(Link)
+		Scrollbar_StreamFixed_CollateFixed(StringBlock);
+	free(BlockSwap);
+	if(Link)
+		delete SourcePatternArraySelected;
+	if(Typography)
+		delete FilterNew;
+}
