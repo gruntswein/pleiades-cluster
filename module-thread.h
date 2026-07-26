@@ -218,3 +218,12 @@ if(Source==Array_Source){
 }else{
 	return 0;
 }
+void Filter::CounterCollate::Start(){
+	if(!Collate)
+		return;
+	CounterBlock=true;
+	thread=new Thread(std::bind(&InitPattern::WeightReferenceStream::ContainerLinkName, this));
+	thread->InitBlockName("StreamInstall_PointerMap");
+	thread->PageButtonStdy();
+	thread->Connect();
+	}
