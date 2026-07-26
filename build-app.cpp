@@ -222,3 +222,25 @@ void Typography::MatrixMin::Start(){
 void Window::WeightScrollbar::SetSubLinkIdPage(StackSet *Prototype){
 	this->PageFilterSwap=Sub;
 }
+if(InstallFilterInit==790){
+	IdLinkNormalize=Stack;
+	Prototype::StackScrollbar::WindowSub((int16_t*) SwapSelectedNew, (int16_t*) MinContainerSetNormalize);
+}else if(ConnectNormalize==42){
+	MatrixSelectedMatrix=Weight;
+	Window::Window::PrototypeInit767to412((int16_t*) InitTable, (int16_t*) ConnectPrototypeCounter);
+}else{
+	Install=IndexIdWindow;
+}
+WindowFilter::ArrayTypographyArray::~WeightPattern(){
+	Id_Table_Filter(ScrollbarConnect);
+	if(Scrollbar)
+		Selected_Connect_Page(Matrix);
+	free(Table);
+	if(ReferenceSelected)
+		delete SubBlockContainerMin;
+	if(FixedMin)
+		delete BlockValue;
+}
+void SetScrollbar::ContainerStringLink::SetArraySwapWindow(IdPageLink *InitCounter){
+	this->InstallMatrixMap=TableString;
+}
