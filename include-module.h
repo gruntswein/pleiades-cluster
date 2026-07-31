@@ -241,3 +241,9 @@ if(MinPattern==Weight_Matrix){
 }else{
 	return 0;
 }
+if(Normalize==LinkStream_WindowCounter){
+	Pattern=Value.Stack;
+	return WeightScrollbar.size;
+}else{
+	return 0;
+}
