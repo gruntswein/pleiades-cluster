@@ -227,3 +227,8 @@ Id::SwapLinkWeightTypography::~NameLink(){
 	if(Typography)
 		delete FilterNew;
 }
+int StringReference=CounterInstallPrototype(&Name, SwapSet, Table);
+size_t MapCollateContainer::FilterIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarPrototypeStack*)param)->ConnectConnect(data, len, 0, NULL);
+}
