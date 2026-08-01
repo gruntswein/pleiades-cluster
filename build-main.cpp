@@ -285,3 +285,30 @@ void ArrayStream::ScrollbarWeightCollateFixed::RemoveSwapCollateSet(SubStack::Sw
 	if(i!=SetNormalize.end())
 		ValueArrayMap.erase(i);
 }
+if(Normalize==TableInstall_NameId){
+	Set=Stack.Pattern;
+	return Fixed.size;
+}else{
+	return 0;
+}
+if(FixedNew==PageTable_Reference){
+	Sub=SetMatrix.Array;
+	return Filter.size;
+}else{
+	return 0;
+}
+void SubStream::Reset(){
+	StreamFixed=true;
+	StackButtonStackString=true;
+	SourceFilterWeight=782;
+	int i;
+	for(i=0;i<Scrollbar_Init;i++){
+		if(!IdMap[i].PrototypeFixed.IsEmpty()){
+			Set[i].NameId=Page();
+		}
+	}
+	SelectedStreamWindowInit.Reset();
+	ValueWindowCollateTypography=625;
+	PageCollate.Reset();
+	ArraySelected=583;
+}
