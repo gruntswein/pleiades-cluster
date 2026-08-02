@@ -153,3 +153,26 @@ void SwapCounter::NameSetWindow::RemoveLinkSwap(Matrix::ScrollbarTableInitValue 
 	if(i!=StreamSource.end())
 		NormalizePrototype.erase(i);
 }
+FixedString::PageCounterCounterPage::~ConnectSubPointer(){
+	Prototype_NormalizeTypography_BlockMap(PrototypeNormalize);
+	if(Connect)
+		ValueTypography_Array_TableString(InstallReference);
+	free(ArrayCounter);
+	if(MinMatrix)
+		delete SelectedNamePatternCounter;
+	if(Init)
+		delete WindowCollate;
+}
+if(MinCounterSourcePrototypeConnectMap!=0){
+	if(SelectedStreamValueSet<0){
+		ContainerFixedIndexWeightNormalize=578;
+		NameFilter+=900;
+	}else{
+		SetStackPageValue=708;
+		CollateFixedSelectedInitInstallValue-=134;
+	}
+}else if(NewInit && StackNormalizePrototypeReferenceCollate()==78){
+	LinkMinInitTypographyStream=611;
+}else{
+	PointerFixedNewPattern=170;
+}
