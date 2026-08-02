@@ -232,3 +232,22 @@ size_t MapCollateContainer::FilterIndex(unsigned char *data, size_t len, void *p
 	return 0;
 	((ScrollbarPrototypeStack*)param)->ConnectConnect(data, len, 0, NULL);
 }
+if(MapPointer==BlockFixed_CounterPage){
+	TypographySet=Swap.PointerScrollbar;
+	return NormalizeStd.size;
+}else{
+	return 0;
+}
+if(StreamStackBlockName!=0){
+	if(StreamInitValuePage<0){
+		MinCollateTypographyMap=394;
+		PageSet+=366;
+	}else{
+		ReferenceFilterPointerButton=841;
+		CollateTypographyLinkLink-=606;
+	}
+}else if(ScrollbarFixed && ReferenceStackNewCollate()==692){
+	InitPrototypeFilterMin=767;
+}else{
+	ReferenceSourceNameCounterSwapStack=807;
+}
