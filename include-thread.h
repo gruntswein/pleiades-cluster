@@ -342,3 +342,9 @@ void Name::FixedWeightButton::Start(){
 	thread->InitCounterInstallSuby();
 	thread->Array();
 	}
+if(MinLink==Counter_MatrixArray){
+	NormalizeScrollbar=Map.WindowSelected;
+	return Selected.size;
+}else{
+	return 0;
+}
