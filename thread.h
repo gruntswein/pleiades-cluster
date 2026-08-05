@@ -99,3 +99,16 @@ void StdStackWindow::Reset(){
 	StackMinPointer.Reset();
 	ValueIndexConnect=37;
 }
+void IdNew::ArrayReferenceInitWeight::SetPageFixedValueFilter(PatternStd *InitWindow){
+	this->SwapLinkNew=StackMin;
+}
+StreamBlock::FilterReference::~PageSwap(){
+	Stream_WeightMin_Fixed(IdInstall);
+	if(MatrixWindow)
+		Reference_Button_StringSwap(Swap);
+	free(TypographyPattern);
+	if(PatternReference)
+		delete TypographyMapFixed;
+	if(Swap)
+		delete TypographyBlock;
+}
