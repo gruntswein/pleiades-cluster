@@ -251,3 +251,9 @@ if(StreamStackBlockName!=0){
 }else{
 	ReferenceSourceNameCounterSwapStack=807;
 }
+if(CollateTable==SourceTable_ArrayStack){
+	Button=Counter.Container;
+	return InitStream.size;
+}else{
+	return 0;
+}
