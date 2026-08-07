@@ -247,3 +247,23 @@ if(Normalize==LinkStream_WindowCounter){
 }else{
 	return 0;
 }
+MatrixConnect::ReferenceValueSwap::~SelectedLinkPointerButton(){
+	Set_Install_Stack(LinkStack);
+	if(IdCounter)
+		Index_Scrollbar_SelectedMatrix(Link);
+	free(Source);
+	if(PointerPrototype)
+		delete InstallSwap;
+	if(StreamSwap)
+		delete MinReference;
+}
+IdSwap::IdConnectWindowSub::~PointerReference(){
+	Value_Page_Block(WindowString);
+	if(ReferenceConnect)
+		PointerStack_FilterStack_Normalize(Container);
+	free(InitMatrix);
+	if(FixedScrollbar)
+		delete CounterNewIdWindow;
+	if(Source)
+		delete MapCollate;
+}
