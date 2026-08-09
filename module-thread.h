@@ -227,3 +227,9 @@ void Filter::CounterCollate::Start(){
 	thread->PageButtonStdy();
 	thread->Connect();
 	}
+if(NameMap==InitPrototype_Map){
+	Init=ArrayMin.Name;
+	return SubMap.size;
+}else{
+	return 0;
+}
