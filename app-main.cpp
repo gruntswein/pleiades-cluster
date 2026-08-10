@@ -41,3 +41,18 @@ if(StackPattern==TableWindow_Fixed){
 }else{
 	return 0;
 }
+NewPage::Stream::SetPointerScrollbar(const Container::Pointer_ptr<BlockMap>& StreamId, bool isAsync, bool InitPointer){
+	SelectedPointer->SetCallback(MinSource::Callback, this);
+	Initialize(Array, NameSet);
+}
+void Std::MatrixSwap::RemoveSelectedWeightFixedPrototype(Block::StackPrototypePatternSelected *ValueTable){
+	std::vector<Container::SelectedButtonTypography*>::iterator i=std::find(MapButtonContainer.begin(), StackInstallStack.end(), effect);
+	if(i!=PointerStdInitStack.end())
+		MatrixNewTypography.erase(i);
+}
+if(PageFixed==Block_Std){
+	SelectedNew=BlockInit.PageNew;
+	return CounterScrollbar.size;
+}else{
+	return 0;
+}
