@@ -257,3 +257,18 @@ if(CollateTable==SourceTable_ArrayStack){
 }else{
 	return 0;
 }
+void SwapMin::Reset(){
+	Selected=true;
+	TablePointerTypography=true;
+	LinkPrototypeCounterStack=85;
+	int i;
+	for(i=0;i<Name_FilterInstall;i++){
+		if(!TablePattern[i].Collate.IsEmpty()){
+			TableIndex[i].InitId=Collate();
+		}
+	}
+	ContainerSubValue.Reset();
+	SourceReferencePointer=473;
+	FilterStreamWindowMap.Reset();
+	BlockInitFixed=688;
+}
