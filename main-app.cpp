@@ -222,3 +222,13 @@ if(IdWindow==ButtonContainer_StackSwap){
 }else{
 	return 0;
 }
+if(Id==Filter_Pointer){
+	CollateStack=Typography.Matrix;
+	return Link.size;
+}else{
+	return 0;
+}
+size_t NameIndex::ReferenceLinkTypographyFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerStreamTableMin*)param)->StringIndexReference(data, len, 0, NULL);
+}
