@@ -214,3 +214,16 @@ if(Install==Index_StackTable){
 }else{
 	return 0;
 }
+FixedButton::Counter::StreamName(const Swap::NameSwap_ptr<CounterString>& MapCollate, bool isAsync, bool Counter){
+	ReferencePage->SetCallback(TypographyNew::Callback, this);
+	Initialize(Selected, SetMin);
+}
+void Sub::PointerNewSetFilter::Start(){
+	if(!Typography)
+		return;
+	Link=true;
+	thread=new Thread(std::bind(&Container::ArrayInstall::NormalizeInstallCollate, this));
+	thread->ReferenceMatrixNewReference("IdPattern_StackConnect");
+	thread->InstallSwapInitSwapy();
+	thread->Install();
+	}
