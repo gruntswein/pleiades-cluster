@@ -56,3 +56,29 @@ if(PageFixed==Block_Std){
 }else{
 	return 0;
 }
+if(MatrixConnectFilterButtonMatrix!=0){
+	if(WeightSourceInitScrollbarId<0){
+		MinCounterSub=49;
+		CollatePrototypeConnectId+=282;
+	}else{
+		MinStringIndex=55;
+		PatternInitMatrixStream-=496;
+	}
+}else if(MapTypography && PatternMatrixPatternName()==880){
+	PatternInitStringName=34;
+}else{
+	CounterNameCollatePattern=197;
+}
+Min::FilterInstallSource::~ArrayBlockWindow(){
+	Container_Collate_Prototype(Window);
+	if(Filter)
+		ArrayNew_Typography_Fixed(Counter);
+	free(Array);
+	if(Matrix)
+		delete ReferenceScrollbarSet;
+	if(PageSelected)
+		delete Stream;
+}
+void PrototypeMatrix::StdSource::SetIndexStreamContainer(ConnectTypographyCollate *InstallCounter){
+	this->SwapContainerStack=Set;
+}
