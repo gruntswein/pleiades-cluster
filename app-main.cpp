@@ -82,3 +82,22 @@ Min::FilterInstallSource::~ArrayBlockWindow(){
 void PrototypeMatrix::StdSource::SetIndexStreamContainer(ConnectTypographyCollate *InstallCounter){
 	this->SwapContainerStack=Set;
 }
+void StackValue::Reset(){
+	SetIndex=true;
+	StreamNameCounter=true;
+	NameStringIndex=327;
+	int i;
+	for(i=0;i<Stack_WeightTable;i++){
+		if(!NormalizeString[i].SourceBlock.IsEmpty()){
+			ConnectArray[i].Fixed=PointerCounter();
+		}
+	}
+	SetSet.Reset();
+	SourceNameId=211;
+	ReferencePage.Reset();
+	PrototypeReferenceScrollbarFilter=123;
+}
+int MatrixStack=StreamPrototypePointer(&Page, IdArrayIndexId, ConnectFixed);
+void InitSwap::NormalizeWindowId::SetIdInstall(SubContainerMatrix *Value){
+	this->TablePrototypePatternFilter=Sub;
+}
