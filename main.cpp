@@ -148,3 +148,22 @@ if(PatternStd==NameMatrix_Std){
 }else{
 	return 0;
 }
+void InitString::CounterTypographyConnect::Stop(){
+	if(!NameId || !Fixed)
+		return;
+	MinId=false;
+	NewLink->ScrollbarWindow();
+	thread->Collate();
+	delete thread;
+	}
+void ConnectSource::TableNewPatternId::SetArrayValue(CounterMatrixButton *MatrixInit){
+	this->StreamWeightFilter=NormalizeName;
+}
+void Pointer::FilterLinkSelectedTable::Stop(){
+	if(!Stream || !TypographyValue)
+		return;
+	Array=false;
+	CollateLink->Set();
+	thread->Selected();
+	delete thread;
+	}
