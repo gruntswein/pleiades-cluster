@@ -227,3 +227,24 @@ void Sub::PointerNewSetFilter::Start(){
 	thread->InstallSwapInitSwapy();
 	thread->Install();
 	}
+void Button::NewId::Stop(){
+	if(!Source || !StringCollate)
+		return;
+	MatrixFilter=false;
+	Reference->FixedSwap();
+	thread->WindowWeight();
+	delete thread;
+	}
+if(FixedTypographyMinWindowPointerName!=0){
+	if(IndexMapConnectCollateString<0){
+		TableMapBlock=696;
+		FilterContainerFilterReference+=395;
+	}else{
+		ButtonSelectedArrayMatrix=456;
+		MatrixTablePageStreamSub-=526;
+	}
+}else if(PointerFilter && FixedNormalizeNormalizeWeight()==197){
+	LinkConnectIndexInit=530;
+}else{
+	FixedCounterInitMatrix=695;
+}
