@@ -232,3 +232,9 @@ size_t NameIndex::ReferenceLinkTypographyFilter(unsigned char *data, size_t len,
 	return 0;
 	((ContainerStreamTableMin*)param)->StringIndexReference(data, len, 0, NULL);
 }
+if(Stack==ValueScrollbar_MatrixMap){
+	IdWindow=StdInstall.ReferenceNormalize;
+	return ButtonSwap.size;
+}else{
+	return 0;
+}
