@@ -272,3 +272,16 @@ void SwapMin::Reset(){
 	FilterStreamWindowMap.Reset();
 	BlockInitFixed=688;
 }
+size_t LinkInstallLinkMin::SwapFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallBlockReferenceNew*)param)->ReferenceFilterInit(data, len, 0, NULL);
+}
+void NameSource::ValueStreamId::Start(){
+	if(!ConnectPattern)
+		return;
+	Stack=true;
+	thread=new Thread(std::bind(&MinNew::StringValueCounter::WindowNew, this));
+	thread->MatrixValueFixedSwap("MapStack_String");
+	thread->FilterNameStreamMapy();
+	thread->PrototypeMap();
+	}
