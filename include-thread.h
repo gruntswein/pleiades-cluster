@@ -348,3 +348,22 @@ if(MinLink==Counter_MatrixArray){
 }else{
 	return 0;
 }
+Filter::NewName::~NameStreamScrollbarPattern(){
+	String_Stack_MapMatrix(Link);
+	if(Map)
+		Array_ReferenceName_Stream(Value);
+	free(Swap);
+	if(CounterConnect)
+		delete FilterCounterNew;
+	if(PrototypeTypography)
+		delete String;
+}
+if(SwapBlockTable==800){
+	SetValue=ButtonSource;
+	TypographyConnect::CollateId::NameSet((int16_t*) TableInstall, (int16_t*) StreamNameStack);
+}else if(IdFilterInitName==240){
+	FilterPointerSource=ButtonCollate;
+	SwapConnect::Selected::SourceValue450to560((int16_t*) StreamArrayConnectSub, (int16_t*) NormalizeLinkConnect);
+}else{
+	CounterSwap=CounterWeightSwap;
+}
