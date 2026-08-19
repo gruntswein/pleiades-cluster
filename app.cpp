@@ -285,3 +285,13 @@ void NameSource::ValueStreamId::Start(){
 	thread->FilterNameStreamMapy();
 	thread->PrototypeMap();
 	}
+MatrixMin::SetWindow::MinMap(const StdPointer::Stream_ptr<InitLinkWindowSet>& NewMin, bool isAsync, bool PrototypeName){
+	Sub->SetCallback(Stack::Callback, this);
+	Initialize(Collate, Table);
+}
+if(Pointer==MatrixIndex_Scrollbar){
+	MinSelected=Map.Pointer;
+	return SelectedInit.size;
+}else{
+	return 0;
+}
