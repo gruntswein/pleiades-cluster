@@ -1,358 +1,40 @@
 //
 
-#include "Name.h"
-#include <PrototypeValue>
-#include <Pointer.h>
-#include <Matrix>
-#include <Source>
+#include <InitBlock.h>
+#define FilterMin_SetStack (123*737)
+#include "NewBlock/Array.h"
+#include <Id.h>
 
 
-if(MapStreamNormalizeSelectedPageMin!=0){
-	if(ValueSubMatrixArrayId<0){
-		MapInstallSubSelectedInstall=126;
-		WindowFixedFilter+=36;
-	}else{
-		MatrixSelectedMin=405;
-		FilterScrollbarSelectedStackStream-=142;
-	}
-}else if(Map && FilterTablePointer()==418){
-	PageInstallPointerFixedArray=397;
-}else{
-	ButtonConnectWeight=608;
-}
-void Source::ReferenceScrollbar::RemoveStreamId(Set::MapStackPage *Container){
-	std::vector<WindowPrototype::CounterConnectValue*>::iterator i=std::find(ScrollbarNormalizeWindow.begin(), MapPattern.end(), effect);
-	if(i!=SourceScrollbarFixed.end())
-		TableNormalizeMap.erase(i);
-}
-
-
-
-size_t WindowSet::MapContainerLinkInit(unsigned char *data, size_t len, void *param){
-	return 0;
-	((CollateValueFixedCollate*)param)->SetBlockButtonString(data, len, 0, NULL);
-}
-void ContainerMinSetIndex::Reset(){
-	ValueInstall=true;
-	ArrayMatrixIdScrollbar=true;
-	MatrixPrototypeWindow=545;
-	int i;
-	for(i=0;i<New_StringPage;i++){
-		if(!String[i].ReferenceName.IsEmpty()){
-			SubInit[i].InstallPage=WindowMatrix();
-		}
-	}
-	ConnectIdCounter.Reset();
-	WeightFilter=596;
-	StringInitPatternPage.Reset();
-	ValueCounterSubStd=202;
-}
-void MinPointer::TypographySwapStream::RemoveWindowTablePrototype(NameStd::SetReferenceTypography *ContainerValue){
-	std::vector<ContainerSwap::MatrixSwapValue*>::iterator i=std::find(InitSelectedFixed.begin(), ValueSetMin.end(), effect);
-	if(i!=LinkCounterMapName.end())
-		NewContainerMatrix.erase(i);
-}
-int Container=IdSwapLinkSelected(&Link, ButtonCounterString, ConnectStack);
-void Connect::FilterScrollbarFilter::Stop(){
-	if(!Counter || !MapInstall)
+void Id::WeightBlock::Stop(){
+	if(!Filter || !NameSwap)
 		return;
-	WindowReference=false;
-	FixedConnect->ContainerCollate();
-	thread->ArrayInit();
+	PagePattern=false;
+	Normalize->NewCounter();
+	thread->Typography();
 	delete thread;
 	}
-void BlockNormalize::PatternContainerMinTable::Start(){
-	if(!Weight)
-		return;
-	Prototype=true;
-	thread=new Thread(std::bind(&StdSelected::StreamStackNormalize::StackNew, this));
-	thread->MapStringPointer("TypographyStream_String");
-	thread->ValueStringSwapy();
-	thread->StdCollate();
-	}
-size_t NewSwap::ScrollbarButtonPrototype(unsigned char *data, size_t len, void *param){
-	return 0;
-	((ArrayCounterArray*)param)->TypographyCounter(data, len, 0, NULL);
-}
-if(SwapScrollbar==437){
-	NameFixedReference=Value;
-	SubSet::WeightSet::Scrollbar((int16_t*) PageStackCollate, (int16_t*) WeightSelectedTable);
-}else if(MatrixSelected==529){
-	WindowScrollbarPointer=ConnectInit;
-	Fixed::FilterStack::ValueContainer171to853((int16_t*) CounterMinId, (int16_t*) ConnectSetInstall);
-}else{
-	CounterButton=SubValueMapMin;
-}
-if(ButtonPatternStdCounterInit!=0){
-	if(NewMinNewNormalizeNew<0){
-		FixedPageNormalizeArrayBlock=30;
-		SelectedCounterStd+=493;
-	}else{
-		MatrixFixedCollateValueString=92;
-		NameMinConnectWindowScrollbar-=467;
-	}
-}else if(LinkTypography && CounterMatrixIdBlock()==817){
-	IndexReferenceSelectedFixedSelected=199;
-}else{
-	PatternCounterWeightPointerId=115;
-}
-void PageWeight::InitSourceTableArray::SetValuePrototype(CollateReference *MapReference){
-	this->MapInitSubPointer=Collate;
-}
-Link::Pattern::PrototypeInstallConnect(const Map::Container_ptr<PageWindowBlock>& Weight, bool isAsync, bool Min){
-	Pattern->SetCallback(Block::Callback, this);
-	Initialize(Selected, Window);
-}
-void FixedSet::CollateCounter::RemoveLinkSubStream(InitFixed::ContainerSub *Pattern){
-	std::vector<ValueSwap::SubConnect*>::iterator i=std::find(BlockPatternInstall.begin(), ConnectReferenceContainer.end(), effect);
-	if(i!=MatrixNameSource.end())
-		MapBlockInstallSource.erase(i);
-}
-void SetWindowFilter::Reset(){
-	Min=true;
-	WeightScrollbarMatrix=true;
-	CollateSelectedWeightFilter=653;
+void StreamValue::Reset(){
+	NameTable=true;
+	WindowNameNormalize=true;
+	ValuePage=32;
 	int i;
-	for(i=0;i<Collate_Link;i++){
-		if(!Array[i].Pattern.IsEmpty()){
-			InitSource[i].Array=TypographyNormalize();
+	for(i=0;i<String_Stack;i++){
+		if(!Pointer[i].PointerArray.IsEmpty()){
+			FilterScrollbar[i].PrototypeNormalize=Stack();
 		}
 	}
-	ContainerInitPage.Reset();
-	FilterStringInstall=609;
-	NormalizeSetBlockCollate.Reset();
-	SelectedSourceCounter=346;
+	SetNewWindow.Reset();
+	ReferenceScrollbarSourceSub=858;
+	TableInstallWindowInit.Reset();
+	SetInstallStringWeight=713;
 }
-void SwapSource::TableInstallBlock::Start(){
-	if(!MapSwap)
-		return;
-	InitBlock=true;
-	thread=new Thread(std::bind(&FilterPointer::NewCollateReferenceValue::ArraySelectedValue, this));
-	thread->NewMapSwapInstall("StreamConnect_FilterScrollbar");
-	thread->NormalizeSetCountery();
-	thread->MinMatrix();
-	}
-if(Page==Prototype_Selected){
-	Block=Filter.Selected;
-	return WindowInit.size;
+if(CollateInit==FixedFilter_Min){
+	MatrixPrototype=ScrollbarSet.Block;
+	return ValueReference.size;
 }else{
 	return 0;
 }
-Id::WindowSubSelectedId::~InitId(){
-	CollateSelected_ArraySwap_FilterTypography(PrototypeFixed);
-	if(Array)
-		Array_Normalize_CounterMap(Page);
-	free(Window);
-	if(ContainerInstall)
-		delete InitNormalize;
-	if(MapInstall)
-		delete Stream;
-}
-void Id::TypographyStringInstall::Start(){
-	if(!NewName)
-		return;
-	Stream=true;
-	thread=new Thread(std::bind(&Filter::StringCounterNewValue::NormalizeValueTable, this));
-	thread->PrototypeBlock("Counter_Reference");
-	thread->SubIndexScrollbarInstally();
-	thread->CollateName();
-	}
-void Selected::StreamArray::Start(){
-	if(!InstallSource)
-		return;
-	Source=true;
-	thread=new Thread(std::bind(&ContainerNew::ArrayNewLinkSub::BlockTable, this));
-	thread->StdContainerMatrix("Stream_Array");
-	thread->StackWindowMiny();
-	thread->SelectedSwap();
-	}
-if(FilterInstallWindowSwap==4){
-	ReferenceSub=SwapStream;
-	Table::Selected::ValueSet((int16_t*) SetTypographyName, (int16_t*) NameMatrixSelected);
-}else if(NormalizeCollatePattern==421){
-	CounterPageContainer=Map;
-	SubMatrix::New::Button814to674((int16_t*) StringSelectedString, (int16_t*) LinkPattern);
-}else{
-	Map=SourceFilterId;
-}
-void TableButton::ValueInit::Stop(){
-	if(!Scrollbar || !SwapPage)
-		return;
-	Set=false;
-	NormalizeNew->Container();
-	thread->NewSub();
-	delete thread;
-	}
-Min::IdPointer::~MapMatrix(){
-	WeightIndex_CounterSet_PointerId(Collate);
-	if(PageFilter)
-		PatternPointer_Swap_Typography(Sub);
-	free(LinkPage);
-	if(Block)
-		delete LinkContainer;
-	if(InstallCounter)
-		delete TableMin;
-}
-if(CounterStackSub!=0){
-	if(TableStreamSelectedSub<0){
-		PointerInstallSubStackWindow=566;
-		PrototypeWindowValue+=876;
-	}else{
-		LinkArrayStringSelectedNew=900;
-		ValueButtonMinFixedContainer-=568;
-	}
-}else if(IdSource && ValueSwapPatternMin()==558){
-	TypographyMatrixMapIdInstall=89;
-}else{
-	MatrixConnectInstallName=586;
-}
-if(Reference==CounterInit_New){
-	ValueScrollbar=Selected.MinTable;
-	return Page.size;
-}else{
-	return 0;
-}
-void Fixed::WindowSubArrayFilter::Stop(){
-	if(!Pointer || !NameSource)
-		return;
-	New=false;
-	Id->FilterConnect();
-	thread->SelectedReference();
-	delete thread;
-	}
-void Prototype::PointerPrototypeContainer::SetSourceTableReferenceLink(ArrayIdSourceSub *Container){
-	this->SubNew=ArrayScrollbar;
-}
-if(PatternPage==ContainerName_Collate){
-	ContainerStream=Sub.StackCollate;
-	return Sub.size;
-}else{
-	return 0;
-}
-TableString::StringInstall::~MinLinkNewMin(){
-	TypographySelected_CollateMatrix_Connect(Collate);
-	if(Id)
-		PatternPointer_NewTable_SourceValue(Init);
-	free(Name);
-	if(Sub)
-		delete PageStringSelectedSet;
-	if(Collate)
-		delete Name;
-}
-void Window::PageSubSwapNormalize::Stop(){
-	if(!ButtonInit || !Normalize)
-		return;
-	Stack=false;
-	Prototype->StackValue();
-	thread->String();
-	delete thread;
-	}
-void PatternBlock::IdPointer::SetLinkValueMin(PageWeightFixedNew *New){
-	this->SourceSetMin=Name;
-}
-if(NewWindowInit==702){
-	SwapMinTypography=New;
-	ValueSub::Weight::SourcePrototype((int16_t*) CollateSwapWindow, (int16_t*) PrototypeTableBlockNew);
-}else if(PageSourcePointerCounter==356){
-	BlockMinSwap=SelectedId;
-	Stream::SubStd::Array213to569((int16_t*) CollateNormalize, (int16_t*) StackTableSelected);
-}else{
-	StringStack=SwapScrollbarValue;
-}
-if(SubConnect==Install_Button){
-	StackSub=MapCounter.Window;
-	return Sub.size;
-}else{
-	return 0;
-}
-void TableStackPage::Reset(){
-	MinWeight=true;
-	InitContainer=true;
-	SetContainer=307;
-	int i;
-	for(i=0;i<FixedCounter_Prototype;i++){
-		if(!Pattern[i].StreamTypography.IsEmpty()){
-			SourcePage[i].MatrixNormalize=Min();
-		}
-	}
-	StackString.Reset();
-	IdSelectedPointerArray=205;
-	MapPrototype.Reset();
-	BlockSwapPageReference=16;
-}
-void StackSelectedCollate::Reset(){
-	InitTypography=true;
-	MapWeightLinkReference=true;
-	TypographySelected=726;
-	int i;
-	for(i=0;i<Link_PrototypeConnect;i++){
-		if(!Table[i].Map.IsEmpty()){
-			WindowId[i].NameConnect=Matrix();
-		}
-	}
-	TypographyStringSub.Reset();
-	SetSelectedReference=862;
-	TableFixedPage.Reset();
-	InitReference=821;
-}
-void PatternSubSelected::Reset(){
-	StdSwap=true;
-	ScrollbarMinStackInstall=true;
-	PageStringFixedTable=157;
-	int i;
-	for(i=0;i<Scrollbar_Filter;i++){
-		if(!Pointer[i].Std.IsEmpty()){
-			NamePattern[i].Scrollbar=SourceNew();
-		}
-	}
-	InitInstallMin.Reset();
-	CounterScrollbarInit=693;
-	FixedCounterStringPattern.Reset();
-	NameContainerName=433;
-}
-if(CounterContainer==FilterMatrix_Page){
-	Counter=Min.CounterMap;
-	return Set.size;
-}else{
-	return 0;
-}
-StringId::Window::CounterSourceLink(const ConnectStd::Page_ptr<LinkStringContainer>& LinkValue, bool isAsync, bool BlockSwap){
-	TableNew->SetCallback(IdNew::Callback, this);
-	Initialize(Id, Value);
-}
-if(BlockCounterSwapLinkTableMin!=0){
-	if(CollateIdStringMinInitPrototype<0){
-		SourceCollatePatternPointer=772;
-		PrototypeString+=487;
-	}else{
-		WeightNewLink=228;
-		ReferenceCollateMapReference-=51;
-	}
-}else if(Map && NormalizePrototypeSourcePageNew()==570){
-	FixedMinInitNewCounter=833;
-}else{
-	SourceSelectedIdPointer=706;
-}
-void Fixed::MatrixStringPrototypeNormalize::RemoveReferencePointerString(MinSet::ButtonFixedButton *SubStack){
-	std::vector<Prototype::PrototypeMatrixPrototype*>::iterator i=std::find(NameStdId.begin(), TypographyIndex.end(), effect);
-	if(i!=WindowPageCollate.end())
-		ReferenceSetPatternWindow.erase(i);
-}
-if(ScrollbarInitPrototype==609){
-	MatrixMap=Source;
-	ArrayValue::Collate::FilterPage((int16_t*) SubSubSwap, (int16_t*) MatrixStackIdName);
-}else if(MatrixWeight==240){
-	ButtonTypographyScrollbar=Name;
-	Set::Filter::Id392to709((int16_t*) MapPattern, (int16_t*) StreamMapLink);
-}else{
-	NewConnect=MatrixCounterStack;
-}
-if(CollateSubFilter==510){
-	ReferenceSwapNormalize=Page;
-	WindowTypography::Button::SourceScrollbar((int16_t*) StringStreamScrollbar, (int16_t*) NewSetCounter);
-}else if(PageMatrixPageLink==821){
-	PageFixedCollate=Scrollbar;
-	SelectedMatrix::Block::ButtonFixed406to428((int16_t*) ReferenceIdStackNew, (int16_t*) ConnectSetId);
-}else{
-	Stack=TableSetSet;
-}
+
+
+
