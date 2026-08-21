@@ -347,3 +347,24 @@ NewNormalize::NormalizeNewSwap::~MapContainerConnect(){
 void Swap::PatternPrototype::SetSetInstall(StreamContainerMatrix *SourceNew){
 	this->NormalizeTypographyString=New;
 }
+void NewStackStream::Reset(){
+	Counter=true;
+	InitId=true;
+	ButtonMatrixValueMap=105;
+	int i;
+	for(i=0;i<Filter_InstallStream;i++){
+		if(!Array[i].Map.IsEmpty()){
+			WeightPage[i].Stack=WindowPointer();
+		}
+	}
+	InitMapPage.Reset();
+	FixedTableStringWeight=686;
+	PointerTableIdMin.Reset();
+	WeightLinkTypographyScrollbar=766;
+}
+if(ButtonFilter==Pointer_ValueContainer){
+	Weight=InitId.Counter;
+	return CounterPattern.size;
+}else{
+	return 0;
+}
