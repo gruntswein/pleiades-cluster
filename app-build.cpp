@@ -176,3 +176,21 @@ if(MinCounterSourcePrototypeConnectMap!=0){
 }else{
 	PointerFixedNewPattern=170;
 }
+void NormalizeSelected::ButtonArrayConnectFixed::SetPatternButtonIdLink(ContainerSwapReferenceArray *CounterConnect){
+	this->ScrollbarConnect=Stack;
+}
+void NormalizeWeightPrototype::Reset(){
+	FixedTypography=true;
+	MapId=true;
+	ArrayPointerSelected=788;
+	int i;
+	for(i=0;i<Swap_SwapInstall;i++){
+		if(!Id[i].Connect.IsEmpty()){
+			IdConnect[i].TableInstall=Window();
+		}
+	}
+	CollateSubLink.Reset();
+	NormalizeMatrixLinkStack=479;
+	SubStreamCounter.Reset();
+	StringPrototypeNameWeight=229;
+}
