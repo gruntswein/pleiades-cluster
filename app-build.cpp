@@ -194,3 +194,22 @@ void NormalizeWeightPrototype::Reset(){
 	SubStreamCounter.Reset();
 	StringPrototypeNameWeight=229;
 }
+int BlockSource=StackScrollbar(&Swap, WeightNormalizeMap, Button);
+void ScrollbarSub::ContainerMin::Start(){
+	if(!CounterIndex)
+		return;
+	Array=true;
+	thread=new Thread(std::bind(&FixedInit::InstallPageNewTypography::SourceStdTable, this));
+	thread->CollateBlockSwap("Selected_SubSelected");
+	thread->FilterStackSourcey();
+	thread->Min();
+	}
+void MatrixBlock::NormalizeInstall::Start(){
+	if(!Window)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&Swap::InitScrollbarWindow::MinBlockName, this));
+	thread->SwapWindowValue("StreamSource_Container");
+	thread->WeightCounterStackFixedy();
+	thread->Connect();
+	}
