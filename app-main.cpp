@@ -101,3 +101,15 @@ int MatrixStack=StreamPrototypePointer(&Page, IdArrayIndexId, ConnectFixed);
 void InitSwap::NormalizeWindowId::SetIdInstall(SubContainerMatrix *Value){
 	this->TablePrototypePatternFilter=Sub;
 }
+void PrototypeFilter::NewArrayFilterInstall::Stop(){
+	if(!IndexStream || !ReferenceTable)
+		return;
+	CollatePattern=false;
+	Prototype->Link();
+	thread->PageSelected();
+	delete thread;
+	}
+SubTable::CollateStd::BlockLink(const New::Window_ptr<InstallIdSource>& Table, bool isAsync, bool WeightLink){
+	ContainerSet->SetCallback(Swap::Callback, this);
+	Initialize(LinkConnect, Install);
+}
