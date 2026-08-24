@@ -113,3 +113,21 @@ SubTable::CollateStd::BlockLink(const New::Window_ptr<InstallIdSource>& Table, b
 	ContainerSet->SetCallback(Swap::Callback, this);
 	Initialize(LinkConnect, Install);
 }
+if(ValueWindowContainerSwap==391){
+	ContainerCounter=Container;
+	Reference::StringSub::Value((int16_t*) BlockStreamValue, (int16_t*) BlockInitSet);
+}else if(StreamTableSwap==766){
+	MatrixIndexSwap=Pointer;
+	Set::TypographyPattern::ReferenceSet813to364((int16_t*) PatternTable, (int16_t*) StackScrollbar);
+}else{
+	StringWindow=IdBlockCollate;
+}
+void WindowCounter::FixedPointerString::Start(){
+	if(!StringPointer)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&Reference::IdButton::SubWindowSub, this));
+	thread->WeightPatternBlockReference("Block_Block");
+	thread->IdValuey();
+	thread->SourceSet();
+	}
