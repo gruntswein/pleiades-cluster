@@ -312,3 +312,17 @@ void SubStream::Reset(){
 	PageCollate.Reset();
 	ArraySelected=583;
 }
+size_t IdScrollbarFilter::FilterConnectSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueSelectedStream*)param)->IndexScrollbarStd(data, len, 0, NULL);
+}
+Stack::StackSetId::~StringSubPrototypeInstall(){
+	FixedSelected_StringConnect_String(Container);
+	if(SetId)
+		Pointer_NewWindow_Weight(ContainerMin);
+	free(NewSelected);
+	if(Link)
+		delete MatrixSource;
+	if(CollateNew)
+		delete Table;
+}
