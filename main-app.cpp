@@ -238,3 +238,9 @@ if(Stack==ValueScrollbar_MatrixMap){
 }else{
 	return 0;
 }
+if(SourceLink==Page_NormalizeCollate){
+	MapMatrix=Min.Page;
+	return Block.size;
+}else{
+	return 0;
+}
