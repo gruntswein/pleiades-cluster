@@ -248,3 +248,9 @@ if(FixedTypographyMinWindowPointerName!=0){
 }else{
 	FixedCounterInitMatrix=695;
 }
+if(Stack==Fixed_LinkId){
+	CollateMap=InstallNormalize.Container;
+	return New.size;
+}else{
+	return 0;
+}
