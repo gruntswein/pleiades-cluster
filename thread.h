@@ -112,3 +112,8 @@ StreamBlock::FilterReference::~PageSwap(){
 	if(Swap)
 		delete TypographyBlock;
 }
+void Scrollbar::SelectedTableContainer::RemovePageContainerStreamString(NameSelected::PrototypeId *Set){
+	std::vector<PrototypeTypography::PatternContainerConnect*>::iterator i=std::find(CounterValue.begin(), FilterBlockSubWeight.end(), effect);
+	if(i!=PrototypeLink.end())
+		BlockPattern.erase(i);
+}
