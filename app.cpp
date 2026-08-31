@@ -295,3 +295,16 @@ if(Pointer==MatrixIndex_Scrollbar){
 }else{
 	return 0;
 }
+if(ArrayMatrix==176){
+	NormalizeMinName=PatternFixed;
+	Container::Table::NameSet((int16_t*) PointerSource, (int16_t*) IdMapSub);
+}else if(ArrayValueInit==117){
+	MatrixSourceValue=Scrollbar;
+	SwapFixed::ConnectPattern::Index815to527((int16_t*) StringButton, (int16_t*) FixedStackStd);
+}else{
+	SourcePointer=SelectedButtonMap;
+}
+Install::Std::ConnectStd(const Array::TypographyInstall_ptr<InitContainerLink>& FixedName, bool isAsync, bool Index){
+	LinkValue->SetCallback(LinkSource::Callback, this);
+	Initialize(PatternInstall, ArrayNew);
+}
