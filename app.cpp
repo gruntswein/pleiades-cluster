@@ -308,3 +308,16 @@ Install::Std::ConnectStd(const Array::TypographyInstall_ptr<InitContainerLink>& 
 	LinkValue->SetCallback(LinkSource::Callback, this);
 	Initialize(PatternInstall, ArrayNew);
 }
+void ContainerScrollbar::NameFilterMapReference::Start(){
+	if(!InstallStream)
+		return;
+	NewCounter=true;
+	thread=new Thread(std::bind(&Counter::MatrixStack::ValueTableString, this));
+	thread->SelectedPageTypography("ReferencePage_Collate");
+	thread->NameContainerFixedy();
+	thread->PointerId();
+	}
+ValueInstall::Weight::IdCounterSwap(const New::Source_ptr<SelectedCollateId>& Prototype, bool isAsync, bool Connect){
+	CollateWeight->SetCallback(CollateWindow::Callback, this);
+	Initialize(PageReference, NewStream);
+}
