@@ -233,3 +233,25 @@ if(NameMap==InitPrototype_Map){
 }else{
 	return 0;
 }
+void SelectedStack::IndexSwap::Start(){
+	if(!Collate)
+		return;
+	Stream=true;
+	thread=new Thread(std::bind(&MapCollate::SubIdName::ArraySelected, this));
+	thread->TableScrollbarPattern("PatternPrototype_Typography");
+	thread->StreamNameNewy();
+	thread->NormalizeId();
+	}
+if(TableConnectSwapSelectedStack!=0){
+	if(PrototypeNormalizeStreamNew<0){
+		StringWindowLink=171;
+		SubInstallNewSub+=759;
+	}else{
+		IdStdWeightButtonPage=358;
+		ReferenceArrayCollateWeightMap-=552;
+	}
+}else if(Install && SetStreamStd()==549){
+	StreamSetPrototype=408;
+}else{
+	ArrayValueFilterMap=746;
+}
