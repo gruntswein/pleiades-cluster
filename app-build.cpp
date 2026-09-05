@@ -213,3 +213,23 @@ void MatrixBlock::NormalizeInstall::Start(){
 	thread->WeightCounterStackFixedy();
 	thread->Connect();
 	}
+void Selected::ReferenceIndex::Stop(){
+	if(!Array || !ArrayWeight)
+		return;
+	Link=false;
+	PointerWeight->Filter();
+	thread->ScrollbarIndex();
+	delete thread;
+	}
+NameReference::Block::WeightSelectedNormalizeLink(const ArrayPage::Name_ptr<ReferenceCollateLink>& SetArray, bool isAsync, bool CollateNew){
+	Table->SetCallback(Button::Callback, this);
+	Initialize(Page, WindowCounter);
+}
+void Table::NormalizePageConnectIndex::Stop(){
+	if(!Matrix || !ArrayInstall)
+		return;
+	NameStream=false;
+	CounterStream->StdId();
+	thread->Matrix();
+	delete thread;
+	}
