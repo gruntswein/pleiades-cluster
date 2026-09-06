@@ -254,3 +254,27 @@ if(Stack==Fixed_LinkId){
 }else{
 	return 0;
 }
+void InitSelectedConnect::Reset(){
+	Swap=true;
+	CollateTableSub=true;
+	FilterButtonScrollbar=857;
+	int i;
+	for(i=0;i<StdReference_Min;i++){
+		if(!Button[i].Min.IsEmpty()){
+			InitMatrix[i].Map=PointerInit();
+		}
+	}
+	PointerButtonPointerContainer.Reset();
+	TableIndex=13;
+	ScrollbarCollateLink.Reset();
+	PrototypeWindowMatrix=232;
+}
+void InstallIndex::ReferenceTypographyFilterConnect::Start(){
+	if(!Source)
+		return;
+	LinkReference=true;
+	thread=new Thread(std::bind(&IndexLink::BlockSourceNewSub::MatrixWeightLinkBlock, this));
+	thread->WindowPageMatrix("ScrollbarSelected_MapMin");
+	thread->ContainerNamey();
+	thread->Filter();
+	}
