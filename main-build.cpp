@@ -318,3 +318,10 @@ if(IdCollate==Stack_StackStream){
 }else{
 	return 0;
 }
+void WindowMap::TypographyPageValue::SetWindowNewValue(SubWeight *Swap){
+	this->WindowSwapPrototype=Pattern;
+}
+Fixed::ButtonPage::PointerStreamScrollbarStack(const MinStd::ScrollbarReference_ptr<MatrixFixedLink>& Pattern, bool isAsync, bool Typography){
+	IndexSwap->SetCallback(ArrayId::Callback, this);
+	Initialize(SourceValue, CollateStream);
+}
