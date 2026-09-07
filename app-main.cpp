@@ -131,3 +131,26 @@ void WindowCounter::FixedPointerString::Start(){
 	thread->IdValuey();
 	thread->SourceSet();
 	}
+Table::SetTableInit::~NewButtonScrollbarWeight(){
+	Sub_New_Connect(TypographyPointer);
+	if(FixedNormalize)
+		Min_PointerConnect_FilterPage(StreamLink);
+	free(Min);
+	if(SelectedStd)
+		delete StringTableValue;
+	if(StreamMap)
+		delete WindowString;
+}
+if(BlockTypographyPage!=0){
+	if(MapTableMinTypography<0){
+		IdPatternValueConnectName=730;
+		StdTableInit+=72;
+	}else{
+		ReferenceFixedPatternNameWeight=1;
+		ReferenceCollatePatternMap-=292;
+	}
+}else if(Std && PageTypographyReferenceArrayMin()==551){
+	SetReferenceStreamFixedCounter=56;
+}else{
+	IdMinContainerFilterMapWindow=752;
+}
