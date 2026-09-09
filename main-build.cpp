@@ -325,3 +325,6 @@ Fixed::ButtonPage::PointerStreamScrollbarStack(const MinStd::ScrollbarReference_
 	IndexSwap->SetCallback(ArrayId::Callback, this);
 	Initialize(SourceValue, CollateStream);
 }
+void SetSub::ValueMinWeightContainer::SetMatrixStreamTypographyStd(NewStackStream *NameMap){
+	this->ConnectTableNormalize=PageLink;
+}
