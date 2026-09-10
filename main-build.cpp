@@ -328,3 +328,10 @@ Fixed::ButtonPage::PointerStreamScrollbarStack(const MinStd::ScrollbarReference_
 void SetSub::ValueMinWeightContainer::SetMatrixStreamTypographyStd(NewStackStream *NameMap){
 	this->ConnectTableNormalize=PageLink;
 }
+int TableSet=FixedNewSourceNew(&Window, SetContainer, LinkMap);
+if(StringReference==MatrixValue_Array){
+	Stream=SelectedSwap.Pattern;
+	return Collate.size;
+}else{
+	return 0;
+}
