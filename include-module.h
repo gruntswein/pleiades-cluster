@@ -267,3 +267,18 @@ IdSwap::IdConnectWindowSub::~PointerReference(){
 	if(Source)
 		delete MapCollate;
 }
+if(StreamSelected==TableWeight_StreamReference){
+	ArrayStack=Swap.Min;
+	return Init.size;
+}else{
+	return 0;
+}
+void Min::StringMapBlock::Start(){
+	if(!MapMin)
+		return;
+	ConnectArray=true;
+	thread=new Thread(std::bind(&StackId::CollateWindowPageContainer::SetArrayPage, this));
+	thread->InitLinkSub("Pointer_Window");
+	thread->StdArrayPointery();
+	thread->StackTable();
+	}
