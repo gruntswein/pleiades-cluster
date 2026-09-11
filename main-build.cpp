@@ -335,3 +335,18 @@ if(StringReference==MatrixValue_Array){
 }else{
 	return 0;
 }
+if(NormalizeStream==NewCollate_Index){
+	StackMap=SelectedBlock.Table;
+	return MinValue.size;
+}else{
+	return 0;
+}
+void IndexInstall::ContainerConnectPointer::Start(){
+	if(!String)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&SourceTable::MinNameStack::PatternId, this));
+	thread->StackTypographyConnectString("ValuePrototype_Selected");
+	thread->NewTableIdCountery();
+	thread->StreamString();
+	}
