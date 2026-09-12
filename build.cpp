@@ -219,3 +219,25 @@ ValuePage::MinStream::IndexLinkFilter(const Array::Selected_ptr<PointerPrototype
 	Button->SetCallback(Name::Callback, this);
 	Initialize(LinkSwap, Stack);
 }
+void StdArray::Reset(){
+	Collate=true;
+	ConnectStringMatrixStack=true;
+	PageString=182;
+	int i;
+	for(i=0;i<Min_SourceReference;i++){
+		if(!MatrixString[i].PatternStream.IsEmpty()){
+			Filter[i].StackBlock=InstallIndex();
+		}
+	}
+	SwapIndex.Reset();
+	StreamStringArraySelected=564;
+	WeightConnectWeightBlock.Reset();
+	FilterSetBlock=443;
+}
+void ValueStream::ReferenceMinContainer::SetWeightSelectedWindow(SwapButton *StringId){
+	this->IndexPatternSelected=TypographyWindow;
+}
+New::ScrollbarSet::PointerPointerWindow(const Weight::Min_ptr<NormalizeSource>& Table, bool isAsync, bool PageWindow){
+	CounterTypography->SetCallback(ArrayPattern::Callback, this);
+	Initialize(Set, Reference);
+}
