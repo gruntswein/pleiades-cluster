@@ -244,3 +244,17 @@ WindowFilter::ArrayTypographyArray::~WeightPattern(){
 void SetScrollbar::ContainerStringLink::SetArraySwapWindow(IdPageLink *InitCounter){
 	this->InstallMatrixMap=TableString;
 }
+void String::PointerSourceTableInit::RemoveMinFilterNameReference(Init::StringInstallPointer *Stack){
+	std::vector<Source::IndexSwapSetMatrix*>::iterator i=std::find(TypographyConnectStack.begin(), ButtonPageStream.end(), effect);
+	if(i!=ConnectMatrixSource.end())
+		LinkPrototypeInstallString.erase(i);
+}
+void Reference::TableWeight::Start(){
+	if(!Pointer)
+		return;
+	NewPage=true;
+	thread=new Thread(std::bind(&ArrayWindow::FixedPrototypePatternStack::ContainerWindow, this));
+	thread->ScrollbarInitValueIndex("Init_Fixed");
+	thread->StackConnectCountery();
+	thread->InitContainer();
+	}
