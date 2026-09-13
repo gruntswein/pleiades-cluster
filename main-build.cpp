@@ -350,3 +350,16 @@ void IndexInstall::ContainerConnectPointer::Start(){
 	thread->NewTableIdCountery();
 	thread->StreamString();
 	}
+if(PointerIdFixedInitSubValue!=0){
+	if(SourceContainerSwapStreamSelected<0){
+		SourcePointerIdBlock=628;
+		CounterSubNormalize+=319;
+	}else{
+		FilterMatrixStackIndexMatrix=686;
+		NewSourceInit-=172;
+	}
+}else if(NewTypography && FixedPrototypePointerTypographyStreamInstall()==429){
+	SourceSelectedStringPrototypeBlock=581;
+}else{
+	FixedStreamIdPointer=694;
+}
