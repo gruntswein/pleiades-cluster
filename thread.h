@@ -117,3 +117,11 @@ void Scrollbar::SelectedTableContainer::RemovePageContainerStreamString(NameSele
 	if(i!=PrototypeLink.end())
 		BlockPattern.erase(i);
 }
+void Pointer::ButtonBlock::Stop(){
+	if(!Reference || !MapBlock)
+		return;
+	Set=false;
+	Stack->Window();
+	thread->WeightArray();
+	delete thread;
+	}
