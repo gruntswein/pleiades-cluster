@@ -154,3 +154,8 @@ if(BlockTypographyPage!=0){
 }else{
 	IdMinContainerFilterMapWindow=752;
 }
+int StdCollate=CollateScrollbarId(&Prototype, CounterInitWeight, Min);
+size_t ValuePrototypePointer::MapTableStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarSet*)param)->InstallLinkSet(data, len, 0, NULL);
+}
