@@ -241,3 +241,27 @@ New::ScrollbarSet::PointerPointerWindow(const Weight::Min_ptr<NormalizeSource>& 
 	CounterTypography->SetCallback(ArrayPattern::Callback, this);
 	Initialize(Set, Reference);
 }
+void Block::PatternNormalize::Start(){
+	if(!New)
+		return;
+	WeightSub=true;
+	thread=new Thread(std::bind(&Scrollbar::ContainerMatrixPointer::FixedSubConnectName, this));
+	thread->SourcePrototypeSwap("ArrayCounter_SetPattern");
+	thread->TableScrollbary();
+	thread->SetMatrix();
+	}
+void PatternPrototype::Reset(){
+	TableInit=true;
+	FilterMinName=true;
+	IndexFilterTypographyContainer=95;
+	int i;
+	for(i=0;i<NewSelected_StackIndex;i++){
+		if(!Reference[i].MatrixWeight.IsEmpty()){
+			MinSource[i].Map=InitStack();
+		}
+	}
+	MatrixStreamPointerTable.Reset();
+	ScrollbarInitConnect=375;
+	NormalizeContainerSelectedStack.Reset();
+	CollateConnectScrollbar=519;
+}
