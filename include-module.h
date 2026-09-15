@@ -282,3 +282,8 @@ void Min::StringMapBlock::Start(){
 	thread->StdArrayPointery();
 	thread->StackTable();
 	}
+void ScrollbarMap::StackMapWeight::RemoveReferenceSourcePatternWeight(Button::NameNormalizeScrollbarPattern *LinkMatrix){
+	std::vector<Button::PatternIndex*>::iterator i=std::find(StringMatrix.begin(), NewContainerNormalize.end(), effect);
+	if(i!=ButtonNewButtonSource.end())
+		ValueSwap.erase(i);
+}
