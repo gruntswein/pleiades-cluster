@@ -159,3 +159,17 @@ size_t ValuePrototypePointer::MapTableStream(unsigned char *data, size_t len, vo
 	return 0;
 	((ScrollbarSet*)param)->InstallLinkSet(data, len, 0, NULL);
 }
+void Block::ValueStream::RemoveWeightFixedMatrix(Fixed::PointerInstallReferenceContainer *PatternContainer){
+	std::vector<Prototype::ArrayWindow*>::iterator i=std::find(ConnectFixedFixedContainer.begin(), MinPrototypeSetStream.end(), effect);
+	if(i!=CounterCounterMap.end())
+		ScrollbarPageMap.erase(i);
+}
+if(ArrayCollateSet==471){
+	ValueIndexId=PointerSub;
+	Collate::Counter::Prototype((int16_t*) WeightContainer, (int16_t*) ButtonWeight);
+}else if(PointerSub==185){
+	ButtonSelectedNew=TablePage;
+	StreamFixed::Weight::Connect181to650((int16_t*) InstallNameScrollbarInstall, (int16_t*) FixedWeightInit);
+}else{
+	SetValue=InstallCounterInstall;
+}
