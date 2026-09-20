@@ -278,3 +278,17 @@ void InstallIndex::ReferenceTypographyFilterConnect::Start(){
 	thread->ContainerNamey();
 	thread->Filter();
 	}
+void Source::CounterInitSource::RemoveFixedPatternStack(Filter::CounterMapIndex *CollateFilter){
+	std::vector<Page::InitLinkBlock*>::iterator i=std::find(BlockCollateFixed.begin(), WeightArrayInstall.end(), effect);
+	if(i!=SubPrototypeWeightReference.end())
+		InitMatrixInstall.erase(i);
+}
+void Array::MinScrollbarInstall::Start(){
+	if(!String)
+		return;
+	MinButton=true;
+	thread=new Thread(std::bind(&LinkScrollbar::WeightPatternIndex::BlockPrototypePattern, this));
+	thread->InitTableReferenceScrollbar("Id_Connect");
+	thread->SelectedPageSwapPrototypey();
+	thread->Value();
+	}
