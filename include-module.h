@@ -287,3 +287,21 @@ void ScrollbarMap::StackMapWeight::RemoveReferenceSourcePatternWeight(Button::Na
 	if(i!=ButtonNewButtonSource.end())
 		ValueSwap.erase(i);
 }
+void Index::MinStream::RemoveCollateFixedStream(ScrollbarSource::ArrayScrollbarBlock *Set){
+	std::vector<BlockValue::SubFilterBlock*>::iterator i=std::find(SetButton.begin(), PageSetPointerSet.end(), effect);
+	if(i!=WeightNameReferenceStream.end())
+		ValueWindowContainer.erase(i);
+}
+if(StringInitReferenceSwapMatrixBlock!=0){
+	if(ContainerValueContainerStackMin<0){
+		SelectedReferenceSourceInit=265;
+		MatrixWindow+=32;
+	}else{
+		MapStringIdStringPrototypePage=20;
+		ArraySelectedValueStream-=242;
+	}
+}else if(Prototype && NormalizeStreamNormalizeWindow()==685){
+	PageMatrixScrollbarMatrix=301;
+}else{
+	ContainerCollateLink=642;
+}
