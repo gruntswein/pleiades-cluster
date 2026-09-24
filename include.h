@@ -292,3 +292,29 @@ void Array::MinScrollbarInstall::Start(){
 	thread->SelectedPageSwapPrototypey();
 	thread->Value();
 	}
+if(Connect==Connect_Connect){
+	FixedReference=Prototype.ContainerWindow;
+	return ReferenceId.size;
+}else{
+	return 0;
+}
+Counter::ReferenceTablePointerNew::~NamePage(){
+	ScrollbarInstall_Matrix_WeightFilter(Selected);
+	if(WindowMatrix)
+		StackString_PrototypeConnect_String(SelectedStd);
+	free(PatternMap);
+	if(Init)
+		delete MinSelectedMin;
+	if(Weight)
+		delete Button;
+}
+Pointer::StreamInstallLink::~ScrollbarInstallString(){
+	Source_SelectedBlock_MinSelected(PagePointer);
+	if(WindowCounter)
+		Table_StreamId_Min(Fixed);
+	free(Swap);
+	if(Pointer)
+		delete SubSelectedMap;
+	if(FixedTypography)
+		delete Index;
+}
