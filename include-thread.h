@@ -28,3 +28,17 @@ void StdNew::PatternSwapPointer::Start(){
 
 
 
+void SelectedWindow::ConnectFilterWeight::RemoveArrayConnectLinkSwap(Block::NewLinkStackInstall *WindowInit){
+	std::vector<ScrollbarMin::LinkReferenceStreamMin*>::iterator i=std::find(InstallStackArray.begin(), ReferenceStreamPattern.end(), effect);
+	if(i!=MinInstallValue.end())
+		WeightMinSet.erase(i);
+}
+void ReferencePage::NameIdLink::Start(){
+	if(!StackSource)
+		return;
+	Counter=true;
+	thread=new Thread(std::bind(&InitSource::SelectedBlockWeightId::IdWindowArray, this));
+	thread->SourceMapId("IdInstall_CounterInstall");
+	thread->MapCollatePatterny();
+	thread->PointerMatrix();
+	}
