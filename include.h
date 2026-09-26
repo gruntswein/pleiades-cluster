@@ -318,3 +318,28 @@ Pointer::StreamInstallLink::~ScrollbarInstallString(){
 	if(FixedTypography)
 		delete Index;
 }
+StringSelected::StreamTypographyString::~PatternPointerName(){
+	TableName_ScrollbarString_Link(WindowStream);
+	if(Map)
+		SetSelected_Typography_PageCounter(TypographyTable);
+	free(ScrollbarConnect);
+	if(Prototype)
+		delete FixedContainerScrollbarSelected;
+	if(Counter)
+		delete InitMatrix;
+}
+void WindowContainerBlockLink::Reset(){
+	FilterInstall=true;
+	FilterFilter=true;
+	ReferenceNewTypographySelected=95;
+	int i;
+	for(i=0;i<Pattern_ArrayNew;i++){
+		if(!SetStack[i].PrototypeConnect.IsEmpty()){
+			Page[i].PagePointer=Sub();
+		}
+	}
+	MatrixFixedSet.Reset();
+	InitSourceArray=204;
+	SelectedSub.Reset();
+	PointerStreamPrototype=423;
+}
