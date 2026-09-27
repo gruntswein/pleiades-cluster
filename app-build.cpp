@@ -233,3 +233,24 @@ void Table::NormalizePageConnectIndex::Stop(){
 	thread->Matrix();
 	delete thread;
 	}
+if(TypographySelectedFixed==785){
+	WeightInstallInstallReference=Swap;
+	StringBlock::SubValue::Container((int16_t*) MinNewPatternTypography, (int16_t*) PrototypeSubSet);
+}else if(FixedButton==156){
+	NameContainerTypography=SubArray;
+	Source::FixedWindow::ArrayStd356to391((int16_t*) PageInstallWindow, (int16_t*) SetCollate);
+}else{
+	Array=ButtonStringPattern;
+}
+size_t SetPrototype::CounterTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubId*)param)->InitLinkConnectLink(data, len, 0, NULL);
+}
+void ReferenceString::StringSwapTypographyNew::Stop(){
+	if(!PrototypeReference || !PointerName)
+		return;
+	ValueMap=false;
+	PatternSet->Filter();
+	thread->Page();
+	delete thread;
+	}
