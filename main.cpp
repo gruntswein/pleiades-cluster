@@ -167,3 +167,9 @@ void Pointer::FilterLinkSelectedTable::Stop(){
 	thread->Selected();
 	delete thread;
 	}
+if(PointerWeight==InstallBlock_ConnectContainer){
+	WindowIndex=SourceName.Stream;
+	return LinkConnect.size;
+}else{
+	return 0;
+}
