@@ -255,3 +255,13 @@ if(TableConnectSwapSelectedStack!=0){
 }else{
 	ArrayValueFilterMap=746;
 }
+size_t TableInitIndex::BlockIndexPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayFixed*)param)->StreamSwap(data, len, 0, NULL);
+}
+if(Pattern==PointerNormalize_ArrayInstall){
+	IdFilter=Block.PatternValue;
+	return Counter.size;
+}else{
+	return 0;
+}
