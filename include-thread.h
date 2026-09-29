@@ -42,3 +42,20 @@ void ReferencePage::NameIdLink::Start(){
 	thread->MapCollatePatterny();
 	thread->PointerMatrix();
 	}
+size_t WindowStringStd::FixedSwapCounter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeMinMapBlock*)param)->WeightWindowSub(data, len, 0, NULL);
+}
+size_t ConnectStreamCounterTypography::NamePrototypeTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixFixed*)param)->InstallLinkNameStack(data, len, 0, NULL);
+}
+void Array::MapMatrix::Start(){
+	if(!Sub)
+		return;
+	Fixed=true;
+	thread=new Thread(std::bind(&IndexInit::WindowTypographySelected::TableMin, this));
+	thread->MatrixButton("SourceStack_ReferenceConnect");
+	thread->FixedStringFixedMiny();
+	thread->NewString();
+	}
