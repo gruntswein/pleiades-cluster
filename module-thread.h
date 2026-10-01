@@ -265,3 +265,12 @@ if(Pattern==PointerNormalize_ArrayInstall){
 }else{
 	return 0;
 }
+void Id::IndexWeightPatternSelected::Start(){
+	if(!Init)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&Normalize::ConnectBlock::ConnectFilterCollate, this));
+	thread->MinNameFilter("Fixed_Table");
+	thread->WeightSubValuePointery();
+	thread->BlockStack();
+	}
