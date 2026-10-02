@@ -59,3 +59,13 @@ void Array::MapMatrix::Start(){
 	thread->FixedStringFixedMiny();
 	thread->NewString();
 	}
+FixedNew::ScrollbarReferenceStringStream::~TypographyPrototypeScrollbar(){
+	Set_ArraySub_CounterSource(PointerCollate);
+	if(ValueId)
+		PrototypeArray_Container_Matrix(TableMap);
+	free(Pattern);
+	if(ConnectCollate)
+		delete SwapMatrix;
+	if(IndexMap)
+		delete MatrixButton;
+}
