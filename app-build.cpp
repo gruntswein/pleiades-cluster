@@ -254,3 +254,28 @@ void ReferenceString::StringSwapTypographyNew::Stop(){
 	thread->Page();
 	delete thread;
 	}
+Selected::SelectedWindow::~NormalizeTypographyInit(){
+	NewSource_CounterFixed_Reference(WindowFixed);
+	if(TypographyCounter)
+		Collate_InstallValue_Min(Page);
+	free(Counter);
+	if(Index)
+		delete SelectedNewCounter;
+	if(MatrixSet)
+		delete Matrix;
+}
+void SelectedId::Reset(){
+	Swap=true;
+	PageValueFixedNew=true;
+	ButtonSubFilter=569;
+	int i;
+	for(i=0;i<Link_Value;i++){
+		if(!Name[i].CounterValue.IsEmpty()){
+			Value[i].SetPage=WeightPointer();
+		}
+	}
+	NormalizeSubMatrix.Reset();
+	WeightValue=812;
+	ReferenceValueNormalize.Reset();
+	InstallStreamSourcePattern=816;
+}
