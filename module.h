@@ -331,3 +331,22 @@ if(CounterContainerStringNew==583){
 }else{
 	Pointer=WeightConnectTableString;
 }
+size_t WeightPrototype::SwapContainerStreamNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NamePointer*)param)->CollatePrototypeSource(data, len, 0, NULL);
+}
+void SetInstallStd::Reset(){
+	Normalize=true;
+	BlockPointerPointerMatrix=true;
+	FilterPrototypeConnect=219;
+	int i;
+	for(i=0;i<WindowContainer_MapStack;i++){
+		if(!TablePrototype[i].BlockId.IsEmpty()){
+			PageSet[i].SetPointer=MinId();
+		}
+	}
+	SubReferenceWeight.Reset();
+	WindowMinSetCollate=573;
+	CollateStdStack.Reset();
+	FilterSwapTypography=439;
+}
