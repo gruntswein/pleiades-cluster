@@ -30,3 +30,11 @@ if(ValueButtonArrayNormalizeStream!=0){
 
 
 
+void PagePointer::ContainerLink::Stop(){
+	if(!SourceFilter || !Collate)
+		return;
+	IndexSub=false;
+	Fixed->FilterName();
+	thread->SetNew();
+	delete thread;
+	}
