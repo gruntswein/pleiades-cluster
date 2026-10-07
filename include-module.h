@@ -305,3 +305,32 @@ if(StringInitReferenceSwapMatrixBlock!=0){
 }else{
 	ContainerCollateLink=642;
 }
+void ScrollbarContainer::SetArrayMatrix::Start(){
+	if(!WeightConnect)
+		return;
+	Table=true;
+	thread=new Thread(std::bind(&Selected::SetSwapMapTypography::MatrixSelected, this));
+	thread->NormalizeInitSelectedFixed("InstallNormalize_ButtonFilter");
+	thread->MapStreamCollateTabley();
+	thread->Sub();
+	}
+void PointerNameWeight::Reset(){
+	Swap=true;
+	StdSubNormalize=true;
+	MapArrayFixed=230;
+	int i;
+	for(i=0;i<Prototype_BlockPage;i++){
+		if(!New[i].Normalize.IsEmpty()){
+			ArrayInstall[i].TableInstall=Connect();
+		}
+	}
+	IndexInstallFilterArray.Reset();
+	BlockSetButtonStream=273;
+	StackWeightMin.Reset();
+	PrototypeMatrixPage=611;
+}
+void IdIndex::LinkSelected::RemoveReferenceMatrixInstall(Window::NameLink *ReferenceFixed){
+	std::vector<WindowId::PrototypeScrollbarButtonNew*>::iterator i=std::find(ScrollbarCounterLink.begin(), WeightBlockLink.end(), effect);
+	if(i!=LinkIndexTypographyWeight.end())
+		PrototypeName.erase(i);
+}
