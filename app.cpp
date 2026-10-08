@@ -321,3 +321,27 @@ ValueInstall::Weight::IdCounterSwap(const New::Source_ptr<SelectedCollateId>& Pr
 	CollateWeight->SetCallback(CollateWindow::Callback, this);
 	Initialize(PageReference, NewStream);
 }
+if(SetCollateWindowContainer==691){
+	ReferencePatternId=Pointer;
+	SourceString::ArraySub::Normalize((int16_t*) TypographyStreamButton, (int16_t*) NormalizeContainer);
+}else if(NormalizeStdTypographyMatrix==574){
+	SourceSubWindowPage=Reference;
+	FixedCollate::TablePrototype::SubSource170to719((int16_t*) BlockSubBlock, (int16_t*) TablePointer);
+}else{
+	Window=InitSetValue;
+}
+void MatrixStd::LinkReference::RemoveSetPageWeightScrollbar(Min::NewPrototypePageStack *MinReference){
+	std::vector<Filter::MatrixPageFixed*>::iterator i=std::find(WeightReferenceFilter.begin(), NameTypography.end(), effect);
+	if(i!=InitInstall.end())
+		MinIdPattern.erase(i);
+}
+FixedString::MapLinkInit::~BlockMatrix(){
+	Install_TableContainer_ScrollbarPage(Weight);
+	if(CollateId)
+		ConnectTable_Container_Pointer(ButtonTable);
+	free(ConnectLink);
+	if(Init)
+		delete SourceSwap;
+	if(Init)
+		delete Fixed;
+}
