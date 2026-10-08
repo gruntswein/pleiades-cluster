@@ -279,3 +279,21 @@ void SelectedId::Reset(){
 	ReferenceValueNormalize.Reset();
 	InstallStreamSourcePattern=816;
 }
+Filter::FilterInstall::~TableSwap(){
+	ContainerNew_BlockButton_Pointer(FilterConnect);
+	if(Sub)
+		Id_Index_MatrixSource(Source);
+	free(PagePrototype);
+	if(String)
+		delete LinkNormalize;
+	if(WeightId)
+		delete ConnectWeight;
+}
+void Array::PageCounter::Stop(){
+	if(!StackCounter || !String)
+		return;
+	SourceSet=false;
+	Scrollbar->Id();
+	thread->SubFixed();
+	delete thread;
+	}
