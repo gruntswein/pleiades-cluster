@@ -244,3 +244,9 @@ if(SourceLink==Page_NormalizeCollate){
 }else{
 	return 0;
 }
+if(PrototypeTable==ButtonReference_Button){
+	WeightScrollbar=PatternNew.SubLink;
+	return Button.size;
+}else{
+	return 0;
+}
