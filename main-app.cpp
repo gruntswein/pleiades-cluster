@@ -250,3 +250,27 @@ if(PrototypeTable==ButtonReference_Button){
 }else{
 	return 0;
 }
+if(MatrixTypographyFixedStd==875){
+	MatrixWeightIndex=ReferenceTypography;
+	Sub::Weight::StringFixed((int16_t*) SubValueInstallId, (int16_t*) TypographyMatrix);
+}else if(SetWeightCounter==609){
+	SubCounterArray=StdNew;
+	Sub::Scrollbar::ReferenceValue106to521((int16_t*) CounterMapPageString, (int16_t*) StringNameTypography);
+}else{
+	ButtonFilter=InitCounterWindow;
+}
+void MinSelected::Reset(){
+	ValueInstall=true;
+	WindowInitNormalize=true;
+	TypographyStdNew=592;
+	int i;
+	for(i=0;i<Pattern_Scrollbar;i++){
+		if(!ReferenceMap[i].SubInit.IsEmpty()){
+			Connect[i].WeightPointer=NameTable();
+		}
+	}
+	IndexTypographyInstall.Reset();
+	NewScrollbarNormalize=156;
+	BlockPrototype.Reset();
+	ScrollbarNameScrollbarWeight=468;
+}
