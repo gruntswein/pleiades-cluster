@@ -38,3 +38,24 @@ void PagePointer::ContainerLink::Stop(){
 	thread->SetNew();
 	delete thread;
 	}
+if(LinkIdPatternSource==104){
+	InitTableConnect=Link;
+	PatternContainer::MapContainer::StackPage((int16_t*) StackPatternNormalize, (int16_t*) ButtonSubInstall);
+}else if(ScrollbarReferenceTypography==618){
+	PatternNormalizeTable=Typography;
+	Pointer::WindowLink::PrototypeSelected96to765((int16_t*) ReferenceNormalizePrototype, (int16_t*) StackInstallPageReference);
+}else{
+	Map=WindowBlockReference;
+}
+void MinMap::PatternMinString::SetCollateWeightSub(CollatePointerStackSet *SetArray){
+	this->PointerFilterArray=NormalizeName;
+}
+if(IdMatrixWindowTypography==154){
+	NormalizeButtonSub=New;
+	PatternId::SourceInstall::New((int16_t*) PageMatrixPatternCounter, (int16_t*) NewSelectedStreamTypography);
+}else if(SourceContainerInstall==766){
+	ValueSourceConnect=BlockMin;
+	Link::Collate::PrototypeLink225to390((int16_t*) PatternSelectedIndex, (int16_t*) StringMatrixSub);
+}else{
+	Page=SwapTypographyConnect;
+}
