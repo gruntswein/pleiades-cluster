@@ -173,3 +173,27 @@ if(PointerWeight==InstallBlock_ConnectContainer){
 }else{
 	return 0;
 }
+Stack::WindowWeightCollateTypography::~NewWindowFilter(){
+	ValueFilter_Source_Source(Swap);
+	if(Reference)
+		Min_Typography_Prototype(Sub);
+	free(PointerFilter);
+	if(Typography)
+		delete TypographyPrototypeScrollbarCollate;
+	if(StackTable)
+		delete Map;
+}
+void InstallId::TableLinkString::Stop(){
+	if(!Pointer || !InitWindow)
+		return;
+	New=false;
+	InitPage->ConnectBlock();
+	thread->Prototype();
+	delete thread;
+	}
+if(ArrayFixed==Pattern_PointerNew){
+	Stream=Fixed.Filter;
+	return Selected.size;
+}else{
+	return 0;
+}
