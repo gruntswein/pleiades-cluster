@@ -38,3 +38,15 @@ if(CollateInit==FixedFilter_Min){
 
 
 
+Link::StackSource::PageBlockInitNormalize(const BlockCounter::PrototypeName_ptr<WindowStackConnectStream>& WindowWeight, bool isAsync, bool StringWindow){
+	PointerName->SetCallback(SwapPointer::Callback, this);
+	Initialize(Sub, Stream);
+}
+void MapWeight::StringLinkReferenceBlock::Stop(){
+	if(!Name || !Fixed)
+		return;
+	ConnectString=false;
+	TableInit->CounterPointer();
+	thread->InitNormalize();
+	delete thread;
+	}
