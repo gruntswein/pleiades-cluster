@@ -173,3 +173,19 @@ if(ArrayCollateSet==471){
 }else{
 	SetValue=InstallCounterInstall;
 }
+void IdSub::SwapSelectedInstall::SetPatternCounter(LinkPointerPointerArray *Collate){
+	this->PatternInstall=Window;
+}
+if(ContainerFilterId==171){
+	InitWindowContainer=MapLink;
+	ConnectSub::MinStack::Normalize((int16_t*) LinkString, (int16_t*) FilterPointerNormalize);
+}else if(LinkCollateBlock==427){
+	StackNormalizePrototypeButton=StackArray;
+	PatternLink::Id::InitScrollbar440to90((int16_t*) PrototypePatternCounter, (int16_t*) ContainerConnectTypographyScrollbar);
+}else{
+	Fixed=SourcePointerMatrix;
+}
+size_t StreamPointerLink::ArrayPrototypeStreamNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitValueStdValue*)param)->IdButton(data, len, 0, NULL);
+}
