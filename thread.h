@@ -125,3 +125,21 @@ void Pointer::ButtonBlock::Stop(){
 	thread->WeightArray();
 	delete thread;
 	}
+if(Pattern==BlockStack_Filter){
+	Map=Selected.WeightPrototype;
+	return IdContainer.size;
+}else{
+	return 0;
+}
+if(InitName==InstallMatrix_StreamMin){
+	String=Set.Filter;
+	return PatternPointer.size;
+}else{
+	return 0;
+}
+if(NormalizeSwap==Weight_IdCounter){
+	StdName=Connect.StreamNew;
+	return WindowPage.size;
+}else{
+	return 0;
+}
