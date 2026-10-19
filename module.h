@@ -350,3 +350,8 @@ void SetInstallStd::Reset(){
 	CollateStdStack.Reset();
 	FilterSwapTypography=439;
 }
+int Collate=ContainerSwapWeight(&Matrix, ArrayTypography, Link);
+size_t StackInitReference::SwapInstallMinScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonValueSub*)param)->PatternSource(data, len, 0, NULL);
+}
