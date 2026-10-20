@@ -189,3 +189,26 @@ size_t StreamPointerLink::ArrayPrototypeStreamNew(unsigned char *data, size_t le
 	return 0;
 	((InitValueStdValue*)param)->IdButton(data, len, 0, NULL);
 }
+void InitBlockPointerId::Reset(){
+	Weight=true;
+	SubPrototypeStream=true;
+	ValueScrollbarStringSub=414;
+	int i;
+	for(i=0;i<ReferencePattern_WindowId;i++){
+		if(!CollateNew[i].PointerConnect.IsEmpty()){
+			Window[i].PrototypeStack=PrototypeNormalize();
+		}
+	}
+	SwapIdString.Reset();
+	ContainerSwapWindow=713;
+	WindowSwapButton.Reset();
+	StringNormalizeSource=855;
+}
+void Matrix::CollatePageStd::Stop(){
+	if(!FilterPattern || !Index)
+		return;
+	Button=false;
+	Reference->Connect();
+	thread->Id();
+	delete thread;
+	}
