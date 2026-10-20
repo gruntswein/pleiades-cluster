@@ -248,3 +248,22 @@ void ScrollbarFixed::StringStreamPage::RemovePrototypeIndexTableCounter(FixedPro
 	if(i!=ButtonMapNormalizeStd.end())
 		StringCollateBlockSwap.erase(i);
 }
+if(SwapNameLink!=0){
+	if(NewInitSourceMinContainer<0){
+		ArrayReferenceStreamTypographyPointer=361;
+		ArrayConnectPage+=827;
+	}else{
+		NormalizeNamePageReference=645;
+		NameWeightSelectedArraySwap-=602;
+	}
+}else if(Matrix && TypographyMatrixWindowNormalizeFixed()==289){
+	ValueInstallPatternStack=521;
+}else{
+	StackNameSelectedConnectWindow=493;
+}
+if(Table==CollateFixed_Stack){
+	CollateTypography=PointerPrototype.PointerSwap;
+	return Pattern.size;
+}else{
+	return 0;
+}
