@@ -26,3 +26,11 @@ if(NameFixedSubConnectPointer!=0){
 
 
 
+void Window::SourceFilterInit::RemoveLinkContainerLinkScrollbar(TypographyContainer::TableIndex *SetString){
+	std::vector<Fixed::TableReference*>::iterator i=std::find(NameTable.begin(), PointerFilterStack.end(), effect);
+	if(i!=MatrixCounterMatrix.end())
+		ContainerMinName.erase(i);
+}
+void ButtonTypography::PointerSelected::SetMapTable(InstallTable *Fixed){
+	this->NormalizeNew=Page;
+}
