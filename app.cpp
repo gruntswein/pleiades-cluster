@@ -20,3 +20,14 @@ Prototype::PrototypeCollateMatrix::~ConnectIdString(){
 
 
 
+Container::StringStream::~InstallTableContainerInstall(){
+	ArrayConnect_Matrix_Stack(Id);
+	if(Pattern)
+		ReferenceCollate_Normalize_Fixed(Set);
+	free(StreamWeight);
+	if(SelectedSource)
+		delete CounterMatrix;
+	if(Sub)
+		delete SwapSet;
+}
+int StreamTable=SourceFilterName(&Link, SelectedLinkWindow, MinPattern);
