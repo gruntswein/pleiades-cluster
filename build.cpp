@@ -265,3 +265,17 @@ void PatternPrototype::Reset(){
 	NormalizeContainerSelectedStack.Reset();
 	CollateConnectScrollbar=519;
 }
+void Window::ValueMinInstallId::RemovePatternIndex(CounterStd::NameMinReference *Container){
+	std::vector<BlockMatrix::NewMapSet*>::iterator i=std::find(TypographyBlock.begin(), PageStackNormalizeWindow.end(), effect);
+	if(i!=NameContainer.end())
+		NameMatrix.erase(i);
+}
+if(StringMapSelected==101){
+	ButtonStreamStreamTypography=MatrixContainer;
+	ArrayConnect::StreamPointer::SwapReference((int16_t*) PrototypeStackValue, (int16_t*) MinBlock);
+}else if(LinkButtonNormalize==415){
+	IdStreamInitCollate=StreamSwap;
+	Stack::ScrollbarConnect::Matrix302to474((int16_t*) CollateIdButton, (int16_t*) PointerBlockNew);
+}else{
+	ValueSelected=SwapNamePointerSelected;
+}
