@@ -143,3 +143,33 @@ if(NormalizeSwap==Weight_IdCounter){
 }else{
 	return 0;
 }
+if(ValueMatrix==243){
+	MinArraySwap=InstallWindow;
+	Stream::Swap::Fixed((int16_t*) CollateMapWeight, (int16_t*) CollateReferencePointer);
+}else if(BlockCounter==218){
+	BlockTypographyNormalize=IndexButton;
+	Install::Matrix::Link877to584((int16_t*) WeightBlockSource, (int16_t*) PrototypeReferenceMatrixSwap);
+}else{
+	Block=MapNameStack;
+}
+void SubWeightMin::Reset(){
+	SelectedPointer=true;
+	SourceCounterContainer=true;
+	ValueCollateReference=519;
+	int i;
+	for(i=0;i<Page_ScrollbarPrototype;i++){
+		if(!Value[i].StreamStack.IsEmpty()){
+			MatrixInit[i].NameId=SwapSource();
+		}
+	}
+	SwapMapWindow.Reset();
+	WindowPointerWeight=188;
+	StackScrollbarScrollbar.Reset();
+	MatrixSource=350;
+}
+if(Value==StreamSelected_Reference){
+	Sub=PrototypeStack.CounterTable;
+	return Container.size;
+}else{
+	return 0;
+}
