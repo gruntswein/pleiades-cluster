@@ -274,3 +274,16 @@ void MinSelected::Reset(){
 	BlockPrototype.Reset();
 	ScrollbarNameScrollbarWeight=468;
 }
+if(SetReferenceWindowSubStreamSwap!=0){
+	if(FilterInitNormalizeInstallPageMap<0){
+		WeightSourceInstallPointerScrollbar=462;
+		ValueWeight+=221;
+	}else{
+		NormalizeTypographyFilterCounterInit=394;
+		PrototypeWeightSubIdInitPattern-=850;
+	}
+}else if(SubBlock && StackIndexValueNewValueId()==404){
+	FixedArrayCollateMap=81;
+}else{
+	InitMatrixArraySubId=749;
+}
