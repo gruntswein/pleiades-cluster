@@ -197,3 +197,20 @@ if(ArrayFixed==Pattern_PointerNew){
 }else{
 	return 0;
 }
+void Button::TableSet::Stop(){
+	if(!Typography || !SelectedTypography)
+		return;
+	InstallPage=false;
+	PrototypeId->Map();
+	thread->SourceSelected();
+	delete thread;
+	}
+void Window::ScrollbarStackButton::Start(){
+	if(!NewContainer)
+		return;
+	New=true;
+	thread=new Thread(std::bind(&TableSet::FixedSelectedStd::CollateSourcePage, this));
+	thread->MinNewCollate("CounterNew_SubPrototype");
+	thread->StdInitPatterny();
+	thread->CounterName();
+	}
