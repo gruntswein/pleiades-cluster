@@ -355,3 +355,28 @@ size_t StackInitReference::SwapInstallMinScrollbar(unsigned char *data, size_t l
 	return 0;
 	((ButtonValueSub*)param)->PatternSource(data, len, 0, NULL);
 }
+void ScrollbarTablePrototype::Reset(){
+	NewPattern=true;
+	ArrayWeightSet=true;
+	CounterReference=840;
+	int i;
+	for(i=0;i<TablePrototype_PrototypeStream;i++){
+		if(!SelectedInstall[i].ConnectTypography.IsEmpty()){
+			Selected[i].StreamSource=Std();
+		}
+	}
+	StreamValueInit.Reset();
+	StdFixedWindowCounter=447;
+	IndexPrototypePrototypeMin.Reset();
+	PointerMatrix=57;
+}
+void Value::ButtonStackMatrix::RemoveWeightValueCounter(BlockContainer::WindowMatrixPattern *PointerNew){
+	std::vector<WindowBlock::MapValueMatrixIndex*>::iterator i=std::find(StreamFilterArray.begin(), InstallFilterConnect.end(), effect);
+	if(i!=MapFixedCollateString.end())
+		InitValueConnect.erase(i);
+}
+void Value::SubStringLinkId::RemoveTableSetStack(MinConnect::ConnectPointerCollate *PageCollate){
+	std::vector<Std::StringMatrixConnect*>::iterator i=std::find(TypographyPrototype.begin(), LinkPattern.end(), effect);
+	if(i!=StringSetMin.end())
+		NewStreamArrayPointer.erase(i);
+}
