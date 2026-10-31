@@ -214,3 +214,14 @@ void Window::ScrollbarStackButton::Start(){
 	thread->StdInitPatterny();
 	thread->CounterName();
 	}
+if(ArrayFilter==NameSelected_SelectedMatrix){
+	Swap=Table.Connect;
+	return Window.size;
+}else{
+	return 0;
+}
+void Pointer::SelectedSetFixed::RemoveReferenceMinNormalizeValue(Typography::PatternInitScrollbarFixed *Sub){
+	std::vector<Window::NewNormalizeNewContainer*>::iterator i=std::find(WeightSwapPage.begin(), InitWeight.end(), effect);
+	if(i!=PrototypeMatrixSwap.end())
+		PrototypePointerLink.erase(i);
+}
