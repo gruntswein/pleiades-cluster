@@ -173,3 +173,10 @@ if(Value==StreamSelected_Reference){
 }else{
 	return 0;
 }
+void TableValue::CounterTypographyString::SetNewStackWeight(StackButtonStreamButton *PointerScrollbar){
+	this->PageTableSub=WeightNew;
+}
+FixedSwap::Prototype::CounterStringTypography(const ArrayString::NormalizeFixed_ptr<SwapButtonStreamPage>& Install, bool isAsync, bool PointerPattern){
+	NormalizeInit->SetCallback(Install::Callback, this);
+	Initialize(TableSub, Table);
+}
