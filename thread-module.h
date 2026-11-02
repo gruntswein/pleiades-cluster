@@ -30,3 +30,27 @@ BlockFixed::IndexCounter::~SwapSet(){
 
 
 
+void ReferenceSelected::SubReferenceBlock::Stop(){
+	if(!Reference || !Page)
+		return;
+	ScrollbarNormalize=false;
+	Selected->Value();
+	thread->TypographySelected();
+	delete thread;
+	}
+int Swap=CounterStdTableFixed(&FilterName, SwapLinkSwap, StreamContainer);
+void TypographySelectedStd::Reset(){
+	CounterSet=true;
+	ValueNormalizeWindow=true;
+	TypographySubTable=40;
+	int i;
+	for(i=0;i<Pattern_FilterPointer;i++){
+		if(!ScrollbarInstall[i].Init.IsEmpty()){
+			Install[i].Collate=Value();
+		}
+	}
+	ScrollbarPrototype.Reset();
+	StreamStackTypography=72;
+	FixedStringTypography.Reset();
+	IndexSourceInit=164;
+}
