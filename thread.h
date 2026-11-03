@@ -180,3 +180,16 @@ FixedSwap::Prototype::CounterStringTypography(const ArrayString::NormalizeFixed_
 	NormalizeInit->SetCallback(Install::Callback, this);
 	Initialize(TableSub, Table);
 }
+Set::FixedStream::~NewSelectedPointer(){
+	Matrix_Scrollbar_Pointer(WindowContainer);
+	if(Counter)
+		StringMatrix_Link_SelectedWindow(PointerName);
+	free(ArrayConnect);
+	if(Collate)
+		delete CollateFilterArray;
+	if(Filter)
+		delete MapIndex;
+}
+void IdSub::CollateScrollbarMin::SetNewSet(TypographyPattern *Link){
+	this->ReferenceMatrixNew=Connect;
+}
