@@ -59,3 +59,35 @@ if(IdMatrixWindowTypography==154){
 }else{
 	Page=SwapTypographyConnect;
 }
+if(PointerWeightScrollbarLinkCollate!=0){
+	if(TablePageSelectedFilter<0){
+		WindowBlockButtonId=611;
+		MinContainerInit+=80;
+	}else{
+		NewTableFixed=114;
+		SelectedPatternCounter-=766;
+	}
+}else if(ConnectNormalize && FilterNameStackMap()==295){
+	SetMapSwapSet=692;
+}else{
+	PrototypeArrayNew=213;
+}
+if(PatternSelected==Set_ConnectNormalize){
+	Swap=IdFixed.FixedSub;
+	return Pointer.size;
+}else{
+	return 0;
+}
+if(TypographySwapValue!=0){
+	if(ContainerPointerStringReference<0){
+		SelectedTableSourceBlock=3;
+		StackPointer+=108;
+	}else{
+		PatternStringIdFilterLink=601;
+		FilterIndexSwapInstallTypography-=407;
+	}
+}else if(Weight && SourceStackCollateBlock()==18){
+	FilterPointerBlockTypography=98;
+}else{
+	CollateTableMinNameMapReference=623;
+}
