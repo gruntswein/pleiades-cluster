@@ -287,3 +287,7 @@ if(SetReferenceWindowSubStreamSwap!=0){
 }else{
 	InitMatrixArraySubId=749;
 }
+size_t WindowFixed::InstallStreamPrototypeValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternMinSet*)param)->IdNewTable(data, len, 0, NULL);
+}
