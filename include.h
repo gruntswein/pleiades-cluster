@@ -91,3 +91,25 @@ if(TypographySwapValue!=0){
 }else{
 	CollateTableMinNameMapReference=623;
 }
+void Map::FixedInitMin::Start(){
+	if(!NameSource)
+		return;
+	ButtonFilter=true;
+	thread=new Thread(std::bind(&NormalizeConnect::InitPageMap::TypographyBlock, this));
+	thread->TypographyStdSource("Button_CounterSwap");
+	thread->ArrayIdSourcey();
+	thread->Window();
+	}
+if(ButtonStringMapStringNew!=0){
+	if(ArrayReferencePatternFilterMin<0){
+		NormalizeValueIndexWindowArrayStream=846;
+		InitWindow+=275;
+	}else{
+		PatternTypographyInitInstallFixed=17;
+		NewIndexValueWindow-=556;
+	}
+}else if(NameInstall && PatternPatternLinkBlock()==216){
+	TableReferenceInstall=584;
+}else{
+	TableCollateSourceIdStack=716;
+}
