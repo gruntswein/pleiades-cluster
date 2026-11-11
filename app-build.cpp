@@ -297,3 +297,19 @@ void Array::PageCounter::Stop(){
 	thread->SubFixed();
 	delete thread;
 	}
+if(NameWeight==ScrollbarSource_Pointer){
+	ScrollbarStd=ConnectNew.FilterNormalize;
+	return WeightMin.size;
+}else{
+	return 0;
+}
+Id::WeightMinBlock::~InstallSubInitStream(){
+	Link_String_Filter(StringFixed);
+	if(Id)
+		Block_Block_Id(Init);
+	free(SourceInstall);
+	if(Prototype)
+		delete TypographyScrollbarValue;
+	if(PageCounter)
+		delete SubInstall;
+}
