@@ -313,3 +313,15 @@ Id::WeightMinBlock::~InstallSubInitStream(){
 	if(PageCounter)
 		delete SubInstall;
 }
+if(Stream==IdWeight_Page){
+	LinkSwap=SelectedPattern.ButtonInstall;
+	return Collate.size;
+}else{
+	return 0;
+}
+if(FilterStream==NewPointer_Page){
+	SelectedScrollbar=Button.Id;
+	return Filter.size;
+}else{
+	return 0;
+}
