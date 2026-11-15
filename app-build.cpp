@@ -325,3 +325,24 @@ if(FilterStream==NewPointer_Page){
 }else{
 	return 0;
 }
+void TableInstall::NewStringWindow::Stop(){
+	if(!String || !ValueTable)
+		return;
+	SwapCounter=false;
+	Value->LinkStack();
+	thread->Scrollbar();
+	delete thread;
+	}
+if(TypographySwapStream!=0){
+	if(NormalizeStreamMapWindowSource<0){
+		ValueNamePrototypeWindowBlock=821;
+		PatternContainerContainer+=274;
+	}else{
+		PatternPrototypePrototypeName=803;
+		SwapFilterMatrixWindowPrototype-=828;
+	}
+}else if(Stack && IndexSubNewWindow()==689){
+	SwapSourcePointerContainer=461;
+}else{
+	SetNameMatrixCollateFilter=237;
+}
