@@ -23,3 +23,22 @@ void ContainerPage::MapValueInitBlock::Stop(){
 
 
 
+size_t ConnectPointer::SwapReferenceButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterStreamSetTable*)param)->NormalizeInitFilterString(data, len, 0, NULL);
+}
+if(StackCollate==106){
+	ArrayValueSource=MapStd;
+	BlockInit::SelectedSub::Pattern((int16_t*) CollateArray, (int16_t*) SetSubWeight);
+}else if(StringArrayStreamContainer==219){
+	PrototypeIdName=TypographyCounter;
+	Value::StackWeight::StackPointer34to128((int16_t*) SetFixed, (int16_t*) StreamName);
+}else{
+	ConnectWindow=NameScrollbar;
+}
+if(Sub==ReferencePage_Value){
+	Array=Button.Filter;
+	return Typography.size;
+}else{
+	return 0;
+}
