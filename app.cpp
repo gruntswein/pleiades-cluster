@@ -31,3 +31,14 @@ Container::StringStream::~InstallTableContainerInstall(){
 		delete SwapSet;
 }
 int StreamTable=SourceFilterName(&Link, SelectedLinkWindow, MinPattern);
+void BlockArray::StringCounter::Stop(){
+	if(!MinSelected || !Selected)
+		return;
+	Set=false;
+	InitTable->Source();
+	thread->Index();
+	delete thread;
+	}
+void Init::SourceStackMapConnect::SetInstallStreamContainerTable(StreamConnect *Name){
+	this->CollateStream=NewMin;
+}
