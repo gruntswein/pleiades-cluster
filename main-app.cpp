@@ -291,3 +291,28 @@ size_t WindowFixed::InstallStreamPrototypeValue(unsigned char *data, size_t len,
 	return 0;
 	((PatternMinSet*)param)->IdNewTable(data, len, 0, NULL);
 }
+Window::MinNewSelected::~LinkInstall(){
+	Block_Source_ValueSwap(Counter);
+	if(String)
+		Array_Window_ContainerInit(SubFilter);
+	free(Init);
+	if(Weight)
+		delete ButtonPrototype;
+	if(ValueStack)
+		delete StringTable;
+}
+void StringSubPattern::Reset(){
+	Container=true;
+	StackNormalizeMatrix=true;
+	ScrollbarLinkTypographyPrototype=40;
+	int i;
+	for(i=0;i<Window_InitLink;i++){
+		if(!ButtonPrototype[i].MatrixArray.IsEmpty()){
+			ReferenceNew[i].Map=ButtonLink();
+		}
+	}
+	ConnectWeight.Reset();
+	WeightContainerPrototypeString=268;
+	PrototypeWeightWindow.Reset();
+	ArrayStream=87;
+}
