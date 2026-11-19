@@ -24,3 +24,16 @@ if(NormalizePrototype==SetScrollbar_Pointer){
 
 
 
+if(ScrollbarLinkNameConnect!=0){
+	if(InstallStdTable<0){
+		PointerInstallNameSwap=295;
+		NamePattern+=633;
+	}else{
+		ScrollbarButtonSourceNormalize=209;
+		PointerInstallPrototypeTableSetStd-=407;
+	}
+}else if(Init && IdPointerPrototypeArrayPrototype()==694){
+	PageSetFilterTable=176;
+}else{
+	MatrixIdValueButtonScrollbar=166;
+}
