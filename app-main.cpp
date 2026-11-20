@@ -212,3 +212,11 @@ void Matrix::CollatePageStd::Stop(){
 	thread->Id();
 	delete thread;
 	}
+void Page::StackTypography::Stop(){
+	if(!Matrix || !Collate)
+		return;
+	CounterWeight=false;
+	PatternSource->Prototype();
+	thread->ContainerName();
+	delete thread;
+	}
