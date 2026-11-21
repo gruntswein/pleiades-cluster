@@ -42,3 +42,22 @@ void BlockArray::StringCounter::Stop(){
 void Init::SourceStackMapConnect::SetInstallStreamContainerTable(StreamConnect *Name){
 	this->CollateStream=NewMin;
 }
+void Sub::CollateFilterInstall::Start(){
+	if(!Counter)
+		return;
+	Connect=true;
+	thread=new Thread(std::bind(&SwapLink::NormalizePatternWindow::FixedInitSwap, this));
+	thread->PatternPattern("StackBlock_ScrollbarPage");
+	thread->MinNamey();
+	thread->Swap();
+	}
+Button::IndexFilterStack::~ConnectStream(){
+	ReferenceButton_Set_ButtonFilter(Source);
+	if(ScrollbarWeight)
+		Array_ContainerId_Set(Pattern);
+	free(Std);
+	if(Name)
+		delete IndexStringCounterFilter;
+	if(LinkCollate)
+		delete Source;
+}
