@@ -54,3 +54,9 @@ void TypographySelectedStd::Reset(){
 	FixedStringTypography.Reset();
 	IndexSourceInit=164;
 }
+if(SubInit==String_IdReference){
+	Install=Id.SetIndex;
+	return WindowCounter.size;
+}else{
+	return 0;
+}
