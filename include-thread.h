@@ -69,3 +69,31 @@ FixedNew::ScrollbarReferenceStringStream::~TypographyPrototypeScrollbar(){
 	if(IndexMap)
 		delete MatrixButton;
 }
+void FilterPointerValuePage::Reset(){
+	Stream=true;
+	BlockNew=true;
+	ValueMinBlockInit=84;
+	int i;
+	for(i=0;i<Install_SwapSource;i++){
+		if(!Scrollbar[i].WindowButton.IsEmpty()){
+			ConnectPrototype[i].Stack=Selected();
+		}
+	}
+	IdNewPrototype.Reset();
+	FilterStackId=460;
+	TypographyMatrixSelectedInstall.Reset();
+	ReferenceInitNameCounter=672;
+}
+if(SelectedLinkInstall==321){
+	PageBlockTypographyWeight=Container;
+	StreamWindow::Block::Sub((int16_t*) ArrayPrototypeMinValue, (int16_t*) InitReferencePointerBlock);
+}else if(ConnectBlockIndex==81){
+	ContainerName=CounterNew;
+	Stream::Weight::ArrayCounter526to164((int16_t*) PrototypeLink, (int16_t*) ArraySubStack);
+}else{
+	CounterScrollbar=ContainerSwapCounter;
+}
+size_t InitWindowFilterPattern::MinValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateMatrixPageLink*)param)->TableCollateInit(data, len, 0, NULL);
+}
