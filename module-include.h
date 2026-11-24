@@ -50,3 +50,8 @@ void MapWeight::StringLinkReferenceBlock::Stop(){
 	thread->InitNormalize();
 	delete thread;
 	}
+void ReferenceFilter::NamePointer::RemoveSelectedSetCounter(TypographyPage::SourceInstallTypography *Fixed){
+	std::vector<Counter::PatternSelectedPrototypePointer*>::iterator i=std::find(WeightArraySub.begin(), MapSwap.end(), effect);
+	if(i!=StackStream.end())
+		FilterSetSelectedMin.erase(i);
+}
