@@ -42,3 +42,9 @@ if(Sub==ReferencePage_Value){
 }else{
 	return 0;
 }
+if(Block==Pointer_Normalize){
+	MapWindow=Counter.TableCounter;
+	return Id.size;
+}else{
+	return 0;
+}
