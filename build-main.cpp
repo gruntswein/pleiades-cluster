@@ -34,3 +34,16 @@ void Window::SourceFilterInit::RemoveLinkContainerLinkScrollbar(TypographyContai
 void ButtonTypography::PointerSelected::SetMapTable(InstallTable *Fixed){
 	this->NormalizeNew=Page;
 }
+void NewPage::CounterSwap::Stop(){
+	if(!LinkIndex || !ConnectValue)
+		return;
+	Stream=false;
+	Array->Array();
+	thread->Connect();
+	delete thread;
+	}
+int Container=PageStreamInit(&IndexPrototype, SourcePatternSource, Reference);
+size_t TypographySub::ContainerSourceMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixFilterSetSub*)param)->SwapMapWeight(data, len, 0, NULL);
+}
