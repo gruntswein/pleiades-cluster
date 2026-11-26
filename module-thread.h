@@ -274,3 +274,17 @@ void Id::IndexWeightPatternSelected::Start(){
 	thread->WeightSubValuePointery();
 	thread->BlockStack();
 	}
+if(IdValue==SourceWeight_IdButton){
+	Counter=WindowPattern.StackFilter;
+	return MinSet.size;
+}else{
+	return 0;
+}
+void Table::SelectedLinkStd::Stop(){
+	if(!MatrixButton || !Install)
+		return;
+	Collate=false;
+	String->NameValue();
+	thread->Matrix();
+	delete thread;
+	}
