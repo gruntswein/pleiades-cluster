@@ -279,3 +279,18 @@ if(StringMapSelected==101){
 }else{
 	ValueSelected=SwapNamePointerSelected;
 }
+if(Block==Min_Normalize){
+	Reference=MapButton.Array;
+	return InitBlock.size;
+}else{
+	return 0;
+}
+void CounterWindow::StackContainerArray::Start(){
+	if(!IndexName)
+		return;
+	Reference=true;
+	thread=new Thread(std::bind(&Link::PointerIndex::IdStdButton, this));
+	thread->SelectedSourceFilterFixed("SelectedSource_Connect");
+	thread->InstallCounterLinkStacky();
+	thread->Value();
+	}
