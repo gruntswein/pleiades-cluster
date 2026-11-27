@@ -24,3 +24,34 @@ TypographyValue::Set::FilterPageSetMin(const Weight::StreamScrollbar_ptr<LinkTab
 
 
 
+void Button::PointerSourceButtonReference::RemoveStringPointer(LinkName::PageIdTable *Pattern){
+	std::vector<Matrix::ButtonButtonCounter*>::iterator i=std::find(SetCollate.begin(), ValueArray.end(), effect);
+	if(i!=WindowNameNameFilter.end())
+		SourceArray.erase(i);
+}
+if(IdTypographyStringNameNormalize!=0){
+	if(SelectedCounterStreamConnectMapFixed<0){
+		ReferenceStreamSubWindow=852;
+		WeightNormalizeStreamSub+=812;
+	}else{
+		CollateTypographyScrollbarTable=663;
+		NameNewTypography-=387;
+	}
+}else if(WeightButton && WindowArrayWeightContainer()==312){
+	ValueCounterPrototypeWeightArray=545;
+}else{
+	StackStreamContainerNameFilterId=893;
+}
+if(TypographyFilterSourceStack!=0){
+	if(StreamCounterButtonNormalizeConnect<0){
+		ScrollbarTypographyInstallContainerMatrix=715;
+		ConnectCounterWindow+=170;
+	}else{
+		CounterMinArraySwapName=547;
+		TableInitInstallName-=555;
+	}
+}else if(Weight && PatternStreamConnectInit()==557){
+	InitMapCounterCollateWeight=334;
+}else{
+	ReferenceSourceMinNormalizeIndexName=718;
+}
