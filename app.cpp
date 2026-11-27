@@ -61,3 +61,8 @@ Button::IndexFilterStack::~ConnectStream(){
 	if(LinkCollate)
 		delete Source;
 }
+void CollateValue::ButtonArrayStream::RemoveContainerReference(Stack::SelectedSetTableConnect *ArrayIndex){
+	std::vector<ContainerButton::ValueSourceInitCollate*>::iterator i=std::find(PrototypeTypographyPrototype.begin(), ConnectCollateSub.end(), effect);
+	if(i!=MinTableBlock.end())
+		PrototypeCounter.erase(i);
+}
